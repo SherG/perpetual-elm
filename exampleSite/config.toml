@@ -9,7 +9,7 @@ google_analytics_id = ""
 google_tag_manager_id = ""
 
   [params.logo]
-  standard = "images/logo.svg"
+  standard = "images/spearfish-logo.png"
   mobile = "images/logo-mobile.svg"
   alt = "Serif - A Hugo Business Theme"
 
