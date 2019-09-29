@@ -6,4 +6,4 @@ intro_image_hide_on_mobile: true
 ---
 # Fast funding for small business
 
-## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+## We help small businesses navigate emergencies and opportunities by getting them the best funding deals. Up to $1 million available.
