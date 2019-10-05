@@ -4,50 +4,51 @@ date: '2018-11-28T15:15:34+10:00'
 draft: false
 featured: true
 ---
-Same day funding possible for $10k to $100k. Payback period is 12 months or longer.
+Get $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. Payback period is 12 months or longer.
 
-If a merchant has good history and no derogatory information, an approval will be obtained 100% of the time. Requires good credit or an approved co-signer.
+Our process gets you business capital with affordable payments and zero friction. 
 
-## What is a syndicated line of credit?
+Tired of dealing with an endless series of faxes, phone calls, and a pile of documents to sign? Our proprietary process is completed in a few easy steps. 
+
+## What's required to get an SLOC?
+
+If a merchant has good history and no derogatory information, an approval will likely be obtained. Requires good credit (700 or above) or an approved co-signer.
+
+## What is a syndicated line of credit (SLOC)?
 
 A syndicated line of credit is a loan backed by a group of investors. The loan comes in the form of a credit card that can be used as cash.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Uses for SLOC include: 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. Startup funding
+2. Expansion of business operations
+3. Bridge capital
+4. Replacing critical equipment (such as a restaurant stove) without having to wait for a bank loan.
+5. Opening a second location
 
 ## What to expect when you apply for an SLOC
 
-If the paperwork is completed before noon, it's possible to receive funding the same day. \
-\
+You'll apply online, get fast approval and same day funding.
+
+Our process requires very limited asset verification, no business appraisal and little to no paperwork. The process is simple.
+
+1. You'll fill out a short online application form that's secure and private
+2. You'll electronically authorize your transaction
+3. Our proprietary funding system will get you funded fast
+4. Once approved and finalized, our syndicated network of investors instantly deposits funds to your bank account for immediate use.
+
+If the process is completed before noon, it's possible to receive funding the same day. 
+
+Get started now: book a phone appointment with one of our funding specialists.
+
+### What about derogatory credit information?
+
 Some merchants we work with have good history but have derogatory information in their credit. In this event, it may be possible to get that derogatory information removed and still get approval and a good deal. This process usually takes a few weeks.
 
-* Parens est studiisque interea
-* Pro istis mediis carnes iste nec imperat
-* Te vocas orat nisi quantumque castra
-* Gestumque crepuscula esse videntur coegit
-* Ambo videtque gerat aquae ferens vagina
-* Adde leviter faciam tetigisse regunt concava in
+## Apply for an SLOC first
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+If you're interested in an SLOC it's best to apply for it first, before applying for other forms of funding, like a merchant cash advance or loan. That's because those other inquiries will be added to your credit report which may make it harder to get the deal approved.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
-
-## What is the maximum amount available via an SLOC? 
+## What is the maximum amount available via an SLOC?
 
 With good credit it's possible to obtain up to $300,000 if the merchant uses 2 additional guarantors. In other words, the merchant will have to have 2 or 3 additional cosigners with perfect credit no exceptions.
