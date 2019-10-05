@@ -4,7 +4,9 @@ date: '2018-11-28T15:15:34+10:00'
 draft: false
 featured: true
 ---
-Get $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. Payback period is 12 months or longer.
+Get $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
+
+Payback period is 12 months or longer.
 
 Our process gets you business capital with affordable payments and zero friction. 
 
@@ -41,7 +43,7 @@ If the process is completed before noon, it's possible to receive funding the sa
 
 Get started now: book a phone appointment with one of our funding specialists.
 
-### What about derogatory credit information?
+### Will derogatory credit information affect my application?
 
 Some merchants we work with have good history but have derogatory information in their credit. In this event, it may be possible to get that derogatory information removed and still get approval and a good deal. This process usually takes a few weeks.
 
