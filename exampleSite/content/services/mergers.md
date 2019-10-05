@@ -43,14 +43,22 @@ If the process is completed before noon, it's possible to receive funding the sa
 
 Get started now: book a phone appointment with one of our funding specialists.
 
-### Will derogatory credit information affect my application?
+## Will derogatory credit information affect my application?
 
-Some merchants we work with have good history but have derogatory information in their credit. In this event, it may be possible to get that derogatory information removed and still get approval and a good deal. This process usually takes a few weeks.
+Some merchants we work with have good history but have derogatory information in their credit. 
+
+In this event, it may be possible to get that derogatory information removed and still get approval and a good deal. This process usually takes a few weeks.
 
 ## Apply for an SLOC first
 
-If you're interested in an SLOC it's best to apply for it first, before applying for other forms of funding, like a merchant cash advance or loan. That's because those other inquiries will be added to your credit report which may make it harder to get the deal approved.
+If you're interested in an SLOC it's best to apply for it first, before applying for other forms of fast funding, like a merchant cash advance. This is because other inquiries will be added to your credit report which may make it harder to get an SLCO approved.
 
 ## What is the maximum amount available via an SLOC?
 
 With good credit it's possible to obtain up to $300,000 if the merchant uses 2 additional guarantors. In other words, the merchant will have to have 2 or 3 additional cosigners with perfect credit no exceptions.
+
+## Combination funding
+
+If you want more than $100k and don't want to use additional guarantors, we may be able to structure a deal for you that provides you with funding from more than one source. 
+
+For example, a business owner may opt for $300k via a low-interest SBA loan and cover immediate funding needs with a 24-hour merchant cash advance, SLOC, or invoice factoring.
