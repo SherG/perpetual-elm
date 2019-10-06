@@ -18,7 +18,7 @@ Line of credit: Get up to $150k per round.
 * You can cash the fund out and use credit card to pay employees, business bills,
   or buying things for your business.
 
-## Funding for existing businesses: Term Loan =
+## Funding for existing businesses: Term Loan 
 
 We offer the same fast process for existing businesses.
 
