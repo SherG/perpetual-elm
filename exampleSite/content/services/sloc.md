@@ -3,6 +3,7 @@ title: SLOC
 date: 2019-10-05T04:15:34.000Z
 draft: false
 featured: true
+weight: 1
 ---
 Get business capital with affordable payments and zero friction. $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
 
@@ -10,14 +11,17 @@ Payback period is 12 months or longer.
 
 Tired of dealing with an endless series of faxes, phone calls, and a pile of documents to sign? Our proprietary process is completed in a few easy steps. 
 
+Step 1: Book a phone appointment with one of our funding specialists: 
+
 <!-- Calendly inline widget begin -->
+
 <div class="calendly-inline-widget" data-url="https://calendly.com/spearfish/consultation" style="min-width:320px;height:730px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- Calendly inline widget end --><br/>
 
 ## What's required to get an SLOC?
 
-If a merchant has good history and no derogatory information, an approval will likely be obtained. Requires good credit (700 or above) or an approved co-signer.
+Good credit (700 or above) or an approved co-signer.
 
 ## What is a syndicated line of credit (SLOC)?
 
