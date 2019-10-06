@@ -1,5 +1,5 @@
 ---
-title: Matteo Riccini
+title: Placeholder
 date: '2018-11-19T10:47:58+10:00'
 image: /images/spearfish-funding.png
 jobtitle: COO
