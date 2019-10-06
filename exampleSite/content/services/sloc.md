@@ -1,6 +1,6 @@
 ---
 title: SLOC
-date: '2018-11-28T15:15:34+10:00'
+date: 2019-10-05T04:15:34.000Z
 draft: false
 featured: true
 ---
