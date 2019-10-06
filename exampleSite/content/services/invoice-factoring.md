@@ -8,7 +8,7 @@ Did you know that you if your business sells B2B or B2G you can sell your accoun
 
 For businesses selling on 30, 60, or 90-day terms, invoice factoring can solve important cash flow problems, like meeting payroll, paying suppliers on time, and covering overhead and other expenses. 
 
-Not all invoice factoring providers offer the same benefits though.
+Factoring can also enable small businesses to take advantage of growth opportunities that require bridge capital.
 
 ## How does invoice factoring work?
 
@@ -18,19 +18,12 @@ You'll submit your invoices and supporting documentation. If it's received by no
 2. You'll receive between 80% - 90% of the invoice value the same day or typically, within 24 hours. The amount you receive depends on your situation. 
 3. Once the customer pays their invoice you receive the _remaining amount_, minus a small fee for the service. 
 
+In invoice factoring, it's your _**customer's credit score**_ that's key. 
+
 ## Removing the credit risk: non-recourse factoring
 
-Our process includes credit risk insurance. This form of factoring is called "non-recourse factoring."
+Factoring that includes credit risk insurance is called "non-recourse factoring." 
 
-With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment. (By contrast, factoring services that don't carry credit risk insurance, offer you "full recourse" factoring, which means you would be held liable for the full amount of the invoice.)
+With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+ By contrast "full recourse" factoring holds you liable for the full amount of the invoice.
