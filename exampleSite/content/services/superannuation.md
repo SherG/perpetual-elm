@@ -10,7 +10,7 @@ For businesses selling on 30, 60, or 90-day terms, invoice factoring can solve i
 
 Not all invoice factoring providers offer the same benefits though.
 
-## How does invoice factoring work? -
+## How does invoice factoring work? 
 
 You'll submit your invoices and supporting documentation. If it's received by noon, you can get funded the same day. 
 
