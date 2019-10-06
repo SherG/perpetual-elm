@@ -10,6 +10,11 @@ Payback period is 12 months or longer.
 
 Tired of dealing with an endless series of faxes, phone calls, and a pile of documents to sign? Our proprietary process is completed in a few easy steps. 
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/spearfish/consultation" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
 ## What's required to get an SLOC?
 
 If a merchant has good history and no derogatory information, an approval will likely be obtained. Requires good credit (700 or above) or an approved co-signer.
@@ -46,11 +51,6 @@ Get started now: book a phone appointment with one of our funding specialists.
 Some merchants we work with have good history but have derogatory information in their credit. 
 
 In this event, it may be possible to get that derogatory information removed and still get approval and a good deal. This process usually takes a few weeks.
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/spearfish/consultation" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
 
 ## Apply for an SLOC first
 
