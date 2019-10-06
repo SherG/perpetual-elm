@@ -4,13 +4,13 @@ date: '2018-11-28T15:14:54+10:00'
 draft: false
 featured: true
 ---
-Did you know that you if your business sells B2B or B2G (business-to-government) you can sell your accounts receivables (AR) and get cash the same day or within 24 hours? This process is called "invoice factoring." 
+Did you know that you if your business sells B2B or B2G you can sell your accounts receivables (AR) and get cash the same day or within 24 hours? This process is called "invoice factoring." 
 
 For businesses selling on 30, 60, or 90-day terms, invoice factoring can solve important cash flow problems, like meeting payroll, paying suppliers on time, and covering overhead and other expenses. 
 
 Not all invoice factoring providers offer the same benefits though.
 
-## How does invoice factoring work? 
+## How does invoice factoring work?
 
 You'll submit your invoices and supporting documentation. If it's received by noon, you can get funded the same day. 
 
