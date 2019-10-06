@@ -13,6 +13,8 @@ Our streamlined process can get you approved quickly. Get up to $150k per round.
 * Get an offer in as little as 24 hours. Funding process typically takes 5-10 business days. 
 * The funding you receive does not appear on your personal credit report. 
 
+> Our process can get you funded fast, even if you've been turned down by a bank.
+
 ## Funding for existing businesses
 
 We offer the same fast process for existing businesses.
