@@ -5,13 +5,13 @@
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "We Start With the Problem",
+    "description": "Then we provide a solution.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
+    {
+    "title": "Easy application process",
+    "description": "Streamlined process takes minimal time.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
 ]
