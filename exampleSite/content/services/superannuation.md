@@ -10,7 +10,7 @@ For businesses selling on 30, 60, or 90-day terms, invoice factoring can solve i
 
 Not all invoice factoring providers offer the same benefits though.
 
-## How does invoice factoring work?
+## How does invoice factoring work? -
 
 You'll submit your invoices and supporting documentation. If it's received by noon, you can get funded the same day. 
 
@@ -23,8 +23,6 @@ You'll submit your invoices and supporting documentation. If it's received by no
 Our process includes credit risk insurance. This form of factoring is called "non-recourse factoring."
 
 With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment. (By contrast, factoring services that don't carry credit risk insurance, offer you "full recourse" factoring, which means you would be held liable for the full amount of the invoice.)
-
-
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
