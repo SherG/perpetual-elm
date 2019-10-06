@@ -9,7 +9,7 @@ Get business capital with affordable payments and zero friction. $10k to $100k. 
 
 Payback period is 12 months or longer.
 
-Tired of dealing with an endless series of faxes, phone calls, and a pile of documents to sign? Our proprietary process is completed in a few easy steps. 
+Tired of dealing with mountains of faxes, phone calls, and documents to sign? Our proprietary process is completed in a few easy steps. 
 
 Step 1: Book a phone appointment with one of our funding specialists: 
 
