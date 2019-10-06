@@ -4,11 +4,9 @@ date: '2018-11-28T15:15:34+10:00'
 draft: false
 featured: true
 ---
-Get $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
+Get business capital with affordable payments and zero friction. $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
 
 Payback period is 12 months or longer.
-
-Get you business capital with affordable payments and zero friction. 
 
 Tired of dealing with an endless series of faxes, phone calls, and a pile of documents to sign? Our proprietary process is completed in a few easy steps. 
 
