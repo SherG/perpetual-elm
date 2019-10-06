@@ -4,41 +4,27 @@ date: '2018-11-28T15:14:54+10:00'
 draft: false
 featured: true
 ---
+Did you know that you if your business sells B2B or B2G (business-to-government) you can sell your accounts receivables (AR) and get cash the same day or within 24 hours? This process is called "invoice factoring." 
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+For businesses selling on 30, 60, or 90-day terms, invoice factoring can solve important cash flow problems, like meeting payroll, paying suppliers on time, and covering overhead and other expenses. 
 
-## Ne verba patulosque numen vix libet
+Not all invoice factoring providers offer the same benefits though.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## How does invoice factoring work?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+You'll submit your invoices and supporting documentation. If it's received by noon, you can get funded the same day. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. Your invoices are purchased at a small discount
+2. You'll receive between 80% - 90% of the invoice value the same day or typically, within 24 hours. The amount you receive depends on your situation. 
+3. Once the customer pays their invoice you receive the _remaining amount_, minus a small fee for the service. 
 
-## Postquam tamen
+## Removing the credit risk: non-recourse factoring
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Our process includes credit risk insurance. This form of factoring is called "non-recourse factoring."
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment. (By contrast, factoring services that don't carry credit risk insurance, offer you "full recourse" factoring, which means you would be held liable for the full amount of the invoice.)
+
+
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
