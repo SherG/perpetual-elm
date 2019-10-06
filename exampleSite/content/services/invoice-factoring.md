@@ -26,4 +26,4 @@ Factoring that includes credit risk insurance is called "non-recourse factoring.
 
 With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment.
 
- By contrast "full recourse" factoring holds you liable for the full amount of the invoice.
+ By contrast, "full recourse" factoring holds you liable for the full amount of the invoice should your customer fail to pay.
