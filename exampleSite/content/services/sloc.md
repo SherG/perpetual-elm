@@ -59,4 +59,4 @@ With good credit it's possible to obtain up to $300,000 if the merchant uses 2 a
 
 If you want more than $100k and don't want to use additional guarantors, we may be able to structure a deal for you that provides you with funding from more than one source. 
 
-For example, a business owner may opt for $300k via a low-interest SBA loan and cover immediate funding needs with a 24-hour merchant cash advance, SLOC, or invoice factoring.
+For example, a business owner may opt for $300k via a low-interest [SBA loan](/services/sba-loan/) and cover immediate funding needs with a 24-hour [merchant cash advance](/services/merchant-cash-advance/), SLOC, or [invoice factoring](/services/invoice-factoring/).
