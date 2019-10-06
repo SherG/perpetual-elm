@@ -2,9 +2,9 @@
 title: LOC and Term loans
 date: 2019-10-06T01:23:23.907Z
 ---
-Our streamlined process can get you approved in hours - not weeks.
+Our streamlined process can get you approved in _hours_ - not weeks. Apply in the morning. Get an estimate in the afternoon.
 
-Working capital for startups and established entrepreneurs with credit scores of 700+.
+* Working capital for startups and established entrepreneurs with credit scores of 700+.
 
 ## Startup funding: Line of Credit (LOC)
 
@@ -18,7 +18,7 @@ Line of credit: Get up to $150k per round.
 * You can cash the fund out and use credit card to pay employees, business bills,
   or buying things for your business.
 
-## Funding for existing businesses: Term Loan 
+## Funding for existing businesses: Term Loan
 
 We offer the same fast process for existing businesses.
 
