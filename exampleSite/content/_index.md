@@ -6,5 +6,4 @@ intro_image_hide_on_mobile: true
 ---
 # Fast funding for small business
 
-## Whether you're solving an emergency or moving on a  big opportunity, we help you get the best funding deal <em>fast</em>. Up to $2 million available.
-
+## Whether you have an emergency or a  big opportunity, we help you get the best funding deal <em>fast</em>. Up to $5 million available.
