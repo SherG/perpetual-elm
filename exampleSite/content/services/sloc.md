@@ -8,7 +8,7 @@ Get $10k to $100k. Same-day funding possible. Most merchants receive funding bet
 
 Payback period is 12 months or longer.
 
-Our process gets you business capital with affordable payments and zero friction. 
+Get you business capital with affordable payments and zero friction. 
 
 Tired of dealing with an endless series of faxes, phone calls, and a pile of documents to sign? Our proprietary process is completed in a few easy steps. 
 
