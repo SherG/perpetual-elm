@@ -27,5 +27,6 @@ We offer the same fast process for existing businesses.
   corporation)
 * Good credit required
 * Cash loan: money is deposited directly to your account
-* 5-7 year terms 
+* Term: 5-7 years
+* Payments: 1% - 2% of amount approved 
 * Loan is reported on personal credit
