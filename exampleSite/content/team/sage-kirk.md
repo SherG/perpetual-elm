@@ -1,5 +1,5 @@
 ---
-title: Eric Jeffries
+title: Matteo Riccini
 date: '2018-11-19T10:47:58+10:00'
 image: /images/spearfish-funding.png
 jobtitle: COO
