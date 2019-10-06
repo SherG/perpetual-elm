@@ -2,7 +2,7 @@
 title: LOC and Term loans
 date: 2019-10-06T01:23:23.907Z
 ---
-Our streamlined process can get you approved in _hours_ - not weeks. Apply in the morning. Get an estimate in the afternoon.
+Our streamlined process can get you approved in _hours_ - not weeks. Apply in the morning. Get an estimate in the afternoon. 97% funding approval rate.
 
 * Working capital for startups and established entrepreneurs with credit scores of 700+.
 
@@ -30,3 +30,15 @@ We offer the same fast process for existing businesses.
 * Term: 5-7 years
 * Payments: 1% - 2% of amount approved 
 * Loan is reported on personal credit
+
+## No restrictions on funding use
+
+Use your funding as you see fit: 
+
+* Expansion
+* Vehicles
+* Advertising
+* Staff
+* Payroll
+* Remodeling
+* Emergencies
