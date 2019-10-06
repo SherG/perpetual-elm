@@ -47,6 +47,11 @@ Some merchants we work with have good history but have derogatory information in
 
 In this event, it may be possible to get that derogatory information removed and still get approval and a good deal. This process usually takes a few weeks.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/spearfish/consultation" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
 ## Apply for an SLOC first
 
 If you're interested in an SLOC it's best to apply for it first, before applying for other forms of fast funding, like a merchant cash advance. This is because other inquiries will be added to your credit report which may make it harder to get an SLCO approved.
