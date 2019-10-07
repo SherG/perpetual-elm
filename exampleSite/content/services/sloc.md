@@ -11,13 +11,11 @@ Payback period is 12 months or longer.
 
 Tired of dealing with mountains of faxes, phone calls, and documents to sign? Our proprietary process is completed in a few easy steps. 
 
-Step 1: Book a phone appointment with one of our funding specialists: 
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/spearfish/consultation" style="min-width:320px;height:730px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end --><br/>
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">Step 1:<mark>	Book a phone appointment with one of our funding specialists</mark>.</a>
+<!-- Calendly link widget end -->
 
 ## What's required to get an SLOC?
 
