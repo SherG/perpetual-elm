@@ -1,7 +1,7 @@
 ---
 title: Services
 date: 2019-10-09T08:20:17.690Z
-image: /images/small-business-growth.svg
+image: ''
 ---
 
 # Services that grow with your business
