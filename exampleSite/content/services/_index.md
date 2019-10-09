@@ -1,7 +1,7 @@
 ---
 title: Services
 date: 2019-10-09T08:20:17.690Z
-image: /undraw_selection_92i4.svg
+image: images/undraw_selection_92i4.svg
 ---
 # Services that fuel business growth
 
