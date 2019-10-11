@@ -11,9 +11,10 @@ For businesses selling on 30, 60, or 90-day terms, invoice factoring can solve i
 Factoring can also enable small businesses to take advantage of growth opportunities that require bridge capital.
 
 <!-- Calendly link widget begin -->
+
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book an appointment with one of our funding experts</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment us to get funding options</mark>.</a>
 <!-- Calendly link widget end -->
 
 ## How does invoice factoring work?
@@ -24,7 +25,7 @@ You'll submit your invoices and supporting documentation. If it's received by no
 2. You'll receive between 80% - 90% of the invoice value the same day or typically, within 24 hours. The amount you receive depends on your situation. 
 3. Once the customer pays their invoice you receive the _remaining amount_, minus a small fee for the service. 
 
-In invoice factoring, it's your **_customer's credit score_** that's key. 
+In invoice factoring, it's your _**customer's credit score**_ that's key. 
 
 ## Removing the credit risk: non-recourse factoring
 
@@ -32,4 +33,4 @@ Factoring that includes credit risk insurance is called "non-recourse factoring.
 
 With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment.
 
- By contrast, "full recourse" factoring holds you liable for the full amount of the invoice should your customer fail to pay.
+By contrast, "full recourse" factoring holds you liable for the full amount of the invoice should your customer fail to pay.
