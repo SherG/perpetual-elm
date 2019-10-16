@@ -1,10 +1,7 @@
 ---
-title: 'Services'
-intro_image: images/small-business-growth.svg
-intro_image_absolute: false
-intro_image_hide_on_mobile: true
+title: Services
+date: 2019-10-16T06:12:08.307Z
 ---
-
 # Services that fuel business growth
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We use innovative processes to speed funding to you so you can stay focused on what matters most: growing your business and providing value to your customers.
