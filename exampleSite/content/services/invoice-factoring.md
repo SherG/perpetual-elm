@@ -14,7 +14,7 @@ Factoring can also enable small businesses to take advantage of growth opportuni
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment us to get funding options</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Get funding options: book a phone appointment with us</mark>.</a>
 <!-- Calendly link widget end -->
 
 ## How does invoice factoring work?
