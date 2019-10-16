@@ -9,7 +9,7 @@ Good credit, no credit, and bad credit -- we'll deliver options quickly.
 
 Our innovative solutions include purchasing B2B accounts receivables for immediate cash and syndicated lines of credit for startups.
 
-## Small businesses and bank loans
+## Innovative Finance
 
 Heavy losses from the 2008 recession - innovation - banks turned away 
 
