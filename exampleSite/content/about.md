@@ -1,17 +1,17 @@
 ---
 title: About
+date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
+Spearfish makes it easy for small businesses to get the funding they need -- _fast_. 
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Good credit, no credit, and bad credit -- we'll deliver options quickly.
 
-## Ne verba patulosque numen vix libet
+Our innovative solutions include purchasing B2B accounts receivables for immediate cash and syndicated lines of credit for startups.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Small businesses and bank loans
+
+Heavy losses from the 2008 recession - innovation - banks turned away 
 
 1. Cum det dixit Parcarum qui spemque est
 2. Exit ex huic
@@ -31,12 +31,12 @@ Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
 licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+* Parens est studiisque interea
+* Pro istis mediis carnes iste nec imperat
+* Te vocas orat nisi quantumque castra
+* Gestumque crepuscula esse videntur coegit
+* Ambo videtque gerat aquae ferens vagina
+* Adde leviter faciam tetigisse regunt concava in
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
