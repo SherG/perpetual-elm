@@ -9,4 +9,4 @@ draft: false
 ---
 # Services that fuel business growth
 
-We use innovative processes to speed funding to you so you can stay focused on what matters most: growing your business and providing value to your customers.
+We use innovation to speed funding to you so you can stay focused on what matters: growing your business and providing value to your customers.
