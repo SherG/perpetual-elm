@@ -1,5 +1,5 @@
 ---
-title: LOC and Term loans
+title: LOC and Term Loans
 date: 2019-10-06T01:23:23.907Z
 ---
 Our streamlined process can get you approved in _hours_ - not weeks. Apply in the morning. Get an estimate in the afternoon. 97% funding approval rate.
