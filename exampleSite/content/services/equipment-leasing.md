@@ -22,7 +22,7 @@ Your equipment leasing options are:
 
 Below are some typical industries we serve and common types of equipment requests we process. (This is not an exhaustive list.) 
 
-Exclusions: anything that "shoots, flies, or floats." 
+Exclusions: guns, boats, planes.
 
 ### Construction
 
