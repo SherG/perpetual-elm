@@ -25,7 +25,7 @@ We focus on two options: capital lease or operating lease.
 
 ### Equipment Finance Agreement (EFA)
 
-<p></p>Capital Lease: Through an Equipment Finance Agreement (EFA) you make monthly payments over a term period of years and own the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
+<br/>Capital Lease: Through an Equipment Finance Agreement (EFA) you make monthly payments over a term period of years and own the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
 
 This option is an on balance sheet structure. Equipment is recorded as an asset and can be depreciated, which means the payments are not fully tax-deductible. 
 
