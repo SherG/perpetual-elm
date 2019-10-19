@@ -43,7 +43,7 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 * Trucks and plows
 * Snowblowers
-* Salting/sanding equipment including conveyor chain spreaders and hopper spreaders)
+* Salting/sanding equipment including conveyor chain spreaders and hopper spreaders
 * Landscaping vehicles and equipment
 
 ### Restaurants
