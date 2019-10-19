@@ -20,7 +20,9 @@ Your equipment leasing options are:
 * Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.)
 * Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
 
-Below are some typical industries we serve and types of equipment requests we process.
+Below are some typical industries we serve and common types of equipment requests we process. (This is not an exhaustive list.) 
+
+Exclusions: anything that "shoots, flies, or floats." 
 
 ### Construction
 
@@ -45,6 +47,21 @@ Below are some typical industries we serve and types of equipment requests we pr
 * De-icing/salting/sanding equipment including conveyor chain spreaders and hopper spreaders
 * Snowblowers
 * Landscaping vehicles and equipment
+
+Retail
+
+* Fixtures
+* Signage
+* POS systems
+* Alarms and security technology
+
+Healthcare
+
+* Emergency vehicles
+* Medical diagnostic equipment
+* Dental equipment
+* X-Ray machines
+* Software
 
 ### Restaurants
 
