@@ -41,7 +41,7 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 * Trucks and plows
 * Snowblowers
-* Sanding equipment 
+* Salting/sanding equipment 
 * Landscaping vehicles and equipment
 
 ### Restaurants
