@@ -15,7 +15,7 @@ These include (but are not limited to):
 
 ## Equipment Leasing
 
-* Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease.)
+* Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.)
 * Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment or replace it with a new version.
 
 Below are some typical industries we serve and types of equipment requests we process.
