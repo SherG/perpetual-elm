@@ -61,7 +61,7 @@ Exclusions: guns, boats, planes.
 
 ### Healthcare
 
-* Emergency vehicles
+* Ambulances
 * Medical diagnostic equipment
 * Dental equipment
 * X-Ray machines
