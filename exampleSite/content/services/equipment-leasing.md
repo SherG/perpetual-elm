@@ -30,9 +30,7 @@ This option is an on balance sheet structure. Equipment is recorded as an asset 
 
 #### Section 179: Deduct Up to $1 Million
 
-However, thanks to Section 179 of the IRS tax code, you can deduct the full purchase price of qualifying equipment and software from your gross revenue. In addition, you can deduct 100% of the depreciation. 
-
-This can save you hundreds of thousands of dollars on your equipment purchases. 
+However, thanks to Section 179 of the IRS tax code, you can deduct the full purchase price of qualifying equipment and software from your gross revenue. You can also deduct 100% of the depreciation. 
 
 Here's an example of how Section 179 works:
 
