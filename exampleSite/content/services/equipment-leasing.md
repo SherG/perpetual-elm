@@ -65,9 +65,15 @@ Here's an example of how Section 179 works:
   </tr>
 </table>
 
-### Operating Lease
+### Fair Market Value (FMV)
 
-This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
+This is the lower cost option. Through an operating lease, you make monthly payments on the equipment. 
+
+At the end of the term you have the option to buy the equipment at fair market value, return the equipment, finance it again, or lease new equipment.
+
+This is a good option for businesses that regularly upgrade to recent models. 
+
+This is off-balance sheet financing. The monthly payments are 100% tax deductible. 
 
 ## Fast Funding
 
