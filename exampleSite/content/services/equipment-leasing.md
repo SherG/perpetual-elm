@@ -70,7 +70,7 @@ At the end of the term you have the option to buy the equipment at fair market v
 
 This is a good option for businesses that regularly upgrade to recent models. 
 
-This is off-balance sheet financing. The monthly payments are 100% tax deductible. 
+This is off-balance sheet financing. Most FMV lease payments are 100% tax deductible. 
 
 ## Fast Funding
 
