@@ -22,15 +22,17 @@ Purchasing assets with cash presents unique risks to the business owner, includi
 
 We focus on two options: capital lease or operating lease. 
 
-### Capital Lease
+### Equipment Finance Agreement (EFA)
 
-Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
+Capital Lease: Through an Equipment Finance Agreement (EFA) you make monthly payments over a term period of years and own the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
 
-This option is an on balance sheet structure. Equipment can be recorded as an asset and depreciated, which means the payments are not fully tax-deductible. 
+This option is an on balance sheet structure. Equipment is recorded as an asset and can be depreciated, which means the payments are not fully tax-deductible. 
 
 #### Section 179: Deduct Up to $1 Million
 
-However, thanks to Section 179 of the IRS tax code, you can deduct the full purchase price of qualifying equipment and software from your gross revenue. This can save you hundreds of thousands of dollars on your equipment purchases. 
+However, thanks to Section 179 of the IRS tax code, you can deduct the full purchase price of qualifying equipment and software from your gross revenue. In addition, you can deduct 100% of the depreciation. 
+
+This can save you hundreds of thousands of dollars on your equipment purchases. 
 
 Here's an example of how Section 179 works:
 
@@ -64,8 +66,6 @@ Here's an example of how Section 179 works:
     <td></td>
   </tr>
 </table>
-
-
 
 ### Operating Lease
 
