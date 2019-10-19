@@ -15,9 +15,7 @@ These include:
 
 Purchasing assets with cash presents unique risks to the business owner, including tying capital up.
 
-Equipment financing can be a risk management solution which frees cash up for other operations like inventory, marketing, and hiring. 
-
-Using a capital lease to finance can yield significant cash savings, thanks to IRS Section 179. 
+Equipment financing can mitigate related risks and free cash up for other operations like inventory, marketing, and hiring. 
 
 ## Equipment Finance Structures
 
