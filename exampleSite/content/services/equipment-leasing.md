@@ -20,10 +20,11 @@ Purchasing assets with cash presents unique risks to the business owner, includi
 
 ## Equipment Finance Structures
 
-1. Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
-2. Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
+We focus on two options: capital lease or operating lease. 
 
 ### Capital Lease
+
+Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
 
 This option is an on balance sheet structure. Equipment can be recorded as an asset and depreciated, which means the payments are not fully tax-deductible. 
 
@@ -64,7 +65,11 @@ Here's an example of how Section 179 works:
   </tr>
 </table>
 
-### 
+
+
+### Operating Lease
+
+This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
 
 ## Fast Funding
 
