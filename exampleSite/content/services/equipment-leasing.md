@@ -48,14 +48,14 @@ Exclusions: anything that "shoots, flies, or floats."
 * Snowblowers
 * Landscaping vehicles and equipment
 
-Retail
+### Retail
 
 * Fixtures
 * Signage
 * POS systems
 * Alarms and security technology
 
-Healthcare
+### Healthcare
 
 * Emergency vehicles
 * Medical diagnostic equipment
