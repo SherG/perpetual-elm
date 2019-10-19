@@ -18,7 +18,7 @@ These include (but are not limited to):
 Your equipment leasing options are:
 
 * Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.)
-* Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment or replace it with a new version.
+* Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
 
 Below are some typical industries we serve and types of equipment requests we process.
 
