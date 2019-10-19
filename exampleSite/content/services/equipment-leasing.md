@@ -7,7 +7,7 @@ weight: 1
 ---
 There are multiple ways to obtain the equipment you need for your business.
 
-These include (but are not limited to):
+These include:
 
 1. Equipment leasing
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
