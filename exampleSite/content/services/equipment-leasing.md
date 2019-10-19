@@ -5,13 +5,17 @@ draft: false
 featured: true
 weight: 1
 ---
-There are multiple ways to obtain the equipment you need for your business. 
+There are multiple ways to obtain the equipment you need for your business.
 
 These include (but are not limited to):
 
 1. Equipment leasing
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
 3. [Invoice Factoring ](/services/invoice-factoring)
+
+Purchasing assets with cash presents unique risks to the business owner, including tying capital up. 
+
+Equipment financing can be a risk management solution which frees cash up for other operations like inventory, marketing, and hiring. 
 
 ## Equipment Leasing
 
