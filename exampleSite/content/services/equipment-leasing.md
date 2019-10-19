@@ -13,7 +13,6 @@ There are multiple ways to finance the equipment you need for your business. The
 * Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment or replace it with a new version.
 
 2. Syndicated Line of Credit (SLOC)
-
 3. Invoice Factoring 
 
 ## Types of Equipment and Industries
@@ -22,13 +21,15 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 ### Construction
 
-* 'Yellow iron'
+* Yellow iron: Motor graders, Excavators, bull dozers, wheel loaders, dumpers, loader backhoes, compact track loaders, crawler loaders, etc.
 * Trucks
 * Rock crushers
-* Tools
 * Plumbing-related equipment
 * Cement mixers
 * Electrical-related equipment 
+* Mixed fleet data solutions (software)
+* Drones
+* Tools
 
 ### Manufacturing
 
