@@ -41,7 +41,7 @@ Exclusions: anything that "shoots, flies, or floats."
 * CNC machines
 * Conveyors
 
-### Snow Removal and Landscaping 
+### Snow Removal and Landscaping
 
 * Trucks, snowplows and related accessories
 * De-icing/salting/sanding equipment including conveyor chain spreaders and hopper spreaders
@@ -63,12 +63,14 @@ Exclusions: anything that "shoots, flies, or floats."
 * X-Ray machines
 * Software
 
-### Restaurants
+### Restaurants and Bars
 
-* Hood vents
-* Walk-in coolers
-* Refrigerators / Stoves
+* Cooking and Refrigeration equipment including walk-in coolers
+* Commercial sinks, work tables, and beverage equipment
+* Food display and merchandising equipment
+* Dishwashing equipment
 * POS systems
+* Security systems
 * Furniture
 
 ### OTR Trucking
