@@ -55,7 +55,7 @@ Here's an example of how Section 179 works:
   </tr>
   <tr>
     <td>Equipment cost after tax: <br>(Assuming a 35% tax bracket)</td>
-    <td>$747,500</td>
+    <td><mark>$747,500</mark></td>
   </tr>
   <tr>
     <td></td>
