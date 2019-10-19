@@ -1,23 +1,22 @@
 ---
-title: Equipment leasing
+title: Equipment financing and leasing
 date: '2018-11-18T12:33:46+10:00'
 draft: false
 featured: true
 weight: 1
 ---
-There are multiple ways to finance the equipment you need for your business. 
+There are multiple ways to obtain the equipment you need for your business. 
 
 These include (but are not limited to):
 
-1. Equipment Leasing
-
-* Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. 
-* Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment or replace it with a new version.
-
+1. Equipment leasing
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
 3. [Invoice Factoring ](/services/invoice-factoring)
 
-## Types of Equipment and Industries
+## Equipment Leasing
+
+* Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. 
+* Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment or replace it with a new version.
 
 Below are some typical industries we serve and types of equipment requests we process.
 
