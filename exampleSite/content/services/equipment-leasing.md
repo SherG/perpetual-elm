@@ -36,7 +36,7 @@ Below are some typical industries we serve and types of equipment requests we pr
 * CNC machines
 * Conveyors
 
-Snow Removal and Snow Grooming
+### Snow Removal and Snow Grooming
 
 * Trucks and plows
 * Piste Snow Groomers
