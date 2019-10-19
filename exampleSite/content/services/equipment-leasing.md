@@ -9,7 +9,7 @@ There are multiple ways to obtain the equipment you need for your business.
 
 These include:
 
-1. Equipment leasing
+1. Equipment financing / leasing
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
 3. [Invoice Factoring ](/services/invoice-factoring)
 
