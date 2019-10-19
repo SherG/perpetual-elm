@@ -90,7 +90,7 @@ Exclusions: guns, boats, planes.
 
 ### Office equipment
 
-* Computers and electronics
+* Computers, printers and other electronics
 * Hardware and software
 * Desks and furniture
 * Video and phone equipment
