@@ -13,9 +13,9 @@ These include:
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
 3. [Invoice Factoring ](/services/invoice-factoring)
 
-Purchasing assets with cash presents unique risks to the business owner, including tying capital up. 
+Purchasing assets with cash presents unique risks to the business owner, including tying capital up.
 
-Equipment financing can be a risk management solution which frees cash up for other operations like inventory, marketing, and hiring. 
+Equipment financing can be a risk management solution which frees cash up for other operations like inventory, marketing, and hiring. In addition, financing via a capital lease can lead to significant cash savings, thanks to IRS Section 179. 
 
 ## Equipment Finance Structures
 
@@ -62,8 +62,6 @@ Here's an example of how Section 179 works:
     <td></td>
   </tr>
 </table>
-
-
 
 ### 
 
