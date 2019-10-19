@@ -5,7 +5,9 @@ draft: false
 featured: true
 weight: 1
 ---
-There are multiple ways to finance the equipment you need for your business. These include (but are not limited to):
+There are multiple ways to finance the equipment you need for your business. 
+
+These include (but are not limited to):
 
 1. Equipment Leasing
 
