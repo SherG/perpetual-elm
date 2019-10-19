@@ -24,11 +24,11 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 ### Construction
 
-* Yellow iron: Motor graders, Excavators, bull dozers, wheel loaders, dumpers, loader backhoes, compact track loaders, crawler loaders, etc.
+* Yellow iron: Excavators, bull dozers, motor graders, wheel loaders, dumpers, loader backhoes, compact track loaders, crawler loaders, etc.
 * Trucks
 * Rock crushers
-* Plumbing-related equipment
 * Cement mixers
+* Plumbing-related equipment
 * Electrical-related equipment 
 * Mixed fleet data solutions (software)
 * Drones
@@ -41,8 +41,8 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 ### Snow Removal and Landscaping 
 
-* Trucks, snowplows and accessories
-* De-icing/Salting/sanding equipment including conveyor chain spreaders and hopper spreaders
+* Trucks, snowplows and related accessories
+* De-icing/salting/sanding equipment including conveyor chain spreaders and hopper spreaders
 * Snowblowers
 * Landscaping vehicles and equipment
 
@@ -51,7 +51,6 @@ Below are some typical industries we serve and types of equipment requests we pr
 * Hood vents
 * Walk-in coolers
 * Refrigerators / Stoves
-* Walk-ins
 * POS systems
 * Furniture
 
@@ -68,7 +67,7 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 ### Office equipment
 
-* Computers
+* Computers and electronics
 * Hardware and software
 * Desks and furniture
 * Video and phone equipment
