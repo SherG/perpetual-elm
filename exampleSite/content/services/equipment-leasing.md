@@ -64,9 +64,9 @@ Here's an example of how Section 179 works:
 
 At the end of the term you have the option to buy the equipment at fair market value, return the equipment, finance it again, or lease new equipment.
 
-This is a good option for businesses that regularly upgrade to recent models. 
-
 This is off-balance sheet financing. Most FMV lease payments are 100% tax deductible. 
+
+An operating lease is a good option for businesses that need to regularly upgrade to recent models. 
 
 ## Fast Funding
 
