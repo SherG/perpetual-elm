@@ -41,9 +41,9 @@ Below are some typical industries we serve and types of equipment requests we pr
 
 ### Snow Removal and Landscaping 
 
-* Trucks and plows
+* Trucks, snowplows and accessories
+* De-icing/Salting/sanding equipment including conveyor chain spreaders and hopper spreaders
 * Snowblowers
-* Salting/sanding equipment including conveyor chain spreaders and hopper spreaders
 * Landscaping vehicles and equipment
 
 ### Restaurants
