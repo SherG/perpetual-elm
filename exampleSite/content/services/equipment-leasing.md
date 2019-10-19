@@ -17,12 +17,24 @@ Purchasing assets with cash presents unique risks to the business owner, includi
 
 Equipment financing can be a risk management solution which frees cash up for other operations like inventory, marketing, and hiring. 
 
-## Equipment Leasing
+## Equipment Finance Structures
 
-Your equipment leasing options are:
+1. Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
+2. Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
 
-* Capital lease: Through an Equipment Finance Agreement (EFA) you may arrange to keep the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.)
-* Operating lease: This is the lower cost option. At the end of the agreement you'll have the option to return the equipment, extend the lease, or lease new equipment.
+### Capital Lease
+
+This option is an on balance sheet structure. Equipment can be recorded as an asset and depreciated, which means the payments are not fully tax-deductible. 
+
+#### Section 179: Deduct Up to $1 Million
+
+However, thanks to Section 179 of the IRS tax code, you can deduct the full purchase price of qualifying equipment and software from your gross revenue. This can save you hundreds of thousands of dollar on your equipment purchases. 
+
+
+
+### 
+
+## Fast Funding
 
 Below are some typical industries we serve and common types of equipment requests we process. (This is not an exhaustive list.) 
 
