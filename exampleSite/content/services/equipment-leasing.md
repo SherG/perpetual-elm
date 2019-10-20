@@ -17,6 +17,17 @@ Purchasing assets with cash presents unique risks to the business owner, includi
 
 Equipment financing can mitigate related risks and free cash up for other operations like research and development, inventory, marketing, and hiring. <br/>
 
+## Why Finance Equipment?
+
+* 100% financing with zero down payment available in qualifying cases
+* Maintain cash
+* Manage risk
+* Plan expenses for cash flow and business fluctuations
+* Benefit from IRS Section 179 (applicable to capital leases)
+* Keep up to date with new technology
+* Leverage equipment expertise
+* Avoid getting stuck with out-of-date equipment
+
 ## Equipment Finance Structures
 
 We focus on two options: capital lease or operating lease. 
