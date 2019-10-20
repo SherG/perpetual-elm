@@ -10,7 +10,7 @@ We work with an established and respected firm that handles these issues for our
 * Items are permanently removed 
 * Your credit repair representative will explain any steps that you may need to take
 
-We can also refer individuals who are not clients of ours to this service.
+You do not need to be a client of ours to use the credit repair service.
 
 To get started with credit repair, fill out our [contact form](/contact/) or book a free phone appointment with one of our funding specialists. 
 
