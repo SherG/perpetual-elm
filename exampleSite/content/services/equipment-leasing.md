@@ -13,6 +13,10 @@ These include:
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
 3. [Invoice Factoring ](/services/invoice-factoring)
 
+Purchasing assets with cash presents some risks to the business owner, including tying capital up.
+
+Equipment financing can mitigate risk and free cash up for inventory, marketing, research and development, and other costs.
+
 <!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
