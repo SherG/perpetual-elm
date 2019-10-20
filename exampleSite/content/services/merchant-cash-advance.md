@@ -38,3 +38,8 @@ Example: a $30,000 MCA with a factor rate of 1.25 and a 4-month term (120 days)\
 Daily repayment would be calculated this way: \
 $30,000 x 1.25 = $37,500 (payoff amount)\
 $37,500 ÷ 120 days = daily payment of $312.50
+
+## Required Documents
+
+* 4 months of business bank statements
+* 1-page form application filled out and signed
