@@ -20,13 +20,10 @@ Equipment financing can mitigate related risks and free cash up for other operat
 ## Why Finance Equipment?
 
 * 100% financing with zero down payment available in qualifying cases
-* Maintain cash
-* Manage risk
-* Maintain cash flow and navigate business fluctuations
+* Maintain cash flow, manage risk, and navigate business fluctuations
 * Benefit from IRS Section 179 (applicable to capital leases)
 * Keep up to date with new technology
 * Leverage equipment expertise
-* Avoid getting stuck with out-of-date equipment
 
 ## Equipment Finance Structures
 
