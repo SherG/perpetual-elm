@@ -24,4 +24,4 @@ We have partnered with a vetted firm that meets our highest standards and provid
 * Credit reports: You'll have access to reports from all 3 bureaus in an easy-to-read format. Unlike some popular monitoring solutions, this one isn't missing critical details. 
 * Soft pulls that don't affect your credit
 
-Contact us to receive application information for this vetted service. Or book a free phone appointment with us to learn more.
+[Contact us](/contact/) to receive application information for this vetted service. Or book a free phone appointment with us to learn more.
