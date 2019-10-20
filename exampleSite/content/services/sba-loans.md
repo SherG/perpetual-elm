@@ -5,15 +5,16 @@ draft: false
 featured: true
 weight: 2
 ---
-SBA loans provide the lowest rates and longest terms of all business funding options and they are more difficult to be approved for. 
+SBA loans are popular for their low rates and flexible terms. They typically have more stringent criteria than other funding options.
 
-This is not a fast funding option. SBA loans can technically be approved in a week, but typically take at least 2-3 months to be processed. We can structure deals that provide funding from other sources to bridge that waiting period.
+This is not a fast funding option. SBA loans can technically be approved in a week, but typically take 2-3 months to be processed. We can structure deals that provide funding from other sources to bridge that waiting period.
 
 ## What is an SBA loan?
 
 An SBA loan is a business loan insured by the U.S. government. 
 
-* Loan amounts typically range from $25,000 to $5 million. 
+* Loan amounts typically range from $25,000 to $5.5 million.
+* The average loan amount is approximately $370,000 
 * Monthly payments are fixed
 * Payback periods may range up to 25 years for acquisitions or commercial property
 * Approval is more difficult to obtain than for a LOC (line of credit), invoice factoring, or merchant cash advance. 
@@ -26,4 +27,26 @@ An SBA loan is a business loan insured by the U.S. government.
 
 ## General Rates
 
-Two rates come into play with SBA loans. The prime rate, which is posted daily in the Wall St. Journal.
+Two rates come into play with SBA loans:
+
+* The prime rate, which is posted daily in the _Wall St. Journal_ and which can be affected by  actions of the Federal Reserve. 
+* The lender spread
+
+## Who is a Good Fit for an SBA Loan?
+
+If you've been in business for at least 2 years, you have good credit, have the cash flow to support the loan payments, and your business finances are in good order, then an SBA loan is a good option for you. 
+
+Merchants who have poor credit or have struggling businesses should seek a different option. 
+
+## What Documents Are Required? 
+
+Applying for an SBA loan can be a time-consuming process. Documents that you'll need to furnish include:
+
+* 2-3 years of business and personal tax returns
+* Profit and Loss Statement
+* Balance sheet and complete list of business debt
+* Business entity documents, proof of insurance, business location proof 
+
+
+
+##
