@@ -24,4 +24,12 @@ We have partnered with a vetted firm that meets our highest standards and provid
 * Credit reports: You'll have access to reports from all 3 bureaus in an easy-to-read format. Unlike some popular monitoring solutions, this one isn't missing critical details. 
 * Soft pulls that don't affect your credit
 
-[Contact us](/contact/) to receive application information for this vetted service. Or book a free phone appointment with us to learn more.
+[Contact us](/contact/) to receive application information for this vetted service. 
+
+<!-- Calendly link widget begin -->
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">Or <mark>	book a phone appointment</mark> with us to learn more.</a>
+<!-- Calendly link widget end -->
+
