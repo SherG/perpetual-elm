@@ -32,6 +32,8 @@ Two rates come into play with SBA loans:
 * The prime rate, which is posted daily in the _Wall St. Journal_ and which can be affected by  actions of the Federal Reserve. 
 * The lender spread
 
+The current prime rate is 5.25%. 
+
 ## Who is a Good Fit for an SBA Loan?
 
 Because applying for an SBA loan can be a time-consuming process, you'll want to make sure this is a good option for your business. 
