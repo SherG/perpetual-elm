@@ -18,9 +18,16 @@ They're particularly suited to solve particular situations such as:
 * Buying holiday inventory in bulk at a large discount
 * Providing bridge capital until an [SBA loan](/sba-loan/) is received
 
-WIth traditional funding from a bank, it may take 6 weeks or longer to get approved or to be declined. Merchant cash advance (MCA) funding is designed specifically for small businesses. 
+WIth traditional funding from a bank, it may take 6 weeks or longer to get approved or to be declined. Merchant cash advance (MCA) funding is designed specifically for small businesses who need fast funding. 
 
-## Requirements 
+<!-- Calendly link widget begin -->
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to get started</mark></a>
+<!-- Calendly link widget end -->
+
+## Requirements
 
 Revenue: The business must have been generating revenue for at least 4 months, preferably 1-2 years. There is no minimum revenue requirement
 
