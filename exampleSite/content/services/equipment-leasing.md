@@ -15,7 +15,7 @@ These include:
 
 Purchasing assets with cash presents unique risks to the business owner, including tying capital up.
 
-Equipment financing can mitigate related risks and free cash up for other operations like research and development, inventory, marketing, and hiring. <br/>
+Equipment financing can mitigate these risks and free cash up for inventory, marketing, research and development, and other costs. <br/>
 
 <!-- Calendly link widget begin -->
 
