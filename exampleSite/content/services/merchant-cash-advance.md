@@ -51,3 +51,9 @@ $37,500 ÷ 120 days = daily payment of $312.50
 
 * 4 months of business bank statements
 * 1-page form application filled out and signed
+
+## Other Forms of Fast Funding
+
+* [Invoice factoring](/invoice-factoring/)
+* [Syndicated line of credit](/sloc/) 
+* [Term loan](/term-loan/)
