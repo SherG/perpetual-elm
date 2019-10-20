@@ -14,7 +14,9 @@ Inadequate protection can leave you victimized by:
 * Stolen tax refunds
 * Damaged credit
 
-We have partnered with a vetted firm that meets our highest standards and provides:
+We have partnered with a vetted firm that meets our highest standards. This is the same service we use for soft credit pulls used in client funding. 
+
+The service provides:
 
 * Business-grade credit protection that covers closed trade lines, paid trade lines, authorized users, lost and stolen cards, charge-offs, retail cards that go over the limit, and much more.
 * Business-grade credit and identity monitoring which includes when authorized users are added to your credit cards.
@@ -32,4 +34,3 @@ We have partnered with a vetted firm that meets our highest standards and provid
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">Or <mark>	book a phone appointment</mark> with us to learn more.</a>
 <!-- Calendly link widget end -->
-
