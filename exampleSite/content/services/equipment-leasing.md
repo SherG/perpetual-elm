@@ -23,7 +23,7 @@ We focus on two options: capital lease or operating lease.
 
 ### Equipment Finance Agreement (EFA)
 
-<br/>**Capital Lease**: Through an Equipment Finance Agreement (EFA) you make monthly payments over a term period of years and own the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
+<br/><strong>Capital Lease</strong>: Through an Equipment Finance Agreement (EFA) you make monthly payments over a term period of years and own the equipment once it's paid off. (A capital lease is sometimes referred to as a finance lease or sales lease.) 
 
 This is an on-balance sheet structure. Equipment is recorded as an asset and can be depreciated, which means the payments are not fully tax-deductible. 
 
@@ -60,7 +60,7 @@ Here's an example of how Section 179 works:
 
 ### Fair Market Value (FMV)
 
-<br/>Under an **operating lease**, you make monthly payments on your equipment. 
+<br/>Under an <strong>operating lease</strong>, you make monthly payments on your equipment. 
 
 At the end of the term you have the option to buy the equipment at fair market value, return the equipment, finance it again, or lease new equipment.
 
