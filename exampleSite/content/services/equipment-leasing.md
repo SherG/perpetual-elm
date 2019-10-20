@@ -49,7 +49,7 @@ Here's an example of how Section 179 works:
     <td>$1,190,000</td>
   </tr>
   <tr>
-    <td>Cash savings: <br>($1,150,000 x 35% tax rate)<br></td>
+    <td>Cash savings: <br>($1,190,000 x 35% tax rate)<br></td>
     <td>$416,500</td>
   </tr>
   <tr>
