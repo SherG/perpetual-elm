@@ -10,13 +10,11 @@ We work with an established and respected firm that handles these issues for our
 * Items are permanently removed 
 * Your credit repair representative will explain any steps that you may need to take
 
-You do not need to be a client of ours to use the credit repair service.
+Note: You do not need to be a client of ours to use the credit repair service.
 
-To get started with credit repair, fill out our [contact form](/contact/) or book a free phone appointment with one of our funding specialists. 
-
-<!-- Calendly link widget begin -->
+To get started with credit repair, fill out our [contact form](/contact/). <!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to get started with credit repair</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">Or, <mark>	book a phone appointment</mark> with us.</a>
 <!-- Calendly link widget end -->
