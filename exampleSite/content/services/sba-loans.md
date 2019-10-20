@@ -34,13 +34,15 @@ Two rates come into play with SBA loans:
 
 ## Who is a Good Fit for an SBA Loan?
 
+Because applying for an SBA loan can be a time-consuming process, you'll want to make sure this is a good option for your business. 
+
 If you've been in business for at least 2 years, you have good credit, have the cash flow to support the loan payments, and your business finances are in good order, then an SBA loan is a good option for you. 
 
 Merchants who have poor credit or have struggling businesses should seek a different option. 
 
 ## What Documents Are Required? 
 
-Applying for an SBA loan can be a time-consuming process. Documents that you'll need to furnish include:
+Documents that you'll need to furnish include (but are not limited to): 
 
 * 2-3 years of business and personal tax returns
 * Profit and Loss Statement
