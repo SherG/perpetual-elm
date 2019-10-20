@@ -13,10 +13,6 @@ These include:
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
 3. [Invoice Factoring ](/services/invoice-factoring)
 
-Purchasing assets with cash presents unique risks to the business owner, including tying capital up.
-
-Equipment financing can mitigate these risks and free cash up for inventory, marketing, research and development, and other costs. <br/>
-
 <!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -26,11 +22,11 @@ Equipment financing can mitigate these risks and free cash up for inventory, mar
 
 ## Why Finance Equipment?
 
-* 100% financing with zero down payment available in qualifying cases
-* Maintain cash flow, manage risk, and navigate business fluctuations
+* Maintain and free up cash flow, manage risk, and navigate business fluctuations
 * Benefit from IRS Section 179 (applicable to capital leases)
 * Keep up to date with new technology
 * Leverage equipment expertise
+* 100% financing with zero down payment available in some cases
 
 ## Equipment Finance Structures
 
