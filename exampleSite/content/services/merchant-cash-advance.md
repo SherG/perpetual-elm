@@ -54,6 +54,6 @@ $37,500 ÷ 120 days = daily payment of $312.50
 
 ## Other Forms of Fast Funding
 
-* [Invoice factoring](/invoice-factoring/)
-* [Syndicated line of credit](/sloc/) 
-* [Term loan](/term-loan/)
+* [Invoice factoring](/services/invoice-factoring/)
+* [Syndicated line of credit](/service/sloc/) 
+* [Term loan](/services/term-loans/)
