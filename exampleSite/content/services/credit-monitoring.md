@@ -14,9 +14,7 @@ Inadequate protection can leave you victimized by:
 * Stolen tax refunds
 * Damaged credit
 
-We have partnered with a vetted firm that meets our highest standards. This is the same service we use for soft credit pulls used in client funding. 
-
-The service provides:
+We have partnered with a vetted firm that meets our highest standards and provides:
 
 * Business-grade credit protection that covers closed trade lines, paid trade lines, authorized users, lost and stolen cards, charge-offs, retail cards that go over the limit, and much more.
 * Business-grade credit and identity monitoring which includes when authorized users are added to your credit cards.
@@ -25,6 +23,8 @@ The service provides:
 * Up to $1 million in identity theft insurance
 * Credit reports: You'll have access to reports from all 3 bureaus in an easy-to-read format. Unlike some popular monitoring solutions, this one isn't missing critical details. 
 * Soft pulls that don't affect your credit
+
+Note: This is the same service we use for soft credit pulls used in client funding. 
 
 [Contact us](/contact/) to receive application information for this vetted service. 
 
