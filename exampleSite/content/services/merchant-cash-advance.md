@@ -16,6 +16,7 @@ They're particularly suited to solve particular situations such as:
 * A unique investment opportunity with a short time window
 * Delayed payment from a customer
 * Buying holiday inventory in bulk at a large discount
+* Providing bridge capital until an [SBA loan](/sba-loan/) is received
 
 WIth traditional funding from a bank, it may take 6 weeks or longer to get approved or to be declined. Merchant cash advance (MCA) funding is designed specifically for small businesses. 
 
