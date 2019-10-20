@@ -4,7 +4,7 @@ date: 2016-10-05T04:00:00.000Z
 ---
 Business funding can be denied due to credit issues. In many cases, derogatory items can be permanently removed. 
 
-We work with and established and respected firm that handles these issues for our clients. Our partner is the go-to solution for mortgage brokers, real estate agents, loan brokers, and auto dealerships. 
+We work with an established and respected firm that handles these issues for our clients. Our partner is the go-to solution for mortgage brokers, real estate agents, loan brokers, and auto dealerships. 
 
 * Derogatory items are addressed quickly and the process is completed within 60-90 days
 * Items are permanently removed 
