@@ -11,4 +11,10 @@ We work with and established and respected firm that handles these issues for ou
 
 Our partner will consult with you and share any steps that you may need to take in the process. 
 
-For more information, fill out our contact form or book a free phone appointment with one of our funding specialists
+For more information, fill out our contact form or book a free phone appointment with one of our funding specialists.
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to get started with credit repair</mark>.</a>
+<!-- Calendly link widget end -->
