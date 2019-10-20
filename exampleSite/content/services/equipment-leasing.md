@@ -22,7 +22,7 @@ Equipment financing can mitigate related risks and free cash up for other operat
 * 100% financing with zero down payment available in qualifying cases
 * Maintain cash
 * Manage risk
-* Plan expenses for cash flow and business fluctuations
+* Maintain cash flow and navigate business fluctuations
 * Benefit from IRS Section 179 (applicable to capital leases)
 * Keep up to date with new technology
 * Leverage equipment expertise
