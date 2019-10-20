@@ -10,7 +10,7 @@ This is why approval is revenue-based, not credit-based.
 
 While it's possible to be funded in 24 hours or even the same day, rates for merchant cash advances tend to be higher than for other forms of business funding. 
 
-MCA is well-suited to solve urgent situations such as: 
+MCA is well-suited to solve for urgent problems or opportunities such as: 
 
 * An unexpected revenue hit that leaves a business unable to meet payroll
 * A unique investment opportunity with a short time window
