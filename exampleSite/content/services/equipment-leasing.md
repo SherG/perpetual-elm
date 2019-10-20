@@ -104,6 +104,7 @@ Exclusions: guns, boats, planes.
 ### Manufacturing
 
 * CNC machines
+* Robotics
 * Conveyors
 
 ### Snow Removal and Landscaping
@@ -172,3 +173,10 @@ Exclusions: guns, boats, planes.
 * Front-end loaders, skid-steer loaders
 * Bulk milk cooling tanks
 * Milking machines
+
+<!-- Calendly link widget begin -->
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment with us to learn more</mark>.</a>
+<!-- Calendly link widget end -->
