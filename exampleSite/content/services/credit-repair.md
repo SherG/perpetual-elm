@@ -6,14 +6,16 @@ Business funding can be denied due to credit issues. In many cases, derogatory i
 
 We work with and established and respected firm that handles these issues for our clients. Our partner is the go-to solution for mortgage brokers, real estate agents, loan brokers, and auto dealerships. 
 
+We can also refer individuals who are not clients of ours to this service.
+
 * Derogatory items are addressed quickly and the process is completed within 60-90 days
 * Items are permanently removed 
+* Your credit repair representative will explain any steps that you may need to take
 
-Our partner will consult with you and share any steps that you may need to take in the process. 
-
-For more information, fill out our contact form or book a free phone appointment with one of our funding specialists.
+To receive sign up information, fill out our [contact form](/contact/) or book a free phone appointment with one of our funding specialists. 
 
 <!-- Calendly link widget begin -->
+
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to get started with credit repair</mark>.</a>
