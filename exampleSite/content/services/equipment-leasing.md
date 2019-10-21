@@ -83,7 +83,7 @@ This is off-balance sheet financing. Most FMV lease payments are 100% tax deduct
 
 An operating lease is a good option for businesses that need to regularly upgrade to recent models. 
 
-## Fast Funding
+## Industries and Equipment Funding
 
 Below are some typical industries we serve and common types of equipment requests we process. (This is not an exhaustive list.) 
 
