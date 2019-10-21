@@ -66,7 +66,6 @@ There are a variety of SBA loan programs. These are the:
 
 ### SBA 7(a) loans
 
-
 These loans are the SBA's primary vehicle for small business funding. 
 
 Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
@@ -108,3 +107,16 @@ There are seven different 7(a) loan types. Terms may vary between them.
 * Collateral: The lender is allowed to use their own collateral policy for loans over $25,000 up to $350,000.
 
 #### Export Express
+
+Lending institutions often view loans to exporters as engendering significant political and commercial risk. 
+
+These programs seek to fill that gap with government-backed loans and lines of credit up to $500,000. 
+
+The SBA provides a 24-hour response to applications. Lenders provide the credit decision and loan documentation process. 
+
+* Maximum amount: $500,000
+* Eligibility and credit decision is made by the lender
+* Revolving lines of credit: Not to exceed 7 years
+* Collateral: Lender follows its own policies
+
+#### Export Working Capital
