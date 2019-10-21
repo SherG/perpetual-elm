@@ -20,7 +20,7 @@ We can structure deals that provide funding from other sources to bridge that wa
 
 An SBA loan is a business loan insured by the U.S. government. There are a variety of SBA loan types available, each designed for a specific purpose. 
 
-Funds received through SBA loans can be operating capital and long-term fixed assets. Some SBA loans have restrictions on use.
+Funds received through SBA loans can be used for operating capital, fixed assets, and [equipment purchases](/services/equipment-leasing/). Some SBA loans have restrictions on use.
 
 * The average 7(a) loan amount in 2018 was approximately $425,500 according to SBA data
 * The maximum loan amount is $5.5 million
