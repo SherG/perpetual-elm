@@ -132,7 +132,7 @@ Exclusions: guns, boats, planes.
 
 ### Restaurants and Bars
 
-* Cooking and Refrigeration equipment including walk-in coolers
+* Cooking and refrigeration equipment including walk-in coolers
 * Commercial sinks, work tables, and beverage equipment
 * Food display and merchandising equipment
 * Dishwashing equipment
