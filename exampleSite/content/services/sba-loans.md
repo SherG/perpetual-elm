@@ -15,7 +15,7 @@ An SBA loan is a business loan insured by the U.S. government. There are a varie
 
 Funds received through SBA loans can be operating capital and long-term fixed assets. Some SBA loans have restrictions on use.
 
-* The average 7a loan amount in 2018 was approximately $425,500 according to the SBA
+* The average 7(a) loan amount in 2018 was approximately $425,500 according to SBA data
 * The maximum loan amount is $5.5 million
 * Monthly payments are fixed
 * Payback periods may range up to 25 years for acquisitions or commercial property
