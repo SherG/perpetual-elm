@@ -93,9 +93,7 @@ There are seven different 7(a) loan types. Terms may vary between them.
 * Maximum amount: $350,000
 * Eligibility and credit decisions: Same as for the 7(a)
 * SBA turnound time: 5-10 business days
-* Collateral: For loans above $25,000 the lender is required to follow its own collateral policies while meeting the SBA's minimum requirements\
-  \
-  The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans over $25,000, up to and including $350,000, the lender must follow the collateral policies and procedures that it has established and implemented for its similarly-sized non-SBA-guaranteed commercial loans, but at a minimum the lender must take a first lien on assets financed with loan proceeds and lender must take a lien on all of the applicant’s fixed assets including real estate. Lender is not required to take a lien against applicant’s real estate when the equity is less than 25% of the fair market value. The lender may limit the lien taken against real estate to the loan amount."
+* Collateral: For loans above $25,000 the lender is required to follow its own collateral policies while meeting the SBA's minimum requirements
 
 #### SBA Express
 
@@ -133,8 +131,19 @@ This program is for businesses that need additional capital to support their exp
 * Forms required: SBA-EIB 84-1, plus attachments
 * Collateral: Includes inventory and receivables funded by the loan and personal guarantee of owners who have at least a 20% ownership in the business.
 
-## International Trade
+#### International Trade
+
+<p></p>\
+The SBA deigned these loans to provide "long-term financing to businesses that are expanding because of growing export sales, or that have been adversely affected by imports and need to modernize to meet foreign competition."
 
 * Maximum amount: $5 million
 * Eligibility and credit decision: By SBA
 * SBA turnaround: 5-10 business days
+
+#### Veterans Advantage
+
+* SBA loans to veterans have [reduced fees](https://www.sba.gov/sites/default/files/files/Notice_5000-1955_Veteran_Fees_FY18_1.pdf). 
+* Eligibility: the business must be 51% veteran owned
+* The applicant must meet the SBA definition of "veteran"
+
+#### CAPLines
