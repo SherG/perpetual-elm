@@ -7,7 +7,9 @@ weight: 2
 ---
 SBA loans are popular for their low rates and flexible terms. They typically have more stringent criteria than other funding options.
 
-This is not a fast funding option. SBA loans can technically be approved in a week, but typically take 2-3 months to be processed. We can structure deals that provide funding from other sources to bridge that waiting period.
+This is not a fast funding option. SBA loans can technically be approved in a week, but typically take 2-3 months to be processed. 
+
+We can structure deals that provide funding from other sources to bridge that waiting period.
 
 ## What is an SBA loan?
 
@@ -157,7 +159,6 @@ The SBA dedigned these loans to provide "long-term financing to businesses that 
 * Provides funding for short term and seasonal needs and cyclical growth
 * 4 options
 * Depending on the option, may be used for labor, material, inventory, renovation, construction
-
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
