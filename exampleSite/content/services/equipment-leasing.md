@@ -21,7 +21,7 @@ Equipment financing can mitigate risk and free cash up for inventory, marketing,
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to get funding options</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Get started: Book a phone appointment with us</mark>.</a>
 <!-- Calendly link widget end -->
 
 ## Why Finance Equipment?
@@ -179,5 +179,5 @@ Exclusions: guns, boats, planes.
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment with us to learn more</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get started with equipment financing</mark>.</a>
 <!-- Calendly link widget end -->
