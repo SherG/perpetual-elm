@@ -9,7 +9,7 @@ google_analytics_id = ""
 google_tag_manager_id = ""
 
   [params.logo]
-  standard = "images/spearfish-logo.png"
+  standard = "images/spearfish-logo-2.png"
   mobile = "images/spearfish-logo.png"
   alt = "Spearfish"
 
