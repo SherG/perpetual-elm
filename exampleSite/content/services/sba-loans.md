@@ -17,7 +17,7 @@ An SBA loan is a business loan insured by the U.S. government. There are a varie
 
 These loans are the SBA's primary program for small business funding. Funds from 7ba loans can be used in a variety of ways, including for working capital, expansion, and equipment purchases. 
 
-There are seven different 7(a) loan types, and terms may vary between them. Among these types are express loans with fast approval times, and loans for exporters and veterans.
+There are seven different 7(a) loan types, and terms may vary between them.
 
 1. Standard 7(a)
 2. 7(a) Small Loan
