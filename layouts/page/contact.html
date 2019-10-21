@@ -10,14 +10,6 @@
         <h1 class="title">{{.Title}}</h1>
         
         
-        <div class="call">
-  <div class="call-box-top">
-    <div class="call-phone"><strong>Phone: </strong> {{ .Site.Data.contact.phone }} </div>
-    <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .Site.Data.contact.email }}">
-        {{ .Site.Data.contact.email }}
-      </a>
-    </div>
   </div>
 
 </div>
@@ -25,6 +17,14 @@
 
 
         <div class="content mt-4">{{.Content}}</div>
+            <div class="call">
+  <div class="call-box-top">
+    <div class="call-phone"><strong>Phone: </strong> {{ .Site.Data.contact.phone }} </div>
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:{{ .Site.Data.contact.email }}">
+        {{ .Site.Data.contact.email }}
+      </a>
+    </div>
       </div>
     </div>
   </div>
