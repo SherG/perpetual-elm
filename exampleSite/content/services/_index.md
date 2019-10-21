@@ -1,9 +1,10 @@
 ---
-title: Services
+title: Fast Funding for Small Business 
 date: 2019-10-16T06:12:08.307Z
 intro_image: images/small-business-growth.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
+desc: We make it easy for small businesses to get the funding they need -- fast.
 featured: true
 draft: false
 ---
