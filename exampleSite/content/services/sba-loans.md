@@ -106,7 +106,8 @@ There are seven different 7(a) loan types. Terms may vary between them.
 * SBA turnaround time: 36 hours
 * Collateral: The lender is allowed to use their own collateral policy for loans over $25,000 up to $350,000.
 
-#### Export Express
+#### Export Express 
+<p></p>
 
 Lending institutions often view loans to exporters as engendering significant political and commercial risk. 
 
@@ -120,6 +121,7 @@ The SBA provides a 24-hour response to applications. Lenders provide the credit 
 * Collateral: Lender follows its own policies
 
 #### Export Working Capital
+<p></p>
 
 This program is for businesses that need additional capital to support their export sales.
 
