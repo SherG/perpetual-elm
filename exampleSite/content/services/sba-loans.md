@@ -41,7 +41,7 @@ The borrower and lender can negotiate the interest rate, which is capped by the 
 
 Because applying for an SBA loan can be a time-consuming process, you'll want to make sure this is a good option for your business before you begin.
 
-> This is a test pull quote
+>  This is a test pull quote
 
 If you've been in business for at least 2 years, you have good credit, have the cash flow to support the loan payments, and your business finances are in good order, then an SBA loan is a good option for you. 
 
@@ -123,10 +123,16 @@ The SBA provides a 24-hour response to applications. Lenders provide the credit 
 
 This program is for businesses that need additional capital to support their export sales.
 
-* Maximum amount: up to $5 million
+* Maximum amount: $5 million
 * Eligibility decision: Made by SBA unless delegated to lender
 * Credit decision: Made by SBA
 * Revolving lines of credit: 12 months or less
 * SBA turnaround: 5-10 business days
 * Forms required: SBA-EIB 84-1, plus attachments
 * Collateral: Includes inventory and receivables funded by the loan and personal guarantee of owners who have at least a 20% ownership in the business.
+
+## International Trade
+
+* Maximum amount: $5 million
+* Eligibility and credit decision: By SBA
+* SBA turnaround: 5-10 business days
