@@ -24,7 +24,7 @@ WIth traditional funding from a bank, it may take 6 weeks or longer to get appro
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to get started</mark></a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get started by booking a phone appointment</mark></a>
 <!-- Calendly link widget end -->
 
 ## Requirements
