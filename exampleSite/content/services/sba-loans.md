@@ -41,6 +41,8 @@ The borrower and lender can negotiate the interest rate, which is capped by the 
 
 Because applying for an SBA loan can be a time-consuming process, you'll want to make sure this is a good option for your business before you begin.
 
+> This is a test pull quote
+
 If you've been in business for at least 2 years, you have good credit, have the cash flow to support the loan payments, and your business finances are in good order, then an SBA loan is a good option for you. 
 
 ## What Documents Are Required?
@@ -94,7 +96,7 @@ There are seven different 7(a) loan types. Terms may vary between them.
 * Maximum amount: $350,000
 * Eligibility and credit decisions: Same as for the 7(a)
 * SBA turnound time: 5-10 business days
-* Collateral: For loans above $25,000 \
+* Collateral: For loans above $25,000 the lender is required to follow its own collateral policies while meeting the SBA's minimum requirements\
   \
   The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans over $25,000, up to and including $350,000, the lender must follow the collateral policies and procedures that it has established and implemented for its similarly-sized non-SBA-guaranteed commercial loans, but at a minimum the lender must take a first lien on assets financed with loan proceeds and lender must take a lien on all of the applicant’s fixed assets including real estate. Lender is not required to take a lien against applicant’s real estate when the equity is less than 25% of the fair market value. The lender may limit the lien taken against real estate to the loan amount."
 
