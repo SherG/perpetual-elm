@@ -11,15 +11,35 @@ This is not a fast funding option. SBA loans can technically be approved in a we
 
 ## What is an SBA loan?
 
-An SBA loan is a business loan insured by the U.S. government. 
+An SBA loan is a business loan insured by the U.S. government. There are a variety of SBA loan types available, each designed for a specific purpose. 
 
-* Loan amounts range from $25,000 to $5.5 million.
-* The average loan amount is approximately $370,000 
+### SBA 7(a) loans
+
+These loans are the SBA's primary program for small business funding. Funds from 7ba loans can be used in a variety of ways, including for working capital, expansion, and equipment purchases. 
+
+There are seven different 7(a) loan types, and terms may vary between them. Among these types are express loans with fast approval times, and loans for exporters and veterans.
+
+* Standard 7(a)
+* 7(a) Small Loan
+* SBA Express
+* Export Express
+* Export Working Capital
+* International Trade
+* Preferred Lenders
+* Veterans Advantage
+* CAPLines
+
+
+
+
+
+* The average 7a loan amount in 2018 was approximately $425,500 according to the SBA
+* The maximum loan amount is $5.5 million
 * Monthly payments are fixed
 * Payback periods may range up to 25 years for acquisitions or commercial property
 * Approval is more difficult to obtain than for a LOC (line of credit), invoice factoring, or merchant cash advance. 
 
-## Basic Requirements
+## Basic Eligibility Requirements
 
 * In business for 2 years (Startup SBAs are possible but are more difficult to acquire)
 * Minimum 650 FICO score
@@ -29,10 +49,10 @@ An SBA loan is a business loan insured by the U.S. government.
 
 Two rates come into play with SBA loans:
 
-* The prime rate, which is posted daily in the _Wall St. Journal_ and which can be affected by  actions of the Federal Reserve. 
+* The prime rate, which is posted daily in the _Wall St. Journal_ and which can be affected by  actions of the Federal Reserve. The current prime rate is 5.25%. 
 * The lender spread
 
-The current prime rate is 5.25%. 
+The borrower and lender can negotiate the interest rate, which is capped by the SBA. 
 
 ## Who is a Good Fit for an SBA Loan?
 
@@ -40,9 +60,7 @@ Because applying for an SBA loan can be a time-consuming process, you'll want to
 
 If you've been in business for at least 2 years, you have good credit, have the cash flow to support the loan payments, and your business finances are in good order, then an SBA loan is a good option for you. 
 
-Merchants who have poor credit or have struggling businesses should seek a different option. 
-
-## What Documents Are Required? 
+## What Documents Are Required?
 
 Documents that you'll need to furnish include (but are not limited to): 
 
@@ -50,7 +68,7 @@ Documents that you'll need to furnish include (but are not limited to):
 * Profit and Loss Statement
 * Balance sheet and complete list of business debt
 * Business entity documents, proof of insurance, business location proof 
-
-
+* SBA Forms 1919 and 1920
+* Depending upon the type of SBA loan you apply for, additional forms may be required
 
 ##
