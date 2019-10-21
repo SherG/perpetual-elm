@@ -4,7 +4,7 @@ date: '2018-02-22T17:01:34+07:00'
 layout: contact
 menu: main
 ---
-Ready to get business or startup funding? Start now by booking a phone consultation with one of our funding specialists. 
+Get started by booking a phone consultation with one of our funding specialists. 
 
 <!-- Calendly link widget begin -->
 
@@ -12,5 +12,3 @@ Ready to get business or startup funding? Start now by booking a phone consultat
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Click here to schedule your appointment</mark>.</a>
 <!-- Calendly link widget end -->
-
-
