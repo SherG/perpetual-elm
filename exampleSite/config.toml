@@ -1,5 +1,5 @@
-title = "We help entrepreneurs grow their business."
-baseURL = "www.example.com"
+title = "Spearfish"
+baseURL = "www.spearfishcap.com"
 languageCode = "en-us"
 themesDir = "../.."
 theme = "hugo-serif-theme"
