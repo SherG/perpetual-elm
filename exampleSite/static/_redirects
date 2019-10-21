@@ -2,3 +2,4 @@
 
 # Redirect default Netlify subdomain to primary domain
 
+https://perpetual-elm-f09c9.netlify.com/* https://www.spearfishcap.com/:splat 301!
