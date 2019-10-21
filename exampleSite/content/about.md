@@ -16,4 +16,3 @@ Our innovative solutions include purchasing B2B accounts receivables for immedia
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to discover your funding options</mark>.</a>
 <!-- Calendly link widget end -->
 
-##
