@@ -147,3 +147,7 @@ The SBA deigned these loans to provide "long-term financing to businesses that a
 * The applicant must meet the SBA definition of "veteran"
 
 #### CAPLines
+
+* Provides funding for short term and seasonal needs and cyclical growth
+* 4 options
+* Depending on the option, may be used for labor, material, inventory, renovation, construction
