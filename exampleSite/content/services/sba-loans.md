@@ -11,6 +11,11 @@ This is not a fast funding option. SBA loans can technically be approved in a we
 
 We can structure deals that provide funding from other sources to bridge that waiting period.
 
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get a quote: Book a phone appointment with a funding specialist</mark></a>
+<!-- Calendly link widget end -->
+
 ## What is an SBA loan?
 
 An SBA loan is a business loan insured by the U.S. government. There are a variety of SBA loan types available, each designed for a specific purpose. 
@@ -29,11 +34,6 @@ Funds received through SBA loans can be operating capital and long-term fixed as
 * In business for 2 years (Startup SBAs are possible but are more difficult to acquire)
 * Minimum 650 FICO score
 * No recent bankruptcies or delinquencies on previous government loans
-
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get a quote: Book a phone appointment with a funding specialist</mark></a>
-<!-- Calendly link widget end -->
 
 ## General Rates
 
