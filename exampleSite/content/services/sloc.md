@@ -12,9 +12,10 @@ Payback period is 12 months or longer.
 Tired of dealing with mountains of faxes, phone calls, and documents to sign? Our proprietary process is completed in a few easy steps. 
 
 <!-- Calendly link widget begin -->
+
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">Step 1:<mark>	Book a phone appointment with one of our funding specialists</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Get started: Book a phone appointment with us</mark>.</a>
 <!-- Calendly link widget end -->
 
 ## What's required to get an SLOC?
@@ -35,16 +36,11 @@ Uses for SLOC include:
 
 ## What to expect when you apply for an SLOC
 
-You'll apply online, get fast approval and same day funding.
+Application entails filling out a simple online form. If the process is completed before noon, it's possible to receive funding the same day. 
 
-Our process requires very limited asset verification, no business appraisal and little to no paperwork. The process is simple.
+The process requires very limited asset verification, no business appraisal and little to no paperwork.
 
-1. You'll fill out a short online application form that's secure and private
-2. You'll electronically authorize your transaction
-3. Our proprietary funding system will get you funded fast
-4. Once approved and finalized, our syndicated network of investors instantly deposits funds to your bank account for immediate use.
-
-If the process is completed before noon, it's possible to receive funding the same day. 
+Once an SLOC is approved and finalized, our syndicated network of investors instantly deposits funds to the recipient's bank account for immediate use.
 
 Get started now: book a phone appointment with one of our funding specialists.
 
@@ -56,11 +52,13 @@ In this event, it may be possible to get that derogatory information removed and
 
 ## Apply for an SLOC first
 
-If you're interested in an SLOC it's best to apply for it first, before applying for other forms of fast funding, like a merchant cash advance. This is because other inquiries will be added to your credit report which may make it harder to get an SLCO approved.
+If you're interested in an SLOC it's best to apply for it before applying for other forms of fast funding.
+
+This is because those other inquiries will be added to your credit report which may make it harder to get an SLOC approved.
 
 ## What is the maximum amount available via an SLOC?
 
-With good credit it's possible to obtain up to $300,000 if the merchant uses 2 additional guarantors. In other words, the merchant will have to have 2 or 3 additional cosigners with perfect credit no exceptions.
+With good credit it's possible to obtain up to $300,000 if the merchant uses 2 additional guarantors.  Those additional cosigners will need excellent credit, no exceptions.
 
 ## Combination funding
 
