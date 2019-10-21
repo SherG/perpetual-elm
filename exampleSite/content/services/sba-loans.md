@@ -63,6 +63,7 @@ There are a variety of SBA loan programs. These are the:
 * Disaster loan program
 
 ### SBA 7(a) loans
+
 <br/>
 These loans are the SBA's primary vehicle for small business funding. Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
 
@@ -80,9 +81,15 @@ There are seven different 7(a) loan types, and terms may vary between them.
 
 #### Standard 7(a)
 
+* Maximum amount: $5 million 
+* Eligibility and credit decisions: determined by the SBA with the exception of some lenders who have delegated authority to make the decision. 
+* Revolving lines of credit: Up to 10 years (Note: This requires a CAPLines submission. See below)
+* SBA turnound time: 5-10 business days
+* Collateral: The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans in excess of $350,000, the SBA requires that the lender collateralize the loan to the maximum extent possible up to the loan amount. If business fixed assets do not 'fully secure' the loan the lender may include trading assets (using 10% of current book value for the calculation), and must take available equity in the personal real estate (residential and investment) of the principals as collateral."
+
 #### SBA Express
 
-
-
-* (The SBA will respond within 36 hours. Up to $350k is available. Lender makes eligibility decisions.
+* Maximum amount: $350,000
+* (The SBA will respond within 36 hours. Up to $350k is available. Lender makes eligibility 
+* decisions.
 * ##
