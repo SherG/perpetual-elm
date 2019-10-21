@@ -13,7 +13,7 @@ This is not a fast funding option. SBA loans can technically be approved in a we
 
 An SBA loan is a business loan insured by the U.S. government. 
 
-* Loan amounts typically range from $25,000 to $5.5 million.
+* Loan amounts range from $25,000 to $5.5 million.
 * The average loan amount is approximately $370,000 
 * Monthly payments are fixed
 * Payback periods may range up to 25 years for acquisitions or commercial property
