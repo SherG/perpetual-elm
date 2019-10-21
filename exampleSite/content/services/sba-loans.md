@@ -65,9 +65,11 @@ There are a variety of SBA loan programs. These are the:
 ### SBA 7(a) loans
 
 
-These loans are the SBA's primary vehicle for small business funding. Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
+These loans are the SBA's primary vehicle for small business funding. 
 
-There are seven different 7(a) loan types, and terms may vary between them.
+Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
+
+There are seven different 7(a) loan types. Terms may vary between them.
 
 * Standard 7(a)
 * 7(a) Small Loan
@@ -85,14 +87,16 @@ There are seven different 7(a) loan types, and terms may vary between them.
 * Eligibility and credit decisions: determined by the SBA with the exception of some lenders who have delegated authority to make the decision. 
 * Revolving lines of credit: Up to 10 years (Note: This requires a CAPLines submission. See below)
 * SBA turnound time: 5-10 business days
-* Collateral: The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans in excess of $350,000, the SBA requires that the lender collateralize the loan to the maximum extent possible up to the loan amount. If business fixed assets do not 'fully secure' the loan the lender may include trading assets (using 10% of current book value for the calculation), and must take available equity in the personal real estate (residential and investment) of the principals as collateral."
+* Collateral: For loans in excess of $350,000 the SBA requires that the lender fully collateralize the loan. That may include taking equity in the personal real estate of the applicant.
 
 #### 7(a) Small Loan
 
 * Maximum amount: $350,000
 * Eligibility and credit decisions: Same as for the 7(a)
 * SBA turnound time: 5-10 business days
-* Collateral: The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans over $25,000, up to and including $350,000, the lender must follow the collateral policies and procedures that it has established and implemented for its similarly-sized non-SBA-guaranteed commercial loans, but at a minimum the lender must take a first lien on assets financed with loan proceeds and lender must take a lien on all of the applicant’s fixed assets including real estate. Lender is not required to take a lien against applicant’s real estate when the equity is less than 25% of the fair market value. The lender may limit the lien taken against real estate to the loan amount."
+* Collateral: For loans above $25,000 \
+  \
+  The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans over $25,000, up to and including $350,000, the lender must follow the collateral policies and procedures that it has established and implemented for its similarly-sized non-SBA-guaranteed commercial loans, but at a minimum the lender must take a first lien on assets financed with loan proceeds and lender must take a lien on all of the applicant’s fixed assets including real estate. Lender is not required to take a lien against applicant’s real estate when the equity is less than 25% of the fair market value. The lender may limit the lien taken against real estate to the loan amount."
 
 #### SBA Express
 
