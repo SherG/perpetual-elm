@@ -19,15 +19,15 @@ These loans are the SBA's primary program for small business funding. Funds from
 
 There are seven different 7(a) loan types, and terms may vary between them. Among these types are express loans with fast approval times, and loans for exporters and veterans.
 
-* Standard 7(a)
-* 7(a) Small Loan
-* SBA Express
-* Export Express
-* Export Working Capital
-* International Trade
-* Preferred Lenders
-* Veterans Advantage
-* CAPLines
+1. Standard 7(a)
+2. 7(a) Small Loan
+3. SBA Express (The SBA will respond within 36 hours. Up to $350k is available. Lender makes eligibility decisions.
+4. Export Express
+5. Export Working Capital
+6. International Trade
+7. Preferred Lenders
+8. Veterans Advantage
+9. CAPLines
 
 
 
