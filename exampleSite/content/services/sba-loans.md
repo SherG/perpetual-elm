@@ -137,6 +137,7 @@ This program is for businesses that need additional capital to support their exp
 * Collateral: Includes inventory and receivables funded by the loan and personal guarantee of owners who have at least a 20% ownership in the business.
 
 #### International Trade
+
 <p></p>
 
 The SBA dedigned these loans to provide "long-term financing to businesses that are expanding because of growing export sales, or that have been adversely affected by imports and need to modernize to meet foreign competition."
