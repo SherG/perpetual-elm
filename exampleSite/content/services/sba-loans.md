@@ -75,7 +75,7 @@ These loans are the SBA's primary vehicle for small business funding.
 
 Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
 
-There are seven different 7(a) loan types. Terms may vary between them.
+There are seven different 7(a) loan types and they vary in terms: 
 
 * Standard 7(a)
 * 7(a) Small Loan
@@ -87,80 +87,4 @@ There are seven different 7(a) loan types. Terms may vary between them.
 * Veterans Advantage
 * CAPLines
 
-#### Standard 7(a)
-
-* Maximum amount: $5 million 
-* Eligibility and credit decisions: determined by the SBA with the exception of some lenders who have delegated authority to make the decision. 
-* Revolving lines of credit: Up to 10 years (Note: This requires a CAPLines submission. See below)
-* SBA turnound time: 5-10 business days
-* Collateral: For loans in excess of $350,000 the SBA requires that the lender fully collateralize the loan. That may include taking equity in the personal real estate of the applicant.
-
-#### 7(a) Small Loan
-
-* Maximum amount: $350,000
-* Eligibility and credit decisions: Same as for the 7(a)
-* SBA turnound time: 5-10 business days
-* Collateral: For loans above $25,000 the lender is required to follow its own collateral policies while meeting the SBA's minimum requirements
-
-#### SBA Express
-
-* Maximum amount: $350,000
-* Eligibility and credit decision: Made by lender
-* SBA turnaround time: 36 hours
-* Collateral: The lender is allowed to use their own collateral policy for loans over $25,000 up to $350,000.
-
-#### Export Express
-
-<p></p>
-
-Lending institutions often view loans to exporters as engendering significant political and commercial risk. 
-
-These programs seek to fill that gap with government-backed loans and lines of credit up to $500,000. 
-
-The SBA provides a 24-hour response to applications. Lenders provide the credit decision and loan documentation process. 
-
-* Maximum amount: $500,000
-* Eligibility and credit decision is made by the lender
-* Revolving lines of credit: Not to exceed 7 years
-* Collateral: Lender follows its own policies
-
-#### Export Working Capital
-
-<p></p>
-
-This program is for businesses that need additional capital to support their export sales.
-
-* Maximum amount: $5 million
-* Eligibility decision: Made by SBA unless delegated to lender
-* Credit decision: Made by SBA
-* Revolving lines of credit: 12 months or less
-* SBA turnaround: 5-10 business days
-* Forms required: SBA-EIB 84-1, plus attachments
-* Collateral: Includes inventory and receivables funded by the loan and personal guarantee of owners who have at least a 20% ownership in the business.
-
-#### International Trade
-
-<p></p>
-
-The SBA dedigned these loans to provide "long-term financing to businesses that are expanding because of growing export sales, or that have been adversely affected by imports and need to modernize to meet foreign competition."
-
-* Maximum amount: $5 million
-* Eligibility and credit decision: By SBA
-* SBA turnaround: 5-10 business days
-
-#### Veterans Advantage
-
-* SBA loans to veterans have [reduced fees](https://www.sba.gov/sites/default/files/files/Notice_5000-1955_Veteran_Fees_FY18_1.pdf). 
-* Eligibility: the business must be 51% veteran owned
-* The applicant must meet the SBA definition of "veteran"
-
-#### CAPLines
-
-* Provides funding for short term and seasonal needs and cyclical growth
-* 4 options
-* Depending on the option, may be used for labor, material, inventory, renovation, construction
-
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get started: Book a phone appoint to discover your best funding options</mark></a>
-<!-- Calendly link widget end -->
+####
