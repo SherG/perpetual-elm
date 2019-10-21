@@ -4,7 +4,7 @@ date: '2018-11-28T15:15:26+10:00'
 draft: false
 featured: true
 ---
-Merchant cash advance is one of the fastest and easiest options for business funding. Technically, it's not a loan: it's an advance of cash in return for a percentage of a business's future sales. 
+Merchant cash advance is one of the fastest and easiest options for business funding. Technically, it's not a loan: it's an advance of cash in return for a percentage of a business's future sales and a fee.
 
 This is why approval is revenue-based, not credit-based.
 
