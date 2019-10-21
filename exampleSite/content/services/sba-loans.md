@@ -87,4 +87,4 @@ There are seven different 7(a) loan types and they vary in terms:
 * Veterans Advantage
 * CAPLines
 
-####
+
