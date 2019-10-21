@@ -10,16 +10,16 @@ google_tag_manager_id = ""
 
   [params.logo]
   standard = "images/spearfish-logo.png"
-  mobile = "images/logo-mobile.svg"
-  alt = "Serif - A Hugo Business Theme"
+  mobile = "images/spearfish-logo.png"
+  alt = "Spearfish"
 
   [params.homepage_meta_tags]
-  meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_og_title = "Hugo Serif Theme"
+  meta_description = "Fast funding for small business. Same day or 24-72 hour turnaround possible. Good credit, bad credit, no credit."
+  meta_og_title = "Spearfish: Fast funding for small business"
   meta_og_type = "website"
   meta_og_url = "https://hugo-serif.netlify.com"
   meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-  meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description = "Spearish makes it easy for small business owners to get the funding they need -- fast."
   meta_twitter_card = "summary"
   meta_twitter_site = "@zerostaticio"
   meta_twitter_creator = "@zerostaticio"
