@@ -63,8 +63,7 @@ There are a variety of SBA loan programs. These are the:
 * Disaster loan program
 
 ### SBA 7(a) loans
-
-<br/>
+<p></p>
 These loans are the SBA's primary vehicle for small business funding. Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
 
 There are seven different 7(a) loan types, and terms may vary between them.
