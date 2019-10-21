@@ -46,9 +46,10 @@ body {
 
 blockquote {
 border-left: .20em solid #0050c7 !important; 
+border-style: inset;
 font-size: larger;
 font-style: oblique;
-padding-left: 2.5em
+padding-left: 0.5em
   }
 
 // Display breakpoints for DEV
