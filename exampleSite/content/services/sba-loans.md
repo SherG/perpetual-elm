@@ -63,6 +63,7 @@ There are a variety of SBA loan programs. These are the:
 * Disaster loan program
 
 ### SBA 7(a) loans
+
 <p></p>
 These loans are the SBA's primary vehicle for small business funding. Funds from 7(a) loans can be used in a variety of ways, including for working capital, expansion, fixed assets, and equipment purchases. 
 
@@ -86,9 +87,18 @@ There are seven different 7(a) loan types, and terms may vary between them.
 * SBA turnound time: 5-10 business days
 * Collateral: The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans in excess of $350,000, the SBA requires that the lender collateralize the loan to the maximum extent possible up to the loan amount. If business fixed assets do not 'fully secure' the loan the lender may include trading assets (using 10% of current book value for the calculation), and must take available equity in the personal real estate (residential and investment) of the principals as collateral."
 
+#### 7(a) Small Loan
+
+* Maximum amount: $350,000
+* Eligibility and credit decisions: Same as for the 7(a)
+* SBA turnound time: 5-10 business days
+* Collateral: The SBA states that: "Lenders are not required to take collateral for loans up to $25,000. For loans over $25,000, up to and including $350,000, the lender must follow the collateral policies and procedures that it has established and implemented for its similarly-sized non-SBA-guaranteed commercial loans, but at a minimum the lender must take a first lien on assets financed with loan proceeds and lender must take a lien on all of the applicant’s fixed assets including real estate. Lender is not required to take a lien against applicant’s real estate when the equity is less than 25% of the fair market value. The lender may limit the lien taken against real estate to the loan amount."
+
 #### SBA Express
 
 * Maximum amount: $350,000
-* (The SBA will respond within 36 hours. Up to $350k is available. Lender makes eligibility 
-* decisions.
-* ##
+* Eligibility and credit decision: Made by lender
+* SBA turnaround time: 36 hours
+* Collateral: The lender is allowed to use their own collateral policy for loans over $25,000 up to $350,000.
+
+#### Export Express
