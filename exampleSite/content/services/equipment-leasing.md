@@ -104,6 +104,7 @@ Exclusions: guns, boats, planes.
 ### Manufacturing
 
 * CNC machines
+* 3D printing equipment
 * Robotics
 * Conveyors
 
