@@ -40,7 +40,7 @@ Our goal is to find the best fit for your situation, quickly. We don’t impose 
 
 <p></p>
 
-Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.
+Our proprietary funding network was created by, and is maintained daily by, a New York City-based veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.
 
 ### About our name
 
