@@ -13,7 +13,7 @@ Our innovative solutions include the purchase of B2B accounts receivables for im
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a phone appointment to discover your funding options</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Discover your funding options</mark>.</a>
 <!-- Calendly link widget end -->
 
 ## Crisis and innovation
@@ -24,7 +24,7 @@ Banks, laboring under substantial losses, grappled with new regulatory and capit
 
 In this environment, small business loans -- already viewed as risky -- were considered unattractive. 
 
-Into this gap stepped innovators and an entire movement known as alternative lending or alternative finance. 
+Innovates stepped into the gap and an entire movement known as alternative lending or alternative finance was launched.
 
 ## What makes us different?   
 
@@ -32,5 +32,5 @@ Spearfish has two key advantages.
 
 1. We take a consultative approach. 
     Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
-2. Fast funding that's smart\
+2. Fast funding that's smart and rooted in experience\
    Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.
