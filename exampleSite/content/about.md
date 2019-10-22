@@ -20,7 +20,7 @@ Our innovative solutions include the purchase of B2B accounts receivables for im
 
 Following the 2008 recession, small business owners found it increasingly difficult to obtain the funding they needed.  
 
-Banks, laboring under substantial losses, were now grappling with new regulatory and capital requirements.  
+Banks, laboring under substantial losses, grappled with new regulatory and capital requirements.  
 
 In this environment, small business loans -- already viewed as risky -- were considered unattractive. 
 
@@ -30,8 +30,7 @@ Into this gap stepped innovators and an entire movement known as alternative len
 
 Spearfish has two key advantages. 
 
-1. We take a consultative approach. \
- Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
-
+1. We take a consultative approach. 
+    Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
 2. Fast funding that's smart\
-Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest names in finance.
+   Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.
