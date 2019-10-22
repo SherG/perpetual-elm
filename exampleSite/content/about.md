@@ -1,5 +1,5 @@
 ---
-title: About
+title: Fast funding that's smart
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
