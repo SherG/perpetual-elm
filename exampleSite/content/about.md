@@ -24,11 +24,12 @@ Banks, laboring under substantial losses, grappled with new regulatory and capit
 
 In this environment, small business loans -- already viewed as risky -- were considered unattractive. 
 
-Innovates stepped into the gap and an entire movement known as alternative lending or alternative finance was launched.
+Innovators stepped into the gap and an entire movement known as alternative lending or alternative finance was launched.
 
 ## What makes us different?   
 
 Spearfish has two key advantages. 
+
 <ol>
 <li><p>We take a consultative approach. </p>
     Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
@@ -36,6 +37,7 @@ Spearfish has two key advantages.
    Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.</p></ol>
 
 ### About our name
+
 <p></p>
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.
