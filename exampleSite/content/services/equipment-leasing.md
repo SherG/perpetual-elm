@@ -46,24 +46,24 @@ Here's an example of how Section 179 works:
 
 <table>
   <tr>
-    <td background-color: #f4f5fa;>Equipment purchases:</td>
-    <td>$1,190,000</td>
+    <td style="background-color: #f4f5fa">Equipment purchases:</td>
+    <td style="background-color: #f4f5fa">$1,190,000</td>
   </tr>
   <tr>
     <td>First year write-off:<br>($1 million maximum in 2019)</td>
     <td>$1,000,000</td>
   </tr>
   <tr>
-    <td>100% Bonus first year depreciation</td>
-    <td>$190,000</td>
+    <td style="background-color: #f4f5fa">100% Bonus first year depreciation</td>
+    <td style="background-color: #f4f5fa">$190,000</td>
   </tr>
   <tr>
     <td>Total first year deduction:</td>
     <td>$1,190,000</td>
   </tr>
   <tr>
-    <td>Cash savings: <br>($1,190,000 x 35% tax rate)<br></td>
-    <td>$416,500</td>
+    <td style="background-color: #f4f5fa">Cash savings: <br>($1,190,000 x 35% tax rate)<br></td>
+    <td style="background-color: #f4f5fa">$416,500</td>
   </tr>
   <tr>
     <td>Equipment cost after tax: <br>(Assuming a 35% tax bracket)</td>
