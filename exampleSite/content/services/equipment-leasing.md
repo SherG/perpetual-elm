@@ -63,11 +63,11 @@ Here's an example of how Section 179 works:
   </tr>
   <tr>
     <td style="background-color: #f4f5fa">Cash savings: <br>($1,190,000 x 35% tax rate)<br></td>
-    <td style="background-color: #f4f5fa">$416,500</td>
+    <td style="background-color: #f4f5fa"><mark>$416,500</mark></td>
   </tr>
   <tr>
     <td>Equipment cost after tax: <br>(Assuming a 35% tax bracket)</td>
-    <td><mark>$773,500</mark></td>
+    <td>$773,500</mark></td>
   </tr>
 </table><br/>
 
