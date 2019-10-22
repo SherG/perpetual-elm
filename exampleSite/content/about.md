@@ -37,4 +37,4 @@ Spearfish has two key advantages.
 
 ### About our name
 
-Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the mid-Connecticut River Valley in New Hampshire.
+Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.
