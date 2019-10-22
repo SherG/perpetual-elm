@@ -30,12 +30,16 @@ Innovators stepped into the gap and an entire movement known as alternative lend
 
 Spearfish has two key advantages. 
 
-### We take a consultative approach. 
+### We take a consultative approach
+
 <p></p>
+
 Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
 
 ### Fast funding that's smart
+
 <p></p>
+
 Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.
 
 ### About our name
