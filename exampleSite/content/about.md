@@ -34,3 +34,7 @@ Spearfish has two key advantages.
     Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
 2. Fast funding that's smart and rooted in experience\
    Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.
+
+### About our name
+
+Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the mid-Connecticut River Valley in New Hampshire.
