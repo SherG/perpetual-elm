@@ -33,7 +33,7 @@ Spearfish has two key advantages.
 <li><p>We take a consultative approach. </p>
     Our goal is to find the best fit for your situation, quickly. We don’t impose a one-size-fits-all solution. We prize repeat business.  
 <li><p>Fast funding that's smart and rooted in experience</p>
-   Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.</p>
+   Our proprietary funding network was created by, and is maintained daily by, a New York City-based industry veteran with over 20 years of finance experience. This allows us open the door to ultra-fast, simplified deals from some of the biggest -- and most highly rated -- names in finance.</p></ol>
 
 ### About our name
 
