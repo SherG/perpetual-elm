@@ -11,11 +11,9 @@ These include:
 
 1. Equipment financing
 2. [Syndicated Line of Credit (SLOC)](/services/sloc)
-3. [Invoice Factoring ](/services/invoice-factoring)
+3. [Invoice Factoring](/services/invoice-factoring)
 
-Purchasing assets with cash presents some risks to the business owner, including tying capital up.
-
-Equipment financing can mitigate risk and free cash up for inventory, marketing, research and development, and other costs.
+Financing equipment can mitigate the risks inherent in the purchase or large-ticket assets and free cash up for inventory, marketing, research and development, and other costs.
 
 <!-- Calendly link widget begin -->
 
@@ -48,7 +46,7 @@ Here's an example of how Section 179 works:
 
 <table>
   <tr>
-    <td>Equipment purchases:</td>
+    <td background-color: #f4f5fa;>Equipment purchases:</td>
     <td>$1,190,000</td>
   </tr>
   <tr>
