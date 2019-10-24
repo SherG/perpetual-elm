@@ -89,7 +89,7 @@ Exclusions: guns, boats, planes.
 
 ### Construction
 
-* Yellow iron: Excavators, bulldozers, motor graders, wheel loaders, dumpers, loader backhoes, compact track loaders, crawler loaders, etc.
+* Yellow iron: Cranes, excavators, bulldozers, motor graders, wheel loaders, dumpers, loader backhoes, compact track loaders, crawler loaders, etc.
 * Trucks
 * Rock crushers
 * Cement mixers
