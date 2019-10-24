@@ -1,7 +1,7 @@
 [
   {
     "title": "Free Consultation",
-    "description": "Book a phone appointment today. Get funding options ASAP.",
+    "description": "<a href=\"/contact/\">"Book a phone appointment today. Get funding options ASAP.","</a>",
     "image": "images/features/funding-consultant.svg"
   },
   {
