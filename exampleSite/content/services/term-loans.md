@@ -6,9 +6,15 @@ Our streamlined process can get you approved in _hours_ - not weeks. Apply in th
 
 * Working capital for startups and established entrepreneurs with credit scores of 700+.
 
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Get started: Book a phone appointment with us</mark>.</a>
+<!-- Calendly link widget end -->
+
 ## Startup funding: Line of Credit (LOC)
 
-Line of credit: Get up to $150k per round.
+Line of credit: Get up to $150k per "round."
 
 * Loan terms are based on the strength of your personal credit. 
 * Funds will be transferred to a credit card Line of Credit
