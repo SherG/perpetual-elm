@@ -12,8 +12,3 @@ Get started by booking a phone consultation with one of our funding specialists.
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Click here to schedule your appointment</mark>.</a>
 <!-- Calendly link widget end -->
-
-Mailing address:\
-Spearfish\
-130 Great Meadow Ferry Rd.\
-Westmoreland, NH 03467
