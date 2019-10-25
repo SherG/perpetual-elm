@@ -12,9 +12,9 @@ We work with an established and respected firm that handles these issues for our
 
 Note: You do not need to be a client of ours to use the credit repair service.
 
-To get started with credit repair, fill out our [contact form](/contact/). <!-- Calendly link widget begin -->
+<!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">Or, <mark>	book a phone appointment</mark> with us.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;">To get started with credit repair,  <mark>	book a phone appointment</mark> with us.</a>
 <!-- Calendly link widget end -->
