@@ -13,4 +13,4 @@ To get started, book a free phone consultation with one of our funding specialis
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Click here to schedule your free  appointment</mark>.</a>
 <!-- Calendly link widget end -->
 
-Mailing address: 130 Great Meadow Ferry Rd., Westmoreland, NH 03467
+Mailing address: P.O. Box 68, Westmoreland, NH 03467
