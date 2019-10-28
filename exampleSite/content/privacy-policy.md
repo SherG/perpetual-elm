@@ -16,7 +16,7 @@ When you use the Site, you consent to the collection, storage, use, disclosure a
 
 We encourage our Users to carefully read the Privacy Policy and use it to make informed decisions.
 
-### What type of information we collect?
+What type of information we collect?
 
 We collect two types of data and information from Users.
 
@@ -29,7 +29,7 @@ This data is not connected to personal identifiers: meaning, we do not know the 
 
 Offers that we make on the website such as free consultations or email newsletter sign up will require contact information such as an email address, in order to send you information and/or electronic reminders. Toward that end, you will be asked to provide us certain details such as: full name; e-mail or physical address, and other information.
 
-### How do we receive information about you?
+How do we receive information about you?
 
 We receive your Personal Information from various sources:
 
@@ -37,11 +37,11 @@ We receive your Personal Information from various sources:
 * When you use or access our Site in connection with your use of our services;
 * From third party providers, services and public registers (for example, traffic analytics vendors).
 
-#### How do we use this information?
+How do we use this information?
 
 We do not rent or sell Users’ information with third parties. We may share your information with our underwriting, factoring, and finance partners in order to provide you with funding options that you are seeking. 
 
-#### We may use the information for the following:
+We may use the information for the following:
 
 * Communicating with you – sending you notices regarding our services, providing you with technical information and responding to any inquiry you may have;
 * To communicate with you and to keep you informed of our latest updates and services;
@@ -62,15 +62,12 @@ In addition to the purposes listed in this Privacy Policy, we may share Personal
 
 We may also disclose information if we have good faith to believe that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our policies (including our Agreement), including investigations of potential violations thereof; (iii) investigate, detect, prevent, or take action regarding illegal activities or other wrongdoing, suspected fraud or security issues; (iv) to establish or exercise our rights to defend against legal claims; (v) prevent harm to the rights, property or safety of us, our users, yourself or any third party; or (vi) for the purpose of collaborating with law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other legal rights.
 
-**User Rights**
+## User Rights
 
 You may request to:
 
-* Receive confirmation as to whether or not personal information concerning you is being processed, and access your stored personal information, together with supplementary information.
-* Receive a copy of personal information you directly volunteer to us in a structured, commonly used and machine-readable format.
-* Request rectification of your personal information that is in our control.
+* Request alteration of your personal information that is in our control.
 * Request erasure of your personal information.
-* Request to restrict processing of your personal information by us.
 
 However, please note that these rights are not absolute, and may be subject to our own legitimate interests and regulatory requirements.
 
