@@ -169,6 +169,6 @@ Your continued use of the Platform, following the notification of such amendment
 
 How to contact us
 
-If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: isf.fov@gmail.com or call us at (646) 760-9330.
+If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: data@spearfishcap.com. 
 
-Last Modified: July 29, 2019-
+Last Modified: October 27, 2019
