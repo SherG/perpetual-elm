@@ -2,6 +2,8 @@
 title: Terms of Use and Terms and Conditions
 date: 2019-10-25T04:55:43.435Z
 ---
+Last updated: October 27, 2019\
+\
 These Terms of Use constitute a binding legal agreement between you and Spearfish Capital Funding LLC d/b/a Spearfish. These Terms of Use determine the way we conduct our business with you and govern your use of the Site and our services.
 
 The words “Site” or “Website” or "Web Site" refers to https://www.spearfishcap.com/ (“URL”), all pages contained within the URL or linked thereto, and all linked subdomains, mobile applications, on-line forms, and the application for business funding that links to these Terms of Use/ Terms and Conditions.
@@ -35,6 +37,12 @@ By submitting information to Spearfish, either through the Site or other electro
 You assume all risk and responsibility for your conduct on the Site and use of our services, including any risk associated with your interactions with third-parties, and hereby waive all claims or actions against Spearfish.
 
 You agree that Spearfish is making no commitment or guarantee that any service, product, evaluation, or guidance provided by Spearfish will result in approval for business funding. You acknowledge that by engaging or communicating with Spearfish, you are not guaranteed any funding or form of funding.
+
+## Changes to Terms
+
+At any time we reserve the right to remove, add, or modify any content contained in our Terms of Use and Privacy Policy without notice. It is your responsibility to check the “last updated” date at the top of this page during each visit to our Site and periodically while using our services.
+
+Your continued use of our Site and services means you have read, understood, and accept the most recent version of this agreement as binding. Please check the last updated date frequently so you are aware of any changes.
 
 ## Laws and Regulations
 
@@ -97,5 +105,3 @@ Timing of funding: If you receive approval for funding, the time frame that you 
 ## Trade Name
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a New Hampshire-based small business.
-
-Last updated: October 27, 2019
