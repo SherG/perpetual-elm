@@ -271,9 +271,10 @@ Spearfish is a trade name of Spearfish Capital Funding LLC, a New Hampshire-base
 ## Contact Information
 
 If you have any questions regarding these Terms and Conditions, you may contact us via phone, email, or mail:\
-
-(855) 401-1888
+\
+(855) 401-1888\
 funds@spearfishcap.com
+\
 Spearfish
 P.O.Box 68
 Westmoreland, NH 03467
