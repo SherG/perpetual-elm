@@ -275,6 +275,4 @@ If you have any questions regarding these Terms and Conditions, you may contact 
 (855) 401-1888\
 funds@spearfishcap.com
 \
-Spearfish
-P.O.Box 68
-Westmoreland, NH 03467
+Mailing address: Spearfish P.O.Box 68, Westmoreland, NH 03467
