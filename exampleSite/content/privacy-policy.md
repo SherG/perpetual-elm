@@ -147,17 +147,17 @@ Out of respect to your right to privacy we provide you within such marketing mat
 
 Please note that even if you have unsubscribed from receiving marketing emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements or administrative notices.
 
-Corporate transaction
+## Corporate transaction
 
 We may share information in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, the transferee or acquiring company will assume the rights and obligations as described in this Privacy Policy.
 
-Updates or amendments to this Privacy Policy
+## Updates or amendments to this Privacy Policy
 
 We reserve the right to periodically amend or revise the Privacy Policy; material changes will be effective immediately upon the display of the revised Privacy policy. The last revision will be reflected in the “Last modified” section.
 
 Your continued use of the Platform, following the notification of such amendments on our website, constitutes your acknowledgment and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
 
-How to contact us
+## How to contact us
 
 If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: data@spearfishcap.com. 
 
