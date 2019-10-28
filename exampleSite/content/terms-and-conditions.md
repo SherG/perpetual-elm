@@ -64,6 +64,6 @@ Timing of funding: If you receive approval for funding, the time frame that you 
 
 ## Trade Name
 
-Spearfish is a trade name of Spearfish Capital Funding LLC.
+Spearfish is a trade name of Spearfish Capital Funding LLC, a New Hampshire-based small business.
 
 Last updated: October 27, 2019
