@@ -10,7 +10,7 @@ User access to and use of the Site is subject to all applicable federal, state a
 
 ## Copyright Information
 
-The information contained at the Site, including but not limited to text and images herein (other than certain images licensed from third parties) and their arrangement, are copyright ©2019 by Spearfish. All rights reserved.
+The information contained at the Site, including but not limited to text and images herein (other than [certain images](/about-this-website/) licensed from third parties) and their arrangement, are copyright ©2019 by Spearfish. All rights reserved.
 
 The Spearfish logo is property of Spearfish. Nothing contained at the Site shall be construed as granting by implication, estoppel, or otherwise any license or right under any patent, trademark, copyright (except as expressly stated above) or proprietary rights of Spearfish or of any third party.
 
