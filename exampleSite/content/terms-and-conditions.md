@@ -8,6 +8,28 @@ The words “Site” or “Website” or "Web Site" refers to https://www.spearf
 
 Spearfish provides the materials contained at our site(s) on the World Wide Web (the "Site") as a service to our customers and visitors. Spearfish requires that all visitors to the Site adhere to the following Terms of Use and Terms and Conditions. By accessing the Site and any of its pages, you indicate your acknowledgement and acceptance of the Terms and Conditions set forth below without limitation or qualification. Spearfish may revise these Terms and Conditions at any time by updating this posting, which revisions will be binding upon all visitors to the Site. You should therefore visit this posting to review these Terms and Conditions from time to time as you visit the Site. For purposes of these Terms and Conditions references to Spearfish include its affiliates, partners, directors and employees.
 
+## Eligible Users and Acknowledgements
+
+You may not use the Spearfish Site, services, or products offered through the Site if you are under 18 years of age or if you are not a legal resident of the United States.
+
+Your account may be terminated without warning if we believe, in our sole discretion, that you are less than 18 years of age or not a United States resident.
+
+ In addition, by using the Website, you are affirming that;
+
+* You accept sole responsibility for any and all of your activities and conduct while using this Site.
+* You are responsible for ensuring that you do not violate any applicable federal or state laws or statutes, including copyright laws, when using this Site.
+* You will not transmit or upload viruses, worms or any other destructive or malicious code or executable program to the Website.
+* You will not use bots to engage Spearfish’s Site or services.
+
+By submitting information to Spearfish, either through the Site or other electronic communication, you are further affirming that;
+
+* You are authorized to act on behalf of your business or company and able to bind such entity
+* You are not misrepresenting yourself, your business, or any information related to your current financial accounts
+* All information provided by you or your business partner(s) is true, accurate, current, and complete, and that you will maintain the accuracy of that information
+* Your use of our products or services does not violate any applicable law or regulation
+* You will not use the services for any illegal, immoral or unauthorized purpose
+* You assume all liability for the information you provide.
+
 ## Laws and Regulations
 
 User access to and use of the Site is subject to all applicable federal, state and local laws and regulations. Unauthorized use of this system is prohibited and violators can be prosecuted under federal and state laws. New Hampshire law and Federal law will govern the interpretation and enforcement of these Terms and Conditions.
