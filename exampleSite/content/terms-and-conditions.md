@@ -1,14 +1,14 @@
 ---
-title: Terms of Use and Terms and Conditions
+title: Terms and Conditions
 date: 2019-10-25T04:55:43.435Z
 ---
 Last updated: October 27, 2019\
 \
-These Terms of Use constitute a binding legal agreement between you and Spearfish Capital Funding LLC d/b/a Spearfish. These Terms of Use determine the way we conduct our business with you and govern your use of the Site and our services.
+These Terms of Use and Terms of Conditions constitute a binding legal agreement between you and Spearfish Capital Funding LLC d/b/a Spearfish. These Terms and Conditions determine the way we conduct our business with you and govern your use of the Site and our services.
 
 The words “Site” or “Website” or "Web Site" refers to https://www.spearfishcap.com/ (“URL”), all pages contained within the URL or linked thereto, and all linked subdomains, mobile applications, on-line forms, and the application for business funding that links to these Terms of Use/ Terms and Conditions.
 
-Spearfish provides the materials contained at our site(s) on the World Wide Web (the "Site") as a service to our customers and visitors. Spearfish requires that all visitors to the Site adhere to the following Terms of Use and Terms and Conditions. By accessing the Site and any of its pages, you indicate your acknowledgement and acceptance of the Terms and Conditions set forth below without limitation or qualification. Spearfish may revise these Terms and Conditions at any time by updating this posting, which revisions will be binding upon all visitors to the Site. You should therefore visit this posting to review these Terms and Conditions from time to time as you visit the Site. For purposes of these Terms and Conditions references to Spearfish include its affiliates, partners, directors and employees.
+Spearfish provides the materials contained at our site(s) on the World Wide Web (the "Site") as a service to our customers and visitors. Spearfish requires that all visitors to the Site adhere to the following Terms and Conditions. By accessing the Site and any of its pages, you indicate your acknowledgement and acceptance of the Terms and Conditions set forth below without limitation or qualification. Spearfish may revise these Terms and Conditions at any time by updating this posting, which revisions will be binding upon all visitors to the Site. You should therefore visit this posting to review these Terms and Conditions from time to time as you visit the Site. For purposes of these Terms and Conditions references to Spearfish include its affiliates, partners, directors and employees.
 
 ## Eligible Users and Acknowledgements
 
