@@ -226,7 +226,7 @@ Spearfish bears no responsibility for the content, or availability of the conten
 
 You acknowledge and agree that any of your electronic communications with us, including telephone calls, may be monitored or recorded at any time and without notice.
 
-Monitoring may involve an ongoing review of your business bank account if linked by a secured third-party, updating an inquiry into your credit, and reviewing your communications with us for quality assurance or training purposes, and to assess your financial readiness to receive business funding now or in the future.
+Monitoring may involve updating an inquiry into your credit, and reviewing your communications with us for quality assurance or training purposes, and to assess your financial readiness to receive business funding now or in the future.
 
 Recording may also include tracking your activity on the Site or saving data files of your communications with Spearfish. All communications are subject to the Spearfish Privacy Policy (found here: https://www.spearfishcap.com/privacy-policy/), which is incorporated by reference in these Terms of Use.
 
