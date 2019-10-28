@@ -62,49 +62,42 @@ In addition to the purposes listed in this Privacy Policy, we may share Personal
 
 We may also disclose information if we have good faith to believe that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our policies (including our Agreement), including investigations of potential violations thereof; (iii) investigate, detect, prevent, or take action regarding illegal activities or other wrongdoing, suspected fraud or security issues; (iv) to establish or exercise our rights to defend against legal claims; (v) prevent harm to the rights, property or safety of us, our users, yourself or any third party; or (vi) for the purpose of collaborating with law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other legal rights.
 
-User Rights
+\## User Rights
 
 You may request to:
 
-Receive confirmation as to whether or not personal information concerning you is being processed, and access your stored personal information, together with supplementary information.
-
-Receive a copy of personal information you directly volunteer to us in a structured, commonly used and machine-readable format.
-
-Request rectification of your personal information that is in our control.
-
-Request erasure of your personal information.
-
-Object to the processing of personal information by us.
-
-Request to restrict processing of your personal information by us.
-
-Lodge a complaint with a supervisory authority.
+* Receive confirmation as to whether or not personal information concerning you is being processed, and access your stored personal information, together with supplementary information.
+* Receive a copy of personal information you directly volunteer to us in a structured, commonly used and machine-readable format.
+* Request rectification of your personal information that is in our control.
+* Request erasure of your personal information.
+* Request to restrict processing of your personal information by us.
 
 However, please note that these rights are not absolute, and may be subject to our own legitimate interests and regulatory requirements.
 
-If you wish to exercise any of the aforementioned rights, or receive more information, please contact our Data Protection Officer (“DPO”) using the details provided below:
+If you wish to exercise any of the aforementioned rights, or receive more information, please contact us using the details provided below:
 
-isf.fov@gmail.com
+data@spearfishcap.com
 
-Retention
+## Retention
 
-We will retain your personal information for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. Retention periods will be determined taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, account opening documents, communications and anything else as required by applicable laws and regulations.
+We will retain your personal information for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. 
+
+Retention periods will be determined taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, account opening documents, communications and anything else as required by applicable laws and regulations.
 
 We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
 
-Cookies
+## Cookies
 
 We and our trusted partners use cookies and other technologies in our related services, including when you visit our Site or access our services.
 
 A “cookie” is a small piece of information that a website assign to your device while you are viewing a website.
 
-Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier.
+* Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier.
+* Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests and to compile statistical data on your use of our Services.
 
-Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests and to compile statistical data on your use of our Services.
+<a href="https://www.cookiesandyou.com/" target="blank">Learn more about cookies</a>.
 
-Learn more about cookies.
-
-The Site uses the following types of cookies:
+### The Site uses the following types of cookies:
 
 a. ‘Session cookies’ which are stored only temporarily during a browsing session in order to allow normal use of the system and are deleted from your device when the browser is closed;
 
@@ -114,13 +107,13 @@ c. ‘Third party cookies’ which are set by other online services who run cont
 
 Cookies do not contain any information that personally identifies you, but Personal Information that we store about you may be linked, by us, to the information stored in and obtained from cookies. You may remove the cookies by following the instructions of your device preferences; however, if you choose to disable cookies, some features of our Site may not operate properly and your online experience may be limited.
 
-We also use a tool called Google Analytics to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services.
+We also use analytics tools including Google Analytics to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services.
 
 Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information.
 
 Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
 
-Third party collection of information
+### Third party collection of information
 
 Our policy only addresses the use and disclosure of information we collect from you. To the extent you disclose your information to other parties or sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them.
 
@@ -128,7 +121,7 @@ Accordingly, we encourage you to read the terms and conditions and privacy polic
 
 This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals whom we do not employ or manage, including any of the third parties which we may disclose information as set forth in this Privacy Policy.
 
-How do we safeguard your information?
+## How do we safeguard your information?
 
 We take great care in implementing and maintaining the security of the Site and your information. We employ industry standard procedures and policies to ensure the safety of the information we collect and retain, and prevent unauthorized use of any such information, and we require any third party to comply with similar security requirements, in accordance with this Privacy Policy.
 
