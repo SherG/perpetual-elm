@@ -24,7 +24,7 @@ Spearfish reserves the right to terminate users of its services who are repeat i
 
 ## Limitation of Liabilities and Warranties
 
-INFORMATION ON THE SITE IS PROVIDED"AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+INFORMATION ON THE SITE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
 
 The information contained at the Site may include technical inaccuracies or typographical errors. Spearfish from time to time amends, changes, adds, deletes, updates or alters the information contained at this Site, including information regarding the products and services described at the Site, without notice. Spearfish assumes no liability for any errors or omissions in the information contained at the Site and expressly disclaims any responsibility to update the information contained at the Site.
 
