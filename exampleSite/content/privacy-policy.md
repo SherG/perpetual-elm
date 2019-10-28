@@ -62,7 +62,7 @@ In addition to the purposes listed in this Privacy Policy, we may share Personal
 
 We may also disclose information if we have good faith to believe that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our policies (including our Agreement), including investigations of potential violations thereof; (iii) investigate, detect, prevent, or take action regarding illegal activities or other wrongdoing, suspected fraud or security issues; (iv) to establish or exercise our rights to defend against legal claims; (v) prevent harm to the rights, property or safety of us, our users, yourself or any third party; or (vi) for the purpose of collaborating with law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other legal rights.
 
-\## User Rights
+**User Rights**
 
 You may request to:
 
@@ -127,25 +127,19 @@ We take great care in implementing and maintaining the security of the Site and 
 
 For example:
 
-We use TLS/SSL to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with JAMstack technology, and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
-
-This site is distributed by an application delivery network that uses Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most secure, reliable, and advanced platforms.
-
-The code for the site is secured via physical U2F security key with an authenticator app as a backup.
+* We use TLS/SSL to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with JAMstack technology, and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
+* This site is distributed by an application delivery network that uses Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most secure, reliable, and advanced platforms.
+* The code for the site is secured via physical U2F security key with an authenticator app as a backup.
 
 Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-Transfer of data outside the European Economic Area (EEA)
-
-Please note that some data recipients may be located outside the EEA. In such cases we will transfer your data only to such countries as approved by the European Commission as providing adequate level of data protection, or enter into legal agreements ensuring an adequate level of data protection.
-
-Advertisements
+## Advertisements
 
 We may use a third-party advertising technology to serve advertisements when you access the Site. This technology uses your information with regards to your use of the Services to serve advertisements to you (e.g., by placing third-party cookies on your web browser).
 
 You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information about this practice by NAI and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: http://optout.networkadvertising.org/#!/ and http://optout.aboutads.info/#!/.
 
-Marketing
+## Marketing
 
 We may use your Personal Information, such as your name, email address, telephone number, etc. ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning our services, which we believe may interest you.
 
@@ -156,10 +150,6 @@ Please note that even if you have unsubscribed from receiving marketing emails f
 Corporate transaction
 
 We may share information in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, the transferee or acquiring company will assume the rights and obligations as described in this Privacy Policy.
-
-Minors
-
-We understand the importance of protecting children’s privacy, especially in an online environment. The Site is not designed for or directed at children. Under no circumstances shall we allow use of our services by minors without prior consent or authorization by a parent or legal guardian. We do not knowingly collect Personal Information from minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at isf.fov@gmail.com.
 
 Updates or amendments to this Privacy Policy
 
