@@ -218,15 +218,9 @@ You further understand and acknowledge that our affiliates, vendors, business pa
 
 ### Consent to Contact Third-Parties
 
-You understand and agree that you authorize Spearfish to access third-party sites on your behalf for the purpose of servicing your request for business funding, thereby granting Spearfish a limited power of attorney as your agent.
+You understand and agree that you authorize Spearfish to access third-party sites on your behalf for the purpose of servicing your request for business funding.
 
-With this authority Spearfish may use your information to access third-party sites, access documents, and retrieve information, with full power of attorney to do and perform every act as necessary and for all intents and purposes outline in these Terms of Use.
-
-The services offered through our Site may incorporate Application Programming Interfaces (API’s) to communicate and share information with third-parties. The API’s utilized through the Site include transmitting your transactional data and other personal or business information to Spearfish or our partners.
-
-You agree that by linking your bank account via API through a third-party to Spearfish, you grant us the authority as your agent to access this information at any time and as needed to monitor your performance.
-
-Spearfish bears no responsibility for the content, or availability of the content, provided by or through the use of third-party API’s.
+Spearfish bears no responsibility for the content, or availability of the content, provided by or through the use of third-party sites or APIs.
 
 ## Monitoring and Privacy
 
