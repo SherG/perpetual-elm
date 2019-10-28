@@ -260,7 +260,6 @@ You are required to cooperate fully with any investigation by Spearfish, its age
 
 You acknowledge that any willful violation of this binding agreement or illicit use of our services could result in civil or criminal penalties.
 
-
 ## Timing of Funding
 
 Timing of funding: If you receive approval for funding, the time frame that you receive that funding in, is not guaranteed by Spearfish. It may vary depending on when you provide the necessary information and/or fill out the necessary forms, how quickly you respond to request(s) for follow up communication(s), your bank’s policies, and/or any co-occurring and/or relevant event such as natural or geopolitical disasters, electricity blackouts, or human or technology errors.
@@ -268,3 +267,13 @@ Timing of funding: If you receive approval for funding, the time frame that you 
 ## Trade Name
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a New Hampshire-based small business.
+
+## Contact Information
+
+If you have any questions regarding these Terms and Conditions, you may contact us via phone, email, or mail:\
+
+(855) 401-1888
+funds@spearfishcap.com
+Spearfish
+P.O.Box 68
+Westmoreland, NH 03467
