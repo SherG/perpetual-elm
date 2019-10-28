@@ -1,9 +1,7 @@
 ---
-title: Terms and conditions
+title: Terms of Use and Terms and Conditions
 date: 2019-10-25T04:55:43.435Z
 ---
-## Terms of Use and Terms and Conditions
-
 Spearfish provides the materials contained at our site(s) on the World Wide Web (the "Site") as a service to our customers and visitors. Spearfish requires that all visitors to the Site adhere to the following Terms of Use and Terms and Conditions. By accessing the Site and any of its pages, you indicate your acknowledgement and acceptance of the Terms and Conditions set forth below without limitation or qualification. Spearfish may revise these Terms and Conditions at any time by updating this posting, which revisions will be binding upon all visitors to the Site. You should therefore visit this posting to review these Terms and Conditions from time to time as you visit the Site. For purposes of these Terms and Conditions references to Spearfish include its affiliates, directors and employees.
 
 ## Laws and Regulations
