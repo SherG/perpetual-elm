@@ -30,6 +30,12 @@ By submitting information to Spearfish, either through the Site or other electro
 * You will not use the services for any illegal, immoral or unauthorized purpose
 * You assume all liability for the information you provide.
 
+## Use of Site: Restrictions
+
+You assume all risk and responsibility for your conduct on the Site and use of our services, including any risk associated with your interactions with third-parties, and hereby waive all claims or actions against Spearfish.
+
+You agree that Spearfish is making no commitment or guarantee that any service, product, evaluation, or guidance provided by Spearfish will result in approval for business funding. You acknowledge that by engaging or communicating with Spearfish, you are not guaranteed any funding or form of funding.
+
 ## Laws and Regulations
 
 User access to and use of the Site is subject to all applicable federal, state and local laws and regulations. Unauthorized use of this system is prohibited and violators can be prosecuted under federal and state laws. New Hampshire law and Federal law will govern the interpretation and enforcement of these Terms and Conditions.
