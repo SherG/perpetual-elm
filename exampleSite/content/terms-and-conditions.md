@@ -24,7 +24,7 @@ Your account may be terminated without warning if we believe, in our sole discre
 By submitting information to Spearfish, either through the Site or other electronic communication, you are further affirming that;
 
 * You are authorized to act on behalf of your business or company and able to bind such entity
-* You are not misrepresenting yourself, your business, or any information related to your current financial accounts
+* You are not misrepresenting yourself, your identity (including personal name), your business, or any information related to your current financial accounts
 * All information provided by you or your business partner(s) is true, accurate, current, and complete, and that you will maintain the accuracy of that information
 * Your use of our products or services does not violate any applicable law or regulation
 * You will not use the services for any illegal, immoral or unauthorized purpose
