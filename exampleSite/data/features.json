@@ -1,7 +1,9 @@
+
 [
   {
     "title": "Free Consultation",
-    "description": "Book a phone appointment today. Get funding options ASAP.",
+    "description": "Get started now.",
+    "url": "https://calendly.com/spearfish/consultation",
     "image": "images/features/funding-consultant.svg"
   },
   {
@@ -15,3 +17,4 @@
     "image": "images/agreement.svg"
   }
 ]
+
