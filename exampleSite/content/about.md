@@ -40,10 +40,8 @@ Our goal is to find the best fit for your situation, quickly. We don’t impose 
 
 <p></p>
 
-Our proprietary funding network was created by -- and is managed daily by -- a New York City-based industry veteran with over 20 years of finance experience. We open the door to ultra-fast, simplified deals from some of the best -- and most highly rated -- names in finance.
+Our proprietary funding system was created by -- and is managed daily by -- a New York City-based industry veteran with over 20 years of finance experience. We open the door to ultra-fast, simplified deals from some of the best -- and most highly rated -- names in finance.
 
-### About our name
-
-<p></p>
+## About our name
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.
