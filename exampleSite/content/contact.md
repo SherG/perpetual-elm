@@ -4,13 +4,15 @@ date: '2018-02-22T17:01:34+07:00'
 layout: contact
 menu: main
 ---
-To get started, book a free phone consultation with one of our funding specialists.
 
-<!-- Calendly link widget begin -->
 
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Click here to schedule your free  appointment</mark>.</a>
-<!-- Calendly link widget end -->
+| Day       | Opening Hours   |
+| --------- | --------------- |
+| Monday    | 8:30am - 5:00pm |
+| Tuesday   | 8:30am - 5:00pm |
+| Wednesday | 8:30am - 6:00pm |
+| Thursday  | 8:30am - 7:00pm |
+| Friday    | 8:30am - 5:00pm |
 
-Mailing address: P.O. Box 68, Westmoreland, NH 03467
+
+
