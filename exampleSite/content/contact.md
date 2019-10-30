@@ -14,7 +14,6 @@ menu: main
 
 <p></p>
 <hr>
-<p>
-Mailing address: &nbsp;
-P.O. Box 68 &nbsp;
-Westmoreland, NH  03467</p>
+Mailing address: 
+P.O. Box 68, 
+Westmoreland, NH  03467
