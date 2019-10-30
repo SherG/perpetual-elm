@@ -12,6 +12,8 @@ menu: main
 | Thursday  | 8:30am - 7:00pm |
 | Friday    | 8:30am - 5:00pm |
 
+<p></p>
+<hr>
 Mailing address: &nbsp;
 P.O. Box 68 &nbsp;
 Westmoreland, NH 03467
