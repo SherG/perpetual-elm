@@ -59,7 +59,7 @@ padding-left: 0.5em
 /* spearfish fonts for hosting locally */
 
 /* roboto-regular - latin */
-font-face {
+@font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -69,7 +69,7 @@ font-face {
       font-display: swap;
 }
 /* roboto-italic - latin */
-font-face {
+@font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 400;
@@ -79,7 +79,7 @@ font-face {
        font-display: swap;
 }
 /* roboto-500 - latin */
-font-face {
+@font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
@@ -89,7 +89,7 @@ font-face {
        font-display: swap;
 }
 /* roboto-700 - latin */
-font-face {
+@font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
