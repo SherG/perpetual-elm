@@ -52,8 +52,8 @@ padding-left: 0.5em
   }
 
 /* spearfish font mixins */
-
-
+@import 'fontface';
+@include fontFace('Roboto','../font/Roboto');
 
 /* spearfish fonts for hosting locally */
 
