@@ -36,8 +36,8 @@ let indexHTMLData = fs.readFileSync(indexHTMLFilePath, 'utf8');
 
 console.log(`[inject-netlify-identity-widget.js] injecting scripts`);
 
-indexHTMLData = injectHtmlBeforeHtml(indexHTMLData, '</head>', `<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>`);
-indexHTMLData = injectHtmlBeforeHtml(indexHTMLData, '</body>', `<script src="admin/netlify-identity.js"></script>`);
+indexHTMLData = injectHtmlBeforeHtml(indexHTMLData, '</head>', `<script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>`);
+indexHTMLData = injectHtmlBeforeHtml(indexHTMLData, '</body>', `<script defer src="admin/netlify-identity.js"></script>`);
 
 fs.writeFileSync(indexHTMLFilePath, indexHTMLData, 'utf8');
 
