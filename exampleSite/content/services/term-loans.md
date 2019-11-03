@@ -7,6 +7,7 @@ Our streamlined process can get you approved in _hours_ - not weeks. Apply in th
 * Working capital for startups and established entrepreneurs with credit scores of 700+.
 
 <!-- Calendly link widget begin -->
+
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Get started: Book a phone appointment with us</mark>.</a>
@@ -29,9 +30,8 @@ Line of credit: Get up to $150k per "round."
 We offer the same fast process for existing businesses.
 
 * Minimum net taxable income of $50-75k
-* Income might come from W2 Salary or distribution income (from rental real estate as a
-  corporation)
-* Good credit required
+* Income might come from W2 Salary or distribution income (e.g. from rental real estate as a corporation)
+* Good credit required (700+)
 * Cash loan: money is deposited directly to your account
 * Term: 5-7 years
 * Payments: 1% - 2% of amount approved 
