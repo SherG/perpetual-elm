@@ -140,8 +140,10 @@ Exclusions: guns, boats, planes.
 
 ### OTR Trucking
 
-* Long-haul sleeper cab
+* Long-haul sleeper cab*
 * Short-haul day cab
+
+\* _Applicants need to have 3 trucks in their fleet already. Exception: We have startup programs for owners of 1 truck; e.g. good credit and 25% down._
 
 ### Towing and Hauling
 
