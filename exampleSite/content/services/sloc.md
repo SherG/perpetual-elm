@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 1
 ---
-Get business capital with affordable payments and zero friction. $10k to $100k. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
+Get business capital with affordable payments and zero friction. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
 
 Payback period is 12 months or longer.
 
@@ -56,13 +56,9 @@ If you're interested in a SLOC it's best to apply for it before applying for oth
 
 This is because those other inquiries will be added to your credit report which may make it harder to get an SLOC approved.
 
-## What is the maximum amount available via a SLOC?
-
-With good credit it's possible to obtain up to $300,000 if the merchant uses 2 additional guarantors.  Those additional cosigners will need excellent credit, no exceptions.
-
 ## Combination funding
 
-If you want more than $100k and don't want to use additional guarantors, we may be able to structure a deal for you that provides you with funding from more than one source. 
+We can structure deals for you that provide funding from more than one source. 
 
 For example, a business owner may opt for $300k via a low-interest [SBA loan](/services/sba-loan/) and cover immediate funding needs with a 24-hour [merchant cash advance](/services/merchant-cash-advance/), SLOC, or [invoice factoring](/services/invoice-factoring/).
 
