@@ -143,7 +143,7 @@ Exclusions: guns, boats, planes.
 * Long-haul sleeper cab*
 * Short-haul day cab
 
-\* _Applicants need to have 3 trucks in their fleet already. Exception: We have startup programs for owners of 1 truck; e.g. good credit and 25% down._
+\* <small>_Applicants typically need to have 3 trucks in their fleet already. Exception: We do have startup programs for owners of 1 truck._</small>
 
 ### Towing and Hauling
 
