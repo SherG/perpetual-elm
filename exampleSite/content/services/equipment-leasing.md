@@ -24,7 +24,7 @@ Financing equipment can mitigate the risks inherent in the purchase or large-tic
 
 ## Why Finance Equipment?
 
-* Maintain and free up cash flow, manage risk, and navigate business fluctuations
+* Maintain and free up cash flow
 * Benefit from IRS Section 179 (applicable to capital leases)
 * Keep up to date with new technology
 * Leverage equipment expertise
