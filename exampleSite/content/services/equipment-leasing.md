@@ -40,6 +40,8 @@ We focus on two options: capital lease or operating lease.
 
 This is an on-balance sheet structure. Equipment is recorded as an asset and can be depreciated, which means the payments are not fully tax-deductible. 
 
+#### Save Money With Section 179 
+
 However, thanks to Section 179 of the IRS tax code, you can deduct the full purchase price of qualifying equipment and software -- up to $1 million -- from your gross revenue. You can also deduct 100% of the depreciation. 
 
 Here's an example of how Section 179 works:
