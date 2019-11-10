@@ -182,7 +182,7 @@ Exclusions: guns, boats, planes.
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get started with equipment financing</mark>.</a>
-<!-- Calendly link widget end -->
+<!-- Calendly link widget end --><br/>
 
 ## Related reading: 
 
