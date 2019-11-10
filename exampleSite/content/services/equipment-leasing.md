@@ -183,3 +183,7 @@ Exclusions: guns, boats, planes.
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>Get started with equipment financing</mark>.</a>
 <!-- Calendly link widget end -->
+
+## Related reading: 
+
+<a href="https://www.irs.gov/newsroom/irs-issues-guidance-on-section-179-expenses-and-section-168g-depreciation-under-tax-cuts-and-jobs-act" target="blank">IRS issues guidance on Section 179 expenses and Section 168(g) depreciation under Tax Cuts and Jobs Act</a>
