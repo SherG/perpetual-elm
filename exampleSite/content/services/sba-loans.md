@@ -79,4 +79,11 @@ There are seven different 7(a) loan types and they vary in terms:
 * Veterans Advantage
 * CAPLines
 
-504 loan program
+## Disaster loan assistance
+
+These loans are low-interest and can be used to replace or repair the following: 
+
+* Machinery and equipment
+* Inventory
+* Business assets
+* Real estate
