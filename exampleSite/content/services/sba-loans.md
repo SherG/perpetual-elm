@@ -61,15 +61,7 @@ Documents that you'll need to furnish include (but are not limited to):
 * SBA Forms 1919 and 1920
 * Depending upon the type of SBA loan you apply for, additional forms may be required
 
-## Types of SBA Loans
-
-There are a variety of SBA loan programs. These are the: 
-
-1. 7(a) loan program
-2. 504 loan program
-3. Disaster loan program
-
-### SBA 7(a) loans
+## SBA 7(a) loans
 
 These loans are the SBA's primary vehicle for small business funding. 
 
@@ -87,4 +79,4 @@ There are seven different 7(a) loan types and they vary in terms:
 * Veterans Advantage
 * CAPLines
 
-
+504 loan program
