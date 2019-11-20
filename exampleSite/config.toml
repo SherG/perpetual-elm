@@ -21,8 +21,10 @@ google_tag_manager_id = ""
   meta_og_image = "https://www.spearfishcap.com/images/bridge-financing-spearfish.png"
   meta_og_description = "Spearfish makes it easy for small business owners to get the funding they need -- fast."
   meta_twitter_card = "https://www.spearfishcap.com/images/bridge-financing-spearfish.png"
+  meta_twitter_description = "Spearfish makes it easy for small business owners to get fast funding."
   meta_twitter_site = "@spearfishcap"
   meta_twitter_creator = "@spearfishcap"
+  meta_twitter_image="https://www.spearfishcap.com/images/bridge-financing-spearfish.png"
 
 [[menu.main]]
 name = "Services"
