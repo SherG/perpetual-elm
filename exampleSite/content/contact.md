@@ -4,7 +4,7 @@ date: '2018-02-22T17:01:34+07:00'
 layout: contact
 menu: main
 ---
-| Day       | Our hours           |
+| Day       | Hours           |
 | --------- | --------------- |
 | Monday    | 8:30am - 5:00pm |
 | Tuesday   | 8:30am - 5:00pm |
