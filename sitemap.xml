@@ -4,7 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- www.xml-sitemaps.com -->
 
 
 <url>
@@ -60,7 +59,7 @@
 <url>
   <loc>https://www.spearfishcap.com/terms-and-conditions/</loc>
   <lastmod>2019-11-23T23:26:39+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.20</priority>
 </url>
 <url>
   <loc>https://www.spearfishcap.com/privacy-policy/</loc>
@@ -70,27 +69,27 @@
 <url>
   <loc>https://www.spearfishcap.com/services/ira-401k-funding/</loc>
   <lastmod>2019-11-23T23:26:39+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spearfishcap.com/services/term-loans/</loc>
   <lastmod>2019-11-23T23:26:39+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spearfishcap.com/services/microfinance/</loc>
   <lastmod>2019-11-23T23:26:39+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spearfishcap.com/services/credit-repair/</loc>
   <lastmod>2019-11-23T23:26:39+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.spearfishcap.com/about-this-website/</loc>
   <lastmod>2019-11-23T23:26:39+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.04</priority>
 </url>
 
 
