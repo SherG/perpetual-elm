@@ -22,7 +22,8 @@ google_tag_manager_id = ""
   meta_og_description = "Spearfish makes it easy for small business owners to get the funding they need -- fast.
 
 
-
+[menu]
+  # Main Menu
 [[menu.main]]
 name = "Services"
 url = "/services/"
