@@ -24,6 +24,9 @@ google_tag_manager_id = ""
     meta_twitter_site = "@spearfishcap"
     meta_twitter_creator = "@sherrie_go"
     meta_twitter_image = "https://www.spearfishcap.com/images/bridge-financing-spearfish.png"
+meta_itemprop_name = "Spearfish: Fast funding for small business"
+meta_itemprop_description = "Dozens of smart alternative finance options for small businesses and startups. Get started with a free consultation."
+meta_itemprop_image = "https://www.spearfishcap.com/images/bridge-financing-spearfish.png"
 
 
 [menu]
