@@ -6,7 +6,7 @@ Get competitive rates for purchasing or re-financing commercial real estate. We 
 
 Our financing options include: 
 
-* 30-year fully amortized loans (FICO of 650 or 620 plus high equity)
+* 30-year fully <a href="https://www.investopedia.com/terms/a/amortized_loan.asp" target="blank">amortized loans</a> (FICO of 650 or 620 plus high equity)
 * 1 year terms for fix and flips ($75,000 - $1 million) (650 minimum FICO)
 * Short-term (2-year) loans up to $2 million with no minimum FICO
 
