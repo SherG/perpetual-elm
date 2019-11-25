@@ -143,6 +143,7 @@ Exclusions: guns, boats, planes.
 ### OTR Trucking
 
 * Long-haul sleeper cab*
+* New and used semi trailers (including drop deck, lowboy, extendable, flat bed, end dump, bottom dump side dump, dry van, hydraulic tail)
 * Short-haul day cab
 
 \* <small><em>_Applicants typically need to have 3 trucks in their fleet already. Exception: We do have startup programs for owners of 1 truck; requires a 25% downpayment._</em></small>
@@ -186,6 +187,6 @@ Exclusions: guns, boats, planes.
 
 <br/>
 
-## Related reading: 
+## Related reading:
 
 <a href="https://www.irs.gov/newsroom/irs-issues-guidance-on-section-179-expenses-and-section-168g-depreciation-under-tax-cuts-and-jobs-act" target="blank">IRS issues guidance on Section 179 expenses and Section 168(g) depreciation under Tax Cuts and Jobs Act</a>
