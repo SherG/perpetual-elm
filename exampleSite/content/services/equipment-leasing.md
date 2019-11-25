@@ -143,7 +143,7 @@ Exclusions: guns, boats, planes.
 ### OTR Trucking
 
 * Long-haul sleeper cab*
-* New and used semi trailers including drop decks, double drop decks, lowboys, extendable trailers, flat beds, end dumps, bottom dumps, side dumps, dry vans, hydraulic tails, slide axles, tank trailers, belt trailers, hopper/grain trailers, live floor trailers.
+* New and used trailers including drop decks, double drop decks, lowboys, extendable trailers, flat beds, end dumps, bottom dumps, side dumps, dry vans, hydraulic tails, slide axles, tank trailers, belt trailers, hopper/grain trailers, live floor trailers, chipper trailers.
 * Short-haul day cab
 
 \* <small><em>_Applicants typically need to have 3 trucks in their fleet already. Exception: We do have startup programs for owners of 1 truck; requires a 25% downpayment._</em></small>
