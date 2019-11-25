@@ -2,7 +2,7 @@
 title: 'Commercial real estate '
 date: 2019-11-25T01:46:32.161Z
 ---
-Explore our loan options for purchasing or re-financing commercial real estate. We handle deals up to $5 million in value. Obtain up to $1 million for fix and flips. 
+Get competitive rates for purchasing or re-financing commercial real estate. We handle deals up to $5 million in value. Obtain up to $1 million for fix and flips. 
 
 Our financing options include: 
 
