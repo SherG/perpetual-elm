@@ -4,7 +4,7 @@ date: 2019-11-25T01:46:32.161Z
 ---
 Get competitive rates for purchasing or re-financing commercial real estate. We handle deals up to $5 million in value. Obtain up to $1 million for fix and flips. 
 
-Financing options include: 
+Options include: 
 
 * 30-year fully <a href="https://www.investopedia.com/terms/a/amortized_loan.asp" target="blank">amortized loans</a> (FICO of 650 or 620 plus high equity)
 * 1 year terms for fix and flips ($75,000 - $1 million) (650 minimum FICO)
