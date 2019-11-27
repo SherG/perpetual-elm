@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 1
 ---
-Get business capital with affordable payments and zero friction. Same-day funding possible. Most merchants receive funding between 24- 72 hours. 
+Get business capital with affordable payments and zero friction. Receive an offer within 24 hours.
 
 Payback period is 12 months or longer.
 
@@ -36,9 +36,7 @@ Uses for SLOC include:
 
 ## What to expect when you apply for a SLOC
 
-Application entails filling out a simple online form. If the process is completed before noon, it's possible to receive funding the same day. 
-
-The process requires very limited asset verification, no business appraisal and little to no paperwork.
+Application entails filling out a simple online form. 
 
 Once an SLOC is approved and finalized, our syndicated network of investors instantly deposits funds to the recipient's bank account for immediate use.
 
