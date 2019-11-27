@@ -18,5 +18,3 @@ Rates are competitive.
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Book a strategy meeting to explore your funding options</mark>.</a>
 <!-- Calendly link widget end -->
-
-Professional credit clean-up (30-90 day turnaround) available.
