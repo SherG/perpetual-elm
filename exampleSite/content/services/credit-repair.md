@@ -4,7 +4,7 @@ date: 2016-10-05T04:00:00.000Z
 ---
 Business funding can be denied due to credit issues. In many cases, derogatory items can be permanently removed. 
 
-We work with an established and highly rated firm led by a member of the <a href="https://forbesfinancecouncil.com/" target="blank">Forbes Finance Council</a>. Our partner is the go-to solution for mortgage brokers and business loan brokers.
+We work with an established and highly rated firm led by a member of the <a href="https://forbesfinancecouncil.com/" target="blank">Forbes Finance Council</a> and a certified FICO professional. Our partner is the go-to solution for mortgage brokers and business loan brokers.
 
 * Derogatory items are addressed quickly.
 * Your credit consultant will explain any steps that you may need to take.
