@@ -124,7 +124,7 @@ We take great care in implementing and maintaining the security of the Site and 
 
 For example:
 
-* We use TLS/SSL to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with [JAMstack technology](https://jamstack.org/), and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
+* We use <a href="https://letsencrypt.org/how-it-works/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with [JAMstack technology](https://jamstack.org/), and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
 * This site is hosted by <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>, an application delivery network that uses Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most secure, reliable, and advanced platforms.
 * The code for the site is secured via physical U2F security key with an authenticator app as a backup. 
 * Our email provider is G-Suite, and our accounts are secured via physical U2F security keys. 
