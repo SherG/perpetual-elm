@@ -126,7 +126,8 @@ For example:
 
 * We use <a href="https://letsencrypt.org/how-it-works/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. Our provider is <a href="https://letsencrypt.org/" target="blank">Let's Encrypt</a>, which is an automated, and open certificate authority managed by the non-profit <a href="https://www.abetterinternet.org/" target="blank">Internet Security Research Group (ISRG)</a>.
 * This Site is built with [JAMstack technology](https://jamstack.org/), and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
-* This site is hosted by <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>, an application delivery network that uses Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most secure, reliable, and advanced platforms.
+* This site is hosted by <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>, an application delivery network that deploys to all major cloud providers including Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most advanced, security, and reliable platforms. 
+* We use Netlify Edge's <a href="https://www.netlify.com/products/edge/" target="blank">"pre-render" option</a>. As Netlify states: "since apps are prerendered, all edge nodes serve secure, static content with little opportunity for exploit."
 * The code for the site is secured via physical U2F security key with <a href="https://authy.com/" target="blank">Authy</a> -- an authenticator app -- as a backup. 
 * Our email provider is G-Suite, and our accounts are secured via physical U2F security keys. 
 * Public wifi is never used to conduct Spearfish business. If business is conducted during travel, via laptop, a mifi device, with a 31-character password, is used to access the internet. 
