@@ -131,7 +131,7 @@ For example:
 * The code for the site is secured via physical U2F security key with <a href="https://authy.com/" target="blank">Authy</a> -- an authenticator app -- as a backup. 
 * Our email provider is G-Suite, and our accounts are secured via physical U2F security keys. 
 * Public wifi is never used to conduct Spearfish business. If business is conducted during travel, via laptop, a mifi device, with a 31-character password, is used to access the internet. 
-* At the conclusion of a client engagement (usually within 1 month) all client-provided documents in Spearfish's possession, are deleted. 
+* At the conclusion of a client engagement (usually within 1 month) all client-provided documents in Spearfish's possession, are deleted. If a client wishes to re-apply in the future, they will need to furnish new (and up-to-date) documents/applications.
 
 Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
