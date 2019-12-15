@@ -163,4 +163,4 @@ Your continued use of the Platform, following the notification of such amendment
 
 If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: data@spearfishcap.com. 
 
-Last Modified: October 27, 2019
+Last Modified: December 15, 2019
