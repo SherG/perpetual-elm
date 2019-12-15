@@ -73,7 +73,7 @@ However, please note that these rights are not absolute, and may be subject to o
 
 If you wish to exercise any of the aforementioned rights, or receive more information, please contact us using the details provided below:
 
-data@spearfishcap.com
+funds@spearfishcap.com
 
 ## Retention
 
@@ -124,9 +124,12 @@ We take great care in implementing and maintaining the security of the Site and 
 
 For example:
 
-* We use TLS/SSL to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with JAMstack technology, and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
-* This site is distributed by an application delivery network that uses Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most secure, reliable, and advanced platforms.
-* The code for the site is secured via physical U2F security key with an authenticator app as a backup.
+* We use TLS/SSL to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with [JAMstack technology](https://jamstack.org/), and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
+* This site is hosted by <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>, an application delivery network that uses Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most secure, reliable, and advanced platforms.
+* The code for the site is secured via physical U2F security key with an authenticator app as a backup. 
+* Our email provider is G-Suite, and our accounts are secured via physical U2F security keys. 
+* Public wifi is never used to conduct Spearfish business. If business is conducted during travel, via laptop, a mifi device, with a 31-character password, is used to access the internet. 
+* At the conclusion of a client engagement (usually within 1 month) all related documents with PID (personally identifiable information) in Spearfish's possession, are deleted. 
 
 Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
