@@ -6,7 +6,26 @@ This policy details how we handle data collection.
 
 ## Introduction
 
-This Privacy Policy outlines Spearfish Capital Funding, LLC (“we”, “our” or “the Company”) practices with respect to information collected from users who access our website at https://www.spearfishcap.com  (“Site”), or otherwise share personal information with us (collectively: “Users”).
+This Privacy and Data Policy outlines Spearfish Capital Funding, LLC (“we”, “our” or “the Company”) practices with respect to information collected from users who access our website at https://www.spearfishcap.com  (“Site”), or otherwise share personal information with us (collectively: “Users”).
+
+## How do we safeguard your information?
+
+We take great care in implementing and maintaining the security of the Site and your information. 
+
+We employ industry standard procedures and policies to ensure the safety of the information we collect and retain, and prevent unauthorized use of any such information, and we require any third party to comply with similar security requirements, in accordance with this Privacy Policy.
+
+For example:
+
+* We use <a href="https://letsencrypt.org/how-it-works/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. Our provider is <a href="https://letsencrypt.org/" target="blank">Let's Encrypt</a>, which is an automated, and open certificate authority managed by the non-profit <a href="https://www.abetterinternet.org/" target="blank">Internet Security Research Group (ISRG)</a>.
+* This Site is built with [JAMstack technology](https://jamstack.org/), and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
+* This site is hosted by <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>, an application delivery network that deploys to all major cloud providers known for their industry-leading security including Google Cloud and Amazon Web Services.
+* We use Netlify Edge's <a href="https://www.netlify.com/products/edge/" target="blank">"pre-render" option</a>. As Netlify states: "since apps are prerendered, all edge nodes serve secure, static content with little opportunity for exploit."
+* The code for the site resides in a code repository and is accessible only via physical U2F security key with <a href="https://authy.com/" target="blank">Authy</a> -- an authenticator app -- as a backup. 
+* Our email provider is G-Suite, and our accounts are secured via physical U2F security keys. 
+* Public wifi is never used to conduct Spearfish business. If business is conducted during travel, via laptop, a mifi device, with a 31-character password, is used to access the internet. 
+* At the conclusion of a client engagement (usually within 1 month) all client-provided documents in Spearfish's possession, are deleted. If a client wishes to re-apply in the future, they will need to furnish new (and up-to-date) documents/applications.
+
+Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
 ## Grounds for data collection
 
@@ -118,22 +137,7 @@ Accordingly, we encourage you to read the terms and conditions and privacy polic
 
 This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals whom we do not employ or manage, including any of the third parties which we may disclose information as set forth in this Privacy Policy.
 
-## How do we safeguard your information?
 
-We take great care in implementing and maintaining the security of the Site and your information. We employ industry standard procedures and policies to ensure the safety of the information we collect and retain, and prevent unauthorized use of any such information, and we require any third party to comply with similar security requirements, in accordance with this Privacy Policy.
-
-For example:
-
-* We use <a href="https://letsencrypt.org/how-it-works/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. Our provider is <a href="https://letsencrypt.org/" target="blank">Let's Encrypt</a>, which is an automated, and open certificate authority managed by the non-profit <a href="https://www.abetterinternet.org/" target="blank">Internet Security Research Group (ISRG)</a>.
-* This Site is built with [JAMstack technology](https://jamstack.org/), and therefore has no databases or plugins. Databases and plugins are two common points of entry for malicious hacks.
-* This site is hosted by <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>, an application delivery network that deploys to all major cloud providers including Google Cloud, Amazon Web Services, and Digital Ocean – some of the industry’s most advanced, security, and reliable platforms. 
-* We use Netlify Edge's <a href="https://www.netlify.com/products/edge/" target="blank">"pre-render" option</a>. As Netlify states: "since apps are prerendered, all edge nodes serve secure, static content with little opportunity for exploit."
-* The code for the site resides in a code repository and is accessible only via physical U2F security key with <a href="https://authy.com/" target="blank">Authy</a> -- an authenticator app -- as a backup. 
-* Our email provider is G-Suite, and our accounts are secured via physical U2F security keys. 
-* Public wifi is never used to conduct Spearfish business. If business is conducted during travel, via laptop, a mifi device, with a 31-character password, is used to access the internet. 
-* At the conclusion of a client engagement (usually within 1 month) all client-provided documents in Spearfish's possession, are deleted. If a client wishes to re-apply in the future, they will need to furnish new (and up-to-date) documents/applications.
-
-Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
 ## Advertisements
 
