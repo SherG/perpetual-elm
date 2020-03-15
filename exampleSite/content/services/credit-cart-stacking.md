@@ -2,7 +2,7 @@
 title: Credit card stacking
 date: '2018-11-28T15:14:39+10:00'
 draft: false
-featured: true
+featured: false
 ---
 Credit card stacking provides entrepreneurs with access to additional capital by combining the total credit of multiple cards into a single line of unsecured business credit. 
 
