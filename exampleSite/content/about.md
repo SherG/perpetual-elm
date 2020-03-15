@@ -7,18 +7,27 @@ As the coronavirus advances into nearly all countries, volatility in the markets
 
 Spearfish works with businesses to quickly optimize their cash flow and solve supply chain financing problems. 
 
-Our speciality is invoice factoring, a form of business financing that doesn't add debt to your bottom line. Through factoring, our partners purchase your outstanding 30-, 60-, or 90-day invoices for immediate cash, minus a fee. 
+* Get fast access to working capital and credit protection
+* Close difficult deals and import the goods and materials you need
+* Get paid upfront for government contracts 
 
-This service is for businesses selling B2B or B2G (business-to-government) with a minimal average monthly revenue of $20k. 
-
-All factoring deals brokered through Spearfish include credit risk insurance. This protects you from customers who may fail to pay their invoices if they become insolvent during the factoring period. 
 
 <!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Optimize your cash flow</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Schedule a phone appointment to optimize your cash flow</mark>.</a>
 <!-- Calendly link widget end -->
+
+This is done through factoring and purchase order financing -- forms of business financing that don't add debt to your bottom line. 
+
+* Through factoring, our partners purchase your outstanding 30-, 60-, or 90-day invoices for immediate cash, minus a fee. 
+* Through purchase order financing, product importers, distributors, and resellers can fulfill large orders before generating an invoice. 
+
+This service is for businesses selling B2B or B2G (business-to-government) with a minimal average monthly revenue of $20k.
+
+All factoring deals brokered through Spearfish include credit risk insurance. This protects you from customers who may fail to pay their invoices if they become insolvent during the factoring period.
+
 
 ## Advisory Services and Consulting
 
@@ -28,9 +37,9 @@ From there we'll handle the application process and work with our financial part
 
 In addition, we serve as advisors to early stage businesses in the Boston metro area. 
 
-We have a reputation for transparency and candid advising. 
+We have a reputation for transparency and candid advising.
 
-## Crisis and innovation
+## Crisis, Innovation, and Global Recession
 
 Following the 2008 recession, small business owners found it increasingly difficult to obtain the funding they needed.  
 
@@ -42,7 +51,7 @@ Innovators stepped into the gap and an entire movement known as alternative lend
 
 We're about to enter a new global recession.  And we can expect new innovations to come out of this challenging period as well. 
 
-## Based in New Hampshire
+## We're Based in New Hampshire
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.\
 \
