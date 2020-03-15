@@ -11,7 +11,6 @@ Spearfish works with businesses to quickly optimize their cash flow and solve su
 * Close difficult deals and import the goods and materials you need
 * Get paid upfront for government contracts 
 
-
 <!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -23,6 +22,9 @@ This is done through factoring and purchase order financing -- forms of business
 
 * Through factoring, our partners purchase your outstanding 30-, 60-, or 90-day invoices for immediate cash, minus a fee. 
 * Through purchase order financing, product importers, distributors, and resellers can fulfill large orders before generating an invoice. 
+* Through supply chain financing, companies can initiate advance payment to a supplier. 
+
+Our solutions are cost-effective and simple. 
 
 This service is for businesses selling B2B or B2G (business-to-government) with a minimal average monthly revenue of $20k.
 
@@ -35,7 +37,7 @@ We can structure deals that include various forms of financing such as SBA loans
 
 From there we'll handle the application process and work with our financial partners to provide funding solutions to those who qualify.
 
-In addition, we serve as advisors to early stage businesses in the Boston metro area. 
+In addition, we provide free advisory services to early stage businesses.
 
 We have a reputation for transparency and candid advising.
 
