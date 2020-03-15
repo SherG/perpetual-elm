@@ -1,6 +1,6 @@
 ---
 title: SBA loans
-date: 2020-03-13T04:00:00.000Z
+date: 2020-03-12T04:00:00.000Z
 draft: false
 featured: true
 weight: 2
