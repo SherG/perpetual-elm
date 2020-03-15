@@ -3,7 +3,7 @@ title: SBA loans
 date: 2020-03-12T04:00:00.000Z
 draft: false
 featured: true
-weight: ''
+weight: 2
 ---
 SBA loans are popular for their low rates and flexible terms. They typically have more stringent criteria than other funding options.
 
