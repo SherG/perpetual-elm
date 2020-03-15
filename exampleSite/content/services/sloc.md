@@ -2,8 +2,8 @@
 title: SLOC
 date: 2019-10-05T04:15:34.000Z
 draft: false
-featured: true
-weight: 1
+featured: false
+weight: ''
 ---
 Get business capital with affordable payments and zero friction. Receive an offer within 24 hours.
 
