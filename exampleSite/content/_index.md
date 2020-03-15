@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# Fast funding for small business
+# Optimize your cash flow
 
-## Whether you have an emergency or a  big opportunity, we help you get the best funding deal <em>fast</em>. Up to $5 million available.
+## Turn your B2B and B2G invoices into immediate cash and get supply chain risk protection.
