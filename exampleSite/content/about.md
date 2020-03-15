@@ -53,6 +53,6 @@ We're about to enter a new global recession.  And we can expect new innovations 
 
 ## We're Based in New Hampshire
 
-Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.\
-\
+Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.
+
 We are registered with the state of New Hampshire as an independent sales organization offering factor broker and loan broker services to small and medium-sized businesses.
