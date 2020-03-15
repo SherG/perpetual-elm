@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: true
 ---
 # Optimize cash flow
 
-## Turn your B2B and B2G invoices into immediate cash and get supply chain risk protection.
+## Turn your B2B and B2G invoices into immediate cash. Get credit risk protection. And solve for supply chain financing.
