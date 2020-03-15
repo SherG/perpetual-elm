@@ -2,6 +2,7 @@
 title: Supply chain financing
 date: 2020-03-14T04:00:00.000Z
 featured: true
+weight: 1
 ---
 Supply chain financing is a tool that companies can use enable their suppliers to optimize cash flow at low cost. 
 
