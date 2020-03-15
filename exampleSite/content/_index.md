@@ -1,6 +1,7 @@
 ---
 title: Home
-intro_image:  /images/small-business-funding.svg 
+intro_image:  /images/invoice-factoring-supply-chain-financing.svg
+ 
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
