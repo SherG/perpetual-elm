@@ -2,8 +2,8 @@
 title: 'Equipment financing '
 date: '2018-11-18T12:33:46+10:00'
 draft: false
-featured: true
-weight: 1
+featured: false
+weight: ''
 ---
 There are multiple ways to obtain the equipment you need for your business.
 
