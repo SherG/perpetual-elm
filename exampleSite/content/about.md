@@ -15,7 +15,7 @@ Spearfish works with businesses to quickly optimize their cash flow and solve su
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Schedule a phone appointment to optimize your cash flow</mark>.</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Act now to optimize your cash flow</mark>.</a>
 <!-- Calendly link widget end -->
 
 This is done through factoring and purchase order financing -- forms of business financing that don't add debt to your bottom line. 
