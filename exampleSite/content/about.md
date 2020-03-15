@@ -3,11 +3,13 @@ title: About
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
-Spearfish makes it easy for small businesses to get the funding they need -- _fast_. 
+Spearfish is an independent sales organization offering factor broker and loan broker services to small businesses. 
 
-We work with merchants who have good credit, bad credit, and no credit.
+Our speciality is invoice factoring, a form of business financing that doesn't add debt to your bottom line. Through factoring, our partners purchase your outstanding 30-, 60-, or 90-day invoices for immediate cash, minus a fee. 
 
-Our solutions include the purchase of B2B accounts receivables for immediate cash and syndicated lines of credit for startups.
+This service is for businesses selling B2B or B2G (business-to-government) with a minimal average monthly revenue of $20k. All factoring deals brokered through Spearfish include credit risk insurance. This protects you from customers who may fail to pay their invoices if they become insolvent during the factoring period. \
+\
+Note: We also server as a broker for SBA loans.
 
 <!-- Calendly link widget begin -->
 
@@ -15,6 +17,14 @@ Our solutions include the purchase of B2B accounts receivables for immediate cas
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish/consultation'});return false;"><mark>	Discover your funding options</mark>.</a>
 <!-- Calendly link widget end -->
+
+## Advisory Services and Consulting
+
+We can structure deals that include various forms of financing. Tell us about your situation and goals and we'll advise on smart options. 
+
+From there we'll handle the application process and work with our financial partners to provide funding solutions to those who qualify.
+
+In addition, we serve as advisors to early stage businesses in the Boston metro area. 
 
 ## Crisis and innovation
 
@@ -40,7 +50,7 @@ Our goal is to find the best fit for your situation, quickly. We don’t impose 
 
 <p></p>
 
-Our proprietary funding system was created by -- and is managed daily by -- a New York City-based industry veteran with over 20 years of finance experience. Enjoy ultra-fast, simplified deals from some of the best -- and most highly rated -- names in finance.
+Our proprietary funding partnerships are managed daily by a New York City-based industry veteran with over 20 years of finance experience. Enjoy ultra-fast, simplified deals from some of the best -- and most highly rated -- names in finance.
 
 ## About our name
 
