@@ -1,10 +1,10 @@
 ---
-title: Fast Funding for Small Business 
+title: Working Capital and Supply Chain Financing 
 date: 2019-10-16T06:12:08.307Z
-intro_image: images/small-business-growth.svg
+intro_image: /images/invoice-factoring-supply-chain-financing.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
-desc: We make it easy for small businesses to get the funding they need -- fast.
+desc: Optimize your cash flow today and solve for supply chain financing.
 featured: true
 draft: false
 ---
