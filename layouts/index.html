@@ -1,4 +1,4 @@
-{{ define "title" }}Fast Funding for Small Business - Spearfish{{ end}}
+{{ define "title" }}{{ .Site.Params.title }}{{ end}}
 {{ define "header_css" }}{{ end }}
 {{ define "body_classes" }}page-home{{ end }}
 {{ define "header_classes" }}header-transparent{{ end }}
@@ -22,7 +22,7 @@
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ .Content }}
         {{ partial "call.html" . }}
-      </div>f
+      </div>
       {{ if .Params.intro_image }}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
         <img
@@ -45,7 +45,7 @@
     </div>
     {{ end }}
     <div class="col-12 text-center">
-       <a class="button button-primary" href="{{ "services/" | relURL }}">View All Services</a>
+      <a class="button button-primary" href="{{ "services/" | relURL }}">View All Services</a>
     </div>
   </div>
 </div>
