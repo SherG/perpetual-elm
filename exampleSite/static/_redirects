@@ -1,5 +1,14 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
+/services/commercial-real-estate/   /services/
+/services/term-loans/  /services/
+/services/sloc/  /services/
+/services/merchant-cash-advance/  /services/
+/services/credit-cart-stacking  /services/
+/services/microfinance/  /services/
+/services/equipment-leasing/  /services/
+/services/credit-repair/  /services/
+
 # Redirect default Netlify subdomain to primary domain
 
 https://perpetual-elm-f09c9.netlify.com/* https://www.spearfishcap.com/:splat 301!
