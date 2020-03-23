@@ -3,6 +3,7 @@ title: 'Working Capital '
 date: 2020-03-15T04:00:00.000Z
 draft: false
 featured: true
+weight: 1
 ---
 Did you know that you if your business sells B2B or B2G you can sell your accounts receivable (AR) for immediate cash? This process is called "invoice factoring." 
 
