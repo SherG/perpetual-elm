@@ -1,5 +1,5 @@
 ---
-title: 'Working Capital '
+title: "Working Capital "
 date: 2020-03-15T04:00:00.000Z
 draft: false
 featured: true
@@ -24,7 +24,7 @@ You'll submit your invoices and supporting documentation. If they are received b
 
 1. Your invoices are purchased by our partners at a small discount
 2. You'll receive approximately between 80% - 90% of the invoice value the same day or typically, within 24 hours. 
-3. Once the customer pays their invoice you receive the _remaining amount_, minus a small fee for the service. 
+3. Once the customer pays their invoice you receive the *remaining amount*, minus a small fee for the service. 
 
 In invoice factoring, it's your customer's credit score that's key.
 
@@ -32,6 +32,8 @@ In invoice factoring, it's your customer's credit score that's key.
 
 Factoring that includes credit risk insurance is called "non-recourse factoring." 
 
-With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment.
+With non-recourse factoring, even if your customer goes bankrupt, you won't be liable for the payment. 
 
 By contrast, "full recourse" factoring holds you liable for the full amount of the invoice should your customer fail to pay.
+
+All factoring deals brokered through Spearfish include credit risk insurance.
