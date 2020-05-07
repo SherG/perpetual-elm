@@ -20,16 +20,15 @@ Spearfish works with businesses to quickly optimize their cash flow and solve su
 
 This is done through factoring and purchase order financing -- forms of business financing that don't add debt to your bottom line. 
 
-* Through factoring, our partners purchase your outstanding 30-, 60-, or 90-day invoices for immediate cash, minus a fee. 
+* Through factoring, our partners purchase your outstanding 30-, 60-, or 90-day invoices for immediate cash, minus a small fee. 
 * Through purchase order financing, product importers, distributors, and resellers can fulfill large orders before generating an invoice. 
 * Through supply chain financing, companies can initiate advance payment to a supplier. 
 
 Our solutions are cost-effective and simple. 
 
-This service is for businesses selling B2B or B2G (business-to-government) with a minimal average monthly revenue of $20k.
+This service is for businesses selling B2B or B2G (business-to-government) with a minimal average monthly revenue of $25k.
 
 All factoring deals brokered through Spearfish include credit risk insurance. This protects you from customers who may fail to pay their invoices if they become insolvent during the factoring period.
-
 
 ## Advisory Services and Consulting
 
