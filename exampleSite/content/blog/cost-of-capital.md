@@ -60,9 +60,9 @@ The recent development of the Paycheck Protection Program (<a href="https://www.
 
 ### Related reading
 
-<a href="https://www.kansascityfed.org/research/indicatorsdata/smallbusinesslendingsurvey/articles/2020/fourth-quarter-2019-small-business-lending-survey" target="blank">Federal Reserve: Small Business Lending Survey</a>
+<p><a href="https://www.kansascityfed.org/research/indicatorsdata/smallbusinesslendingsurvey/articles/2020/fourth-quarter-2019-small-business-lending-survey" target="blank">Federal Reserve: Small Business Lending Survey</a></p>
 
-<a href="https://www.fedsmallbusiness.org/" target="blank">Fed Small Business</a>
+<p><a href="https://www.fedsmallbusiness.org/" target="blank">Fed Small Business</a></p>
 
 
 
