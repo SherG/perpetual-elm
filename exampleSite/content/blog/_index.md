@@ -10,4 +10,4 @@ draft: false
 ---
 # Understanding business financing
 
-(Page under construction)
+Resources for understanding factoring, PO financing, and supply chain financing and how they compare to other types of business financing.
