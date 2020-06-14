@@ -49,11 +49,13 @@ Since online lenders vary considerably in the ways that they calculate fees, itâ
 
 As an example, another online lender does not provide an online calculator, and charges a flat 15% fee on top of other fees. And yet, even though "15%" sounds much higher than "3%," for those with good credit the latter deal would likely have a much lower cost of capital. 
 
+Those with stellar credit would ordinarily choose to obtain a loan from a community or other bank, due to the low rates available. However, if the owners has been in business for under two years, they would not be likely to qualify for such loan. And if they need the funds immediately, they would look to other sources.
+
 ## SBA loans and bank loans
 
 If debt-based financing is what you are seeking, your best bet is a traditional bank loan or SBA loan. Typically, these loans are harder to qualify for, take much longer or process than online loans, require considerable paperwork, and require good credit. 
 
-The recent development of the Paycheck Protection Program (PPP) has altered many of these standards for SBA loans. The bottom line, is, the best deals on term loans are usually form banks and SBA loans (financed by banks). 
+The recent development of the Paycheck Protection Program (<a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20200406a.htm" target="blank">PPP</a>) has altered many of these standards for SBA loans. The bottom line, is, the best deals on term loans are usually form banks and SBA loans (financed by banks). 
 
 
 
