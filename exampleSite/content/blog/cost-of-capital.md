@@ -4,7 +4,6 @@ date: 2020-03-15T04:00:00.000Z
 draft: false
 ---
 
-
 Regardless of the type of business financing you have been offered, itâ€™s critical to know what the total cost of capital is for that deal and to assess it in the context of projected ROI. 
 
 Spearfish specializes in securing factoring, PO financing, and supply chain financing for our clients, with rates as low as 1%. These forms of financing are not debt-based. That makes them unique. 
@@ -52,7 +51,7 @@ Since online lenders vary considerably in the ways that they calculate fees, itâ
 
 As an example, another online lender does not provide an online calculator, and charges a flat 15% fee on top of other fees. And yet, even though "15%" sounds much higher than "3%," for those with good credit the latter deal would likely have a much lower cost of capital. 
 
-## SBA loans and traditional bank loans
+## SBA loans and bank loans
 
 If debt-based financing is what you are seeking, your best bet is a traditional bank loan or SBA loan. Typically, these loans are harder to qualify for, take much longer or process than online loans, require considerable paperwork, and require good credit. 
 
