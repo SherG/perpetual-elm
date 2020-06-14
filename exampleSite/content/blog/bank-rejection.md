@@ -21,10 +21,10 @@ First, recall that factoring offered through Spearfish is not for B2C businesses
 * Factoring is a form of business financing that doesn’t add debt to a business.
 * With invoice factoring it’s the credit of your customer that’s key. That’s because they are the ones paying the bill.
 * Startups and new businesses with AR are welcome.
-* World-class AR management by a partner firm with 25 years of experience. This is one of the perks of obtaining debt-free financing through Spearfish.
+* You'll receive world-class AR management by a partner firm with 25 years of experience. This is one of the perks of obtaining debt-free financing through Spearfish.
 * A decision can be made (and funds received) much faster than with traditional bank financing: in some cases, on the same day.
 * Credit insurance: all factoring, PO financing and supply chain financing obtained through Spearfish provides credit insurance. This protects you from the risk that one or more of your creditors becomes insolvent during the factoring period.
-* Rates as low as 1%.
+* Rates as low as 1%. Our underwriting partners, not Spearfish, decide eligibility and rates.
 
 Underwriting standards for factoring are not lax. Indeed our financial partners are meticulous and exacting in their underwriting. This is why the related default rate is less than 0.05%. 
 
