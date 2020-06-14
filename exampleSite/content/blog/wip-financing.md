@@ -9,6 +9,8 @@ WIP (Work-in-Progress) financing is a method of financing whereby a manufacturer
 
 This financing is used to purchase component parts that are required to assemble a finished product. WIP financing is sometimes referred to as production financing or inventory financing.
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,e_sharpen/v1592096918/spearfish/vehicle-software-test_tf8tnh.png">
+
 Work-in-progress (WIP) refers to the phase of manufacturing where components are assembled into finished products. Even though these products may be pre-sold, they can’t be invoiced yet. So obtaining financing for this part of the production cycle can be challenging. 
 
 Through Spearfish, you may be able to obtain WIP financing. Here’s an example of how it works. 
