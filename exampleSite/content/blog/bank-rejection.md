@@ -26,5 +26,6 @@ First, recall that factoring offered through Spearfish is not for B2C businesses
 * Credit insurance: all factoring, PO financing and supply chain financing obtained through Spearfish provides credit insurance. This protects you from the risk that one or more of your creditors becomes insolvent during the factoring period.
 * Rates as low as 1%.
 
-
 Underwriting standards for factoring are not lax. Indeed our financial partners are meticulous and exacting in their underwriting. This is why the related default rate is less than 0.05%. 
+
+To learn more book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
