@@ -1160,7 +1160,7 @@ html {
 
 .mb-2,
 .my-2 {
-  margin-bottom: 20px !important; }
+  margin-bottom: 50px !important; }
 
 .ml-2,
 .mx-2 {
