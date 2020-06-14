@@ -57,6 +57,10 @@ If debt-based financing is what you are seeking, your best bet is a traditional 
 
 The recent development of the Paycheck Protection Program (<a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20200406a.htm" target="blank">PPP</a>) has altered many of these standards for SBA loans. The bottom line, is, the best deals on term loans are usually form banks and SBA loans (financed by banks). 
 
+<hr/>
+
+Looking for financing options? Book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
+
 
 ### Related reading
 
