@@ -76,3 +76,10 @@ body:after {
   }
 }
 {{ end }}
+
+// Custom space added at bottom of Services/blog page
+
+.pt-6,
+.py-6 {
+  padding-bottom: 60px !important;
+  }
