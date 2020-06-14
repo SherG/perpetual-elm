@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2019-10-16T06:24:49.305Z
+description: Spearfish is a New Hampshire-based factor broker.
 menu: main
 ---
 As the coronavirus advances, volatility in the markets has increased, and a supply and demand shock looms. Enterprises must manage for cash flow under challenging conditions.
