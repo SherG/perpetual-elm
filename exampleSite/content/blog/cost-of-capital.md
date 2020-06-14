@@ -12,11 +12,9 @@ Spearfish specializes in securing factoring, PO financing, and supply chain fina
 
 Many business owners seek debt-based financing from online providers. And it's not always easy to calculate total cost of capital.
 
-Some online lenders provide online calculators to give a general sense of the range of rates. 
+Some online lenders provide online calculators to give a general sense of the range of rates. Let’s take as an example, a 50k term loan from one of the best-known online providers. 
 
-To illustrate determining the cost of capital, let’s take as an example, a 50k term loan from one of the best-known online providers. 
-
-This particular provider uses what they call a “fee rate” which is expressed as a percentage. (They provide an explanation of how this “fee rate” is calculated). 
+This particular provider uses what they call a “fee rate” which is expressed as a percentage. (On their website they provide an explanation of how this “fee rate” is calculated.)
 
 The calculator offers options ranging from 1.5% to 10%. Let’s choose 3% to see what our total cost will be. The loan terms are 6, 12, or 18 months.
 
