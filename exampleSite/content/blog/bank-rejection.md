@@ -16,9 +16,9 @@ Your personal and business credit come into play as well. A bank may not be able
 
 ## How Is Our Factoring Different? 
 
-First, recall that factoring offered through Spearfish is not for B2C businesses. It’s for B2B, B2G (business-to-government) businesses, and even for organizations such as non-profits or educational institutions. 
+First, recall that factoring offered through Spearfish is not for B2C businesses. It’s for B2B, B2G (business-to-government), and even for organizations such as non-profits or educational institutions. 
 
-* Factoring is a form of business financing that doesn’t add debt to a business
+* Factoring is a form of business financing that doesn’t add debt to a business.
 * With invoice factoring it’s the credit of your customer that’s key. That’s because they are the ones paying the bill.
 * Startups and new businesses with AR are welcome.
 * World-class AR management by a partner firm with 25 years of experience. This is one of the perks of obtaining debt-free financing through Spearfish.
