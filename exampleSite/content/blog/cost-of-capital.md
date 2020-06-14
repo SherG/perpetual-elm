@@ -27,7 +27,7 @@ The calculator offers options ranging from 1.5% to 10%. Let’s choose 3% to see
 | 18 months   | $19,125.00 |
 
 
-Depending upon the details of your offer, you may or may not have a choice of term length. 
+<br/>Depending upon the details of your offer, you may or may not have a choice of term length. 
 
 ## ROI Context
 
