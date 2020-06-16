@@ -35,6 +35,7 @@ By contrast, if you obtain factoring through Spearfish, your AR will be protecte
 Factoring ensures that you obtain the cash flow and working capital needed for your business, and credit risk insurance protects you against your customers’ insolvency. 
 
 ### Related reading
+<br/>
 
-<p><a href="https://www.bloomberg.com/news/articles/2020-05-07/wave-of-bankruptcies-builds-as-debt-and-virus-clobber-companies?sref=9Bl7eBfE" target="blank">Wave of U.S. Bankruptcies Builds Toward Worst Run in Many Years</a> - Bloomberg</p><br/>
+<p><a href="https://www.bloomberg.com/news/articles/2020-05-07/wave-of-bankruptcies-builds-as-debt-and-virus-clobber-companies?sref=9Bl7eBfE" target="blank">Wave of U.S. Bankruptcies Builds Toward Worst Run in Many Years</a> - Bloomberg</p>
 <p>“Everyone’s distressed watch list has become so big that it doesn’t even make sense to call it a watch list -- it’s everyone. You turn page after page and it’s all red. It’s a sea of red.” - Derek Pitts, head of debt advisory and restructuring at PJ Solomon</p>
