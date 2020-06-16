@@ -11,7 +11,7 @@ The good news is that businesses that use a particular type of factoring can pro
 
 ## What is Factoring? 
 
-Factoring is a form of debt-free financing where you sell your 30-, 60-, or 90-day B2B or B2G invoices to a factor for immediate cash. Typically, 80%-90% of the value of the invoices is advanced immediately. 
+Factoring is a form of financing where you sell your 30-, 60-, or 90-day B2B or B2G invoices to a factor for immediate cash. Typically, 80%-90% of the value of the invoices is advanced immediately. 
 
 Your factor will manage your AR and your customers will pay their invoices to the factor. 
 Once your customer pays their invoice, the factor provides the remaining amount to you, minus a fee. 
@@ -32,7 +32,7 @@ However a business with a small client base may find that credit risk insurance 
 
 By contrast, if you obtain factoring through Spearfish, your AR will be protected automatically by credit risk insurance held by our financial partner. They’ve leveraged their stellar credit to obtain this credit risk policy
 
-Factoring ensures that you obtain the cash flow and working capital needed for your business, and credit risk insurance protects you against your customers’ insolvency. 
+Factoring ensures that you obtain the cash flow and working capital needed for your business, and credit risk insurance protects you against your customers’ insolvency. Factoring that includes credit risk insurance is debt-free financing. 
 
 <em>We invite you to book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff to learn more.</em>
 
