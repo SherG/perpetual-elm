@@ -59,8 +59,10 @@ The recent development of the Paycheck Protection Program (<a href="https://www.
 
 <em>Looking for financing options? Book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.</em><br/>
 
+<p></p>
 
 ### Related reading
+<p></p>
 
 <p><a href="https://www.kansascityfed.org/research/indicatorsdata/smallbusinesslendingsurvey/articles/2020/fourth-quarter-2019-small-business-lending-survey" target="blank">Federal Reserve: Small Business Lending Survey</a></p>
 
