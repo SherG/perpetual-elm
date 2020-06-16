@@ -6,7 +6,7 @@ draft: false
 
 Regardless of the type of business financing you have been offered, it’s critical to know what the total cost of capital is for that deal and to assess it in the context of projected ROI. 
 
-Spearfish specializes in securing factoring, PO financing, and supply chain financing for our clients, with rates as low as 1%. These forms of financing are not debt-based. That makes them unique. 
+Spearfish specializes in securing factoring, PO financing, and supply chain financing for our clients, with rates as low as 1%. Thanks to credit risk insurance, factoring through Spearfish adds no debt to your balance sheet. 
 
 ## Debt-based financing
 
