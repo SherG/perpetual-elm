@@ -15,11 +15,11 @@ Work-in-progress (WIP) refers to the phase of manufacturing where components are
 
 Through Spearfish, you may be able to obtain WIP financing. Here’s an example of how it works. 
 
-Let’s say you manufacture ambulances and these are built on a Ford Transit or Mercedes Benz Sprinter chassis. 
+Let’s say you manufacture ambulances that are built on Ford Transit or Mercedes Benz Sprinter chassis. 
 
-* A WIP financer may use their credit to purchase the chassis for those pre-sold ambulances. 
+* A WIP financer can use their credit to purchase the chassis for those pre-sold ambulances. 
 * Once the ambulances are delivered, and an invoice is generated, your invoice can be factored.
 * You receive between 80%-90% of the total amount the customer owes you. The WIP financier is paid out of that. 
-* Once the customer pays their invoice in full you receive the remaining amount minus the invoice factoring fee. 
+* Once the customer pays their invoice in full you receive the remaining amount minus the small invoice factoring fee. 
 
 Learn more: book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
