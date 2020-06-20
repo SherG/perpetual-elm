@@ -33,3 +33,7 @@ First, recall that factoring offered through Spearfish is not for B2C businesses
 Underwriting standards for factoring are not lax. Indeed our financial partners are meticulous and exacting in their underwriting. This is why the related default rate is less than 0.05%. 
 
 To learn more book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
+
+### Related reading
+
+<p><a href="/blog/wip-financing/">What is WIP Financing?</a></p>
