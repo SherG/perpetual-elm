@@ -34,6 +34,8 @@ Underwriting standards for factoring are not lax. Indeed our financial partners 
 
 To learn more book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
 
+
+
 ### Related reading
 
-<p><a href="/blog/wip-financing/">What is WIP Financing?</a></p>
+<p><a href="/blog/cost-of-capital/">Cost of Capital and ROI</a></p>
