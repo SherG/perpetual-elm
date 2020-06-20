@@ -16,4 +16,4 @@ In CAD financing a third party, namely a bank or factor, provides a type of escr
 
 CAD mitigates the risk of cross-border transactions disputes that can be costly to resolve. 
 
-To learn more about CAD financing, book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
+To learn more about CAD financing, book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with us.
