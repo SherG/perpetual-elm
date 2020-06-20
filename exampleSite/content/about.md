@@ -58,4 +58,4 @@ Spearfish is a trade name of Spearfish Capital Funding LLC, a small business bas
 
 We are registered with the state of New Hampshire as an independent sales organization offering factor broker and loan broker services to small and medium-sized businesses.
 
-View our [business registration](https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=658122).
+View our <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=658122" target="blank">business registration</a>.
