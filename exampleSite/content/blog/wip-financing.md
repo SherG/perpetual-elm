@@ -23,3 +23,8 @@ Let’s say you manufacture ambulances that are built on Ford Transit or Mercede
 * Once the customer pays their invoice in full you receive the remaining amount minus the small invoice factoring fee. 
 
 Learn more: book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
+
+
+### Related reading
+<p></p>
+<p><a href="/blog/cad-financing/">What is CAD (Cash Against Documents) Financing?</a></p>
