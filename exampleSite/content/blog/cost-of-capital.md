@@ -6,17 +6,23 @@ draft: false
 
 Regardless of the type of business financing you have been offered, it’s critical to know what the total cost of capital is for that deal and to assess it in the context of projected ROI. 
 
-Spearfish specializes in securing factoring, PO financing, and supply chain financing for our clients, with rates as low as 1%. Thanks to credit risk insurance, factoring through Spearfish adds no debt to your balance sheet. 
+Spearfish specializes in securing factoring, PO financing, and supply chain financing for our clients. Typically rates range from little over 1% - 3%. Total cost of capital is made transparent when an offer is presented.
+
+Thanks to credit insurance, factoring through Spearfish adds no debt to your balance sheet, making it a unique form of financing. 
+
+B2B and B2G businesses should consider forms of financing that are not loans and do not add debt. Interested parties are invited to schedule a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consultation</a>  with us to explore these alternatives. 
+
+Fees for debt-based financing can quickly add up. Let's take a look at some examples. 
 
 ## Debt-based financing
 
-Many business owners seek debt-based financing from online providers. And it's not always easy to calculate total cost of capital.
+Many business owners do seek debt-based financing and increasingly, from online providers. In these scenarios it's not always easy to calculate total cost of capital.
 
 Some online lenders provide online calculators to give a general sense of the range of rates. Let’s take as an example, a 50k term loan from one of the best-known online providers. 
 
 This particular provider uses what they call a “fee rate” which is expressed as a percentage. (On their website they provide an explanation of how this “fee rate” is calculated.)
 
-The calculator offers options ranging from 1.5% to 10%. Let’s choose 3% to see what our total cost will be. The loan terms are 6, 12, or 18 months.
+The calculator offers options ranging from 1.5% to 10%. Let’s choose 3% -- which sounds low -- to see what our total cost will be. The loan terms offered by that provider are 6, 12, or 18 months.
 
 | Term length | Total fees |
 |-------------|------------|
@@ -41,7 +47,9 @@ Consider:
 
 The 18-month loan comes with a $19,125.00 price tag. Let’s imagine that the owner has carefully calculated a lowball ROI of $125k on this loan. In this scenario, the owner will come out over $105,000 ahead if the loan is taken. Put another way, the business owner pays $19,125.00 in order to earn a profit of approximately $105k. 
 
-Can the business owner do better? It depends on what types of financing the owner qualifies for, and what the total cost of capital is for those other offers. 
+Of course there's inherent risk here: namely, that the low-ball ROI projections hold true, and no unforeseen risks arise, such as the spread of the coronavirus pandemic, which few businesses were well-positioned to ride out.
+
+Can the business owner do better that this offer? It depends on what types of financing the owner qualifies for, and what the total cost of capital is for those other offers. 
 
 ## Online lenders' fees 
 
