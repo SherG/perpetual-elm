@@ -14,4 +14,6 @@ In CAD financing a third party, namely a bank or factor, provides a type of escr
 * After the importer approves of the goods, he initiates payment to the third party, who then pays the exporter.
 * After the payment is complete, the goods and title are released to the importer.
 
-CAD alleviates cross-border transactions disputes that can be costly to resolve. 
+CAD mitigates the risk of cross-border transactions disputes that can be costly to resolve. 
+
+To learn more about CAD financing, book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
