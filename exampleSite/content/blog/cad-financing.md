@@ -16,7 +16,7 @@ In CAD financing a third party, namely a bank or factor, provides a type of escr
 
 CAD mitigates the risk of cross-border transactions disputes that can be costly to resolve. 
 
-Banks may charge higher fees for CAD services and may lack the export-import expertise held by veteran factoring companies. Spearfish can assist you in determining the right type of export-import solution and match you with the right provider. 
+Banks may charge higher fees for CAD services and may lack the export-import expertise held by veteran factoring companies. Spearfish can facilitate your CAD deal, assist you in determining the right type of export-import solution and match you with the right provider -- free of charge.
 
 To learn more about CAD financing, book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with us.
 
