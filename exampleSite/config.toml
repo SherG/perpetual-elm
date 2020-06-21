@@ -1,4 +1,4 @@
-title = "Spearfish"
+title = "Spearfish | Fast funding for small business"
 baseURL = "www.spearfishcap.com"
 languageCode = "en-us"
 themesDir = "../.."
@@ -14,7 +14,7 @@ google_tag_manager_id = ""
   alt = "spearfish logo"
 
   [params.homepage_meta_tags]
-  meta_description = "Fast funding for small business. Same day or 24-72 hour turnaround possible. Good credit, bad credit, no credit."
+  meta_description = "Get business financing that adds no debt to your balance sheet. Includes credit protection against customers who may go bankrupt before they pay you. "
   meta_og_title = "Spearfish: Fast funding for small business"
   meta_og_type = "website"
   meta_og_url = "https://www.spearfishcap.com"
