@@ -10,7 +10,7 @@ Indeed, much of our business comes from banks who refer their eligible turndowns
 
 ## Factors Leading to Ineligibility
 
-Traditional banks, like all lenders, need to assess risk before lending. Small businesses are typically viewed as high-risk. In addition, businesses in certain niches that operate on razor-thin margins might be viewed unfavorably. 
+Traditional banks, like all lenders, need to assess risk before lending. Small businesses are typically viewed as high-risk. In addition, businesses in certain niches or that operate on razor-thin margins may be viewed unfavorably. 
 
 Banks also tend to view businesses with just one or two large clients as too risky.
 
