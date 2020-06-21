@@ -27,3 +27,6 @@ They will focus on ensuring that there are no errors in the invoicing process. A
 Our team can also serve as your credit manager, saving you $50,000 - $60,000 a year on hiring one. For example, the team can review your top prospects’ credit, based on extensive data we have access to, and make recommendations to your sales team on who to prioritize. 
 
 This helps businesses to avoid sinking resources into onboarding new clients that may result in charge-offs. 
+
+
+Sound interesting? We invite you to book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with us to learn more.
