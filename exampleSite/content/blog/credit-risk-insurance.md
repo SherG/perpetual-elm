@@ -22,15 +22,15 @@ But what happens if a customer fails to pay their invoice? Some factors not only
 
 Some of these companies offer installment payment plans, which require you to pay back the full amount of the invoice plus fees if your customers fail to pay their invoices. This scenario can lead to a debt spiral. 
 
-## Trade Risk Insurance
+## Credit Insurance
 
-Businesses that take advantage of invoice factoring need to be protected against the potential bankruptcy of their customers. That’s where trade risk insurance (or credit risk insurance) comes in. 
+Businesses that take advantage of invoice factoring need to be protected against the potential bankruptcy of their customers. That’s where credit risk insurance (also called trade credit insurance) comes in. 
 
 However a business with a small client base may find that credit risk insurance comes at a steep price.
 
 ## Non-Recourse Factoring
 
-By contrast, if you obtain factoring through Spearfish, your AR will be protected automatically by credit risk insurance held by our financial partner. They’ve leveraged their stellar credit to obtain this credit risk policy
+By contrast, if you obtain factoring through Spearfish, your AR will be protected automatically by credit risk insurance held by our financial partner. They’ve leveraged their stellar credit to obtain this credit risk policy at neglible rates.
 
 Factoring ensures that you obtain the cash flow and working capital needed for your business, and credit risk insurance protects you against your customers’ insolvency. Factoring that includes credit risk insurance is debt-free financing. 
 
