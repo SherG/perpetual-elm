@@ -8,7 +8,10 @@ When you get factoring through Spearfish, you also get world class AR management
 
 ## What Is Invoice Factoring? 
 
-Invoice factoring is a form of business financing that adds no debt to your balance sheet. We arrange for our financial partners to buy your invoices. Depending upon the specifics of your case, you’ll receive 80%-90% of the value immediately. You receive the remaining amount when your customers pay, minus a small fee for the factoring service. 
+Invoice factoring is a form of business financing that adds no debt to your balance sheet. We arrange for our financial partners to buy your invoices. 
+
+* Depending upon the specifics of your case, you’ll receive 80%-90% of the value of your invoices immediately. 
+* You receive the remaining amount when your customers pay, minus a small fee for the factoring service. 
 
 ## Protection Against Your Customers’ Bankruptcy
 
