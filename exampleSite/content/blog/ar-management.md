@@ -16,6 +16,8 @@ This is called “non-recourse” factoring and the majority of factoring compan
 
 Only non-recourse factoring offers business financing that doesn’t add debt to your balance sheet. 
 
+<em>Note: credit risk insurance is also referred to as trade credit insurance, business credit insurance, or simply credit insurance.</em>
+
 ## Professional AR Management
 
 Once you enter into a factoring agreement, your customers will pay their invoices directly to our financial partners. We have a world class team with over 20 years of experience, that operates as your de facto AR department. 
@@ -31,5 +33,3 @@ This helps businesses to avoid sinking resources into onboarding new clients tha
 
 Sound interesting? We invite you to book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with us to learn more.
 
-
-<em>Note: credit risk insurance is also referred to as trade credit insurance, business credit insurance, or simply credit insurance.</em>
