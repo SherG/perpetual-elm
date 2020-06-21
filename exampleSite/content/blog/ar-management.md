@@ -37,7 +37,7 @@ This helps businesses to avoid sinking resources into onboarding new clients tha
 <br/>
 
 Sound interesting? We invite you to book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with us to learn more.
-<br/>
+<p></p>
 ### Related reading
 <p></p>
 <a href="https://www.spearfishcap.com/blog/credit-risk-insurance/" target="blank">Credit Risk Insurance</a>
