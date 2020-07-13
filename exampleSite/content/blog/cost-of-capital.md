@@ -49,7 +49,7 @@ The 18-month loan comes with a $19,125.00 price tag. Letâ€™s imagine that the ow
 
 Of course there's inherent risk here: namely, that the low-ball ROI projections hold true, and no unforeseen risks arise, such as the spread of the coronavirus pandemic, which few businesses were well-positioned to ride out.
 
-Can the business owner do better that this offer? It depends on what types of financing the owner qualifies for, and what the total cost of capital is for those other offers. 
+Can the business owner do better than this offer? It depends on what types of financing the owner qualifies for, and what the total cost of capital is for those other offers. 
 
 ## Online lenders' fees 
 
@@ -57,13 +57,13 @@ Since online lenders vary considerably in the ways that they calculate fees, itâ
 
 As an example, another online lender does not provide an online calculator, and charges a flat 15% fee on top of other fees. And yet, even though "15%" sounds much higher than "3%," for those with good credit the latter deal would likely have a much lower cost of capital. 
 
-Those with stellar credit would ordinarily choose to obtain a loan from a community or other bank, due to the low rates available. However, if the owners has been in business for under two years, they would not be likely to qualify for such loan. And if they need the funds immediately, they would look to other sources.
+Those with stellar credit would ordinarily choose to obtain a loan from a community or other bank, due to the low rates available. However, if the owner has been in business for under two years, they would not be likely to qualify for such loan. And if they need the funds immediately, they would look to other sources.
 
 ## SBA loans and bank loans
 
 If debt-based financing is what you are seeking, your best bet is a traditional bank loan or SBA loan. Typically, these loans are harder to qualify for, take much longer or process than online loans, require considerable paperwork, and require good credit. 
 
-The recent development of the Paycheck Protection Program (<a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20200406a.htm" target="blank">PPP</a>) has altered many of these standards for SBA loans. The bottom line, is, the best deals on term loans are usually from traditioal banks and SBA loans (which are also provided by banks). 
+The recent development of the Paycheck Protection Program (<a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20200406a.htm" target="blank">PPP</a>) has altered many of these standards for SBA loans. The bottom line, is, the best deals on term loans are usually from traditional banks and SBA loans (which are also provided by banks). 
 
 <em>Looking for financing options? Book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.</em><br/>
 
