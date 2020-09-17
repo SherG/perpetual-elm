@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 ---
 # Solve for <br/>uncertainty
 
-## Turn your B2B and B2G invoices into immediate cash. Get credit risk protection. Solve for supply chain financing.
+## Turn your B2B and B2G invoices into immediate cash. Get credit risk protection. Obtain supply chain financing.
