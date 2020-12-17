@@ -3,7 +3,7 @@ title: About
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
-As the coronavirus advances, volatility in the markets has increased, and a supply and demand shock looms. Enterprises must manage for cash flow under challenging conditions.
+As the coronavirus has advanced, we've seen volatility in the markets  and twin supply and demand shocks. As the second wave spreads, enterprises continue to manage for cash flow under challenging conditions.
 
 Spearfish works with businesses and trading houses to quickly optimize their cash flow and solve supply chain financing problems. 
 
