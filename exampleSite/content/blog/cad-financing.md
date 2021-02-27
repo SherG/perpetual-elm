@@ -29,7 +29,7 @@ To learn more about CAD financing, book a <a href="https://calendly.com/spearfis
     </div>
   </div>
   <div class="call-box-bottom">
-    <a href="https://calendly.com/spearfish/consultation" target="blank" class="button">Get started</a>
+    <a href="https://calendly.com/spearfish/consultation" target="blank" class="btn">Get started</a>
   </div>
 </div>
 
