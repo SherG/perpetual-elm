@@ -4,6 +4,10 @@ date: 2020-03-15T04:00:00.000Z
 draft: false
 ---
 
+<form action="https://www.google.com/search" method="get">
+  <input type="search" name="q" value="site:https://www.spearfishcap.com " autofocus size="50">
+  <input type="submit" value="Search">
+</form>
 
 Cash Against Documents (CAD) is a form of financing that reduces transactional risk for exporters and importers. It’s used in scenarios where the importer is a new entity, or relatively unknown to the exporter, or is lacking in sufficient credit. CAD is initiated by the exporter/seller. 
 
