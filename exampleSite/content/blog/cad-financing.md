@@ -5,7 +5,7 @@ draft: false
 ---
 
 <form action="https://www.google.com/search" method="get">
-  <input type="search" name="q" value="site:https://www.spearfishcap.com " autofocus size="50">
+  <input type="search" name="q" value="site:https://www.spearfishcap.com" autofocus size="50">
   <input type="submit" value="Search">
 </form>
 
