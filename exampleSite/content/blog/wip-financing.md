@@ -42,3 +42,4 @@ Let’s say you manufacture ambulances that are built on Ford Transit or Mercede
 ### Related reading
 <p></p>
 <p><a href="/blog/cad-financing/">What is CAD (Cash Against Documents) Financing?</a></p>
+<p><a href="/blog/ar-management/">AR management, bundled with your factoring</a></p>
