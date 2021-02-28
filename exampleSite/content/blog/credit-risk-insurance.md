@@ -53,7 +53,7 @@ Factoring ensures that you obtain the cash flow and working capital needed for y
 </div>
 
 <br/>
-
+<br/>
 ### Related reading
 <p></p>
 <p><a href="https://www.bloomberg.com/news/articles/2020-05-07/wave-of-bankruptcies-builds-as-debt-and-virus-clobber-companies?sref=9Bl7eBfE" target="blank">Wave of U.S. Bankruptcies Builds Toward Worst Run in Many Years</a> - Bloomberg</p>
