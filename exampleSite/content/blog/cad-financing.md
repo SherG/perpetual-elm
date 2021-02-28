@@ -21,15 +21,15 @@ To learn more about CAD financing, book a <a href="https://calendly.com/spearfis
 
 <div class="call">
   <div class="call-box-top">
-    <div class="call-phone"><strong>Phone: </strong> <a href="tel:855-401-1888">{{ .Site.Data.contact.phone }}</a> </div>
+    <div class="call-phone"><strong>Phone: </strong> <a href="tel:855-401-1888">&#43;1(855) 401-1888</a> </div>
     <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .Site.Data.contact.email }}">
-        {{ .Site.Data.contact.email }}
+      <a href="mailto:funds@spearfishcap.com">
+        funds@spearfishcap.com
       </a>
     </div>
   </div>
   <div class="call-box-bottom">
-    <a href="{{ "https://calendly.com/spearfish/consultation" | relURL }}" target="blank" class="button">Get started</a>
+    <a href="https://calendly.com/spearfish/consultation" target="blank" class="button">Get started</a>
   </div>
 </div>
 
