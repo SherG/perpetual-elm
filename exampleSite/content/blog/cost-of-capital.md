@@ -87,7 +87,7 @@ The recent development of the Paycheck Protection Program (<a href="https://www.
 
 ### Related reading
 <p></p>
-
+<p><a href="/blog/ar-management/">AR management, bundled with your factoring</a></p>
 <p><a href="https://www.kansascityfed.org/research/indicatorsdata/smallbusinesslendingsurvey/articles/2020/fourth-quarter-2019-small-business-lending-survey" target="blank">Federal Reserve: Small Business Lending Survey</a></p>
 
 <p><a href="https://www.fedsmallbusiness.org/" target="blank">Fed Small Business</a></p>
