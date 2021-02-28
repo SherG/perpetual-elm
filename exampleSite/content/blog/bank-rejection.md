@@ -32,9 +32,24 @@ First, recall that factoring offered through Spearfish is not for B2C businesses
 
 Underwriting standards for factoring are not lax. Indeed our financial partners are meticulous and exacting in their underwriting. This is why the related default rate is less than 0.05%. 
 
-To learn more book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
+To learn more book a phone consulation with one of our staff.
 
 
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-phone"><strong>Phone: </strong> <a href="tel:855-401-1888">&#43;1(855) 401-1888</a> </div>
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:funds@spearfishcap.com">
+        funds@spearfishcap.com
+      </a>
+    </div>
+  </div>
+  <div class="call-box-bottom">
+    <a href="https://calendly.com/spearfish/consultation" target="blank" class="button">Get started</a>
+  </div>
+</div>
+
+<br/>
 
 ### Related reading
 
