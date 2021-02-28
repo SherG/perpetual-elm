@@ -53,4 +53,5 @@ To learn more book a phone consulation with one of our staff.
 
 ### Related reading
 
+<p><a href="/blog/ar-management/">AR management, bundled with your factoring</a></p>
 <p><a href="/blog/cost-of-capital/">Cost of Capital and ROI</a></p>
