@@ -36,6 +36,8 @@ Factoring ensures that you obtain the cash flow and working capital needed for y
 
 <em>We invite you to book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff to learn more.</em>
 
+<br/>
+
 <div class="call">
   <div class="call-box-top">
     <div class="call-phone"><strong>Phone: </strong> <a href="tel:855-401-1888">&#43;1(855) 401-1888</a> </div>
