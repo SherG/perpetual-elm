@@ -36,8 +36,24 @@ Our team can also serve as your credit manager, saving you $50,000 - $60,000 a y
 This helps businesses to avoid sinking resources into onboarding new clients that may result in charge-offs. 
 <br/>
 
-Sound interesting? We invite you to book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with us to learn more.
-<p></p>
+Sound interesting? We invite you to book a phone consulation with us to learn more.
+
+
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-phone"><strong>Phone: </strong> <a href="tel:855-401-1888">&#43;1(855) 401-1888</a> </div>
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:funds@spearfishcap.com">
+        funds@spearfishcap.com
+      </a>
+    </div>
+  </div>
+  <div class="call-box-bottom">
+    <a href="https://calendly.com/spearfish/consultation" target="blank" class="button">Get started</a>
+  </div>
+</div>
+
+<br/>
 ### Related reading
 <p></p>
 <a href="https://www.spearfishcap.com/blog/credit-risk-insurance/" target="blank">Credit Risk Insurance</a>
