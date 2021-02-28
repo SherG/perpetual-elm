@@ -22,8 +22,22 @@ Let’s say you manufacture ambulances that are built on Ford Transit or Mercede
 * You receive between 80%-90% of the total amount the customer owes you. The WIP financier is paid out of that. 
 * Once the customer pays their invoice in full you receive the remaining amount minus the small invoice factoring fee. 
 
-Learn more: book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.
 
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-phone"><strong>Phone: </strong> <a href="tel:855-401-1888">&#43;1(855) 401-1888</a> </div>
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:funds@spearfishcap.com">
+        funds@spearfishcap.com
+      </a>
+    </div>
+  </div>
+  <div class="call-box-bottom">
+    <a href="https://calendly.com/spearfish/consultation" target="blank" class="button">Get started</a>
+  </div>
+</div>
+
+<br/>
 
 ### Related reading
 <p></p>
