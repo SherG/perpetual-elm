@@ -67,7 +67,7 @@ The recent development of the Paycheck Protection Program (<a href="https://www.
 
 <em>Looking for financing options? Book a <a href="https://calendly.com/spearfish/consultation?month=2020-06" target="blank">free phone consulation</a> with one of our staff.</em><br/>
 
-
+<br/>
 
 <div class="call">
   <div class="call-box-top">
@@ -84,6 +84,7 @@ The recent development of the Paycheck Protection Program (<a href="https://www.
 </div>
 
 <br/>
+
 ### Related reading
 <p></p>
 
