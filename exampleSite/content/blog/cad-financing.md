@@ -39,12 +39,3 @@ To learn more about CAD financing, book a <a href="https://calendly.com/spearfis
 <p></p>
 <p><a href="/blog/wip-financing/">What is WIP (work-in-progress) Financing?</a></p>
 <p><a href="/blog/ar-management/">AR management, bundled with your factoring</a></p>
-
-The code below is a temporary website test
-<details>
-  <summary>What is React?</summary><br/>
-   <ul class="highlight2">
-     <li>Text goes here</li>
- </ul>
-
-</details>
