@@ -3,7 +3,7 @@ title: About
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
-As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. As the second wave spreads, enterprises continue to manage for cash flow under challenging conditions.
+As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. Enterprises continue to manage for cash flow under challenging conditions.
 
 Spearfish works with businesses and trading houses to quickly optimize their cash flow and solve supply chain financing problems. 
 
@@ -55,3 +55,7 @@ We're about to enter a new global recession.  And we can expect new innovations 
 ## We're Based in New Hampshire
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.
+
+We are registered with the state of New Hampshire as an independent sales organization offering factor broker and loan broker services to small and medium-sized businesses.
+
+View our <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=658122" target="blank">business registration</a> and <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=660985">trade name filing</a>.
