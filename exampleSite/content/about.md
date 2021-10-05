@@ -3,7 +3,7 @@ title: About
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
-As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. As of October 2021, supply chain problems continue, marked by energy shortages impacting mining and manufacturing, ocean freight delays and backups, and transportation capacity issues.
+As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. As of October 2021, supply chain problems continue, marked by energy shortages impacting mining and manufacturing, ocean freight delays and backups, and transportation capacity decline. Warehousing and storage are also in a crunch. Logistics prices in aggregate reached an all-time high in September according to the Logistics Manager's Index (LMI).
 
 Enterprises continue to manage for cash flow under challenging conditions.
 
