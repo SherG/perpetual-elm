@@ -3,7 +3,9 @@ title: About
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
-As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. Enterprises continue to manage for cash flow under challenging conditions.
+As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. As of October 2021, supply chain problems continue, marked by energy shortages impacting mining and manufacturing, ocean freight delays and backups, and transportation capacity issues.
+
+Enterprises continue to manage for cash flow under challenging conditions.
 
 Spearfish works with businesses and trading houses to quickly optimize their cash flow and solve supply chain financing problems. 
 
