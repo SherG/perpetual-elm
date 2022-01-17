@@ -44,6 +44,3 @@ Let’s say you manufacture ambulances that are built on Ford Transit or Mercede
 <p><a href="/blog/cad-financing/">What is CAD (Cash Against Documents) Financing?</a></p>
 <p><a href="/blog/ar-management/">AR management, bundled with your factoring</a></p>
 
-
-Temporary code test: 1/17
-<div><div rel="commodity-price-graph" style="width: 720px; max-width: 100%; height: 450px; display: flex; flex-direction: column; overflow: hidden;" data-symbol="XAU/USD" data-range="4" data-width="720" data-height="450" data-micro-limit-ts="1642464000000" data-macro-limit-ts="1610928000000" data-title="Gold Spot / US Dollar"></div><a href="https://commodity.com"><img width="128" height="38" alt="Commodity.com" src="https://commodity.com/wp-content/plugins/commodity-price-graph/assets/commodity-logo.png"></a><script src="https://commodity.com/wp-content/plugins/commodity-price-graph/widget-js/embed-v3.js" rel="commodity-price-graph-js"></script></div>
