@@ -34,7 +34,7 @@ All factoring deals brokered through Spearfish include credit risk insurance. Th
 
 ## Advisory Services and Consulting
 
-We can structure deals that include various forms of financing such as SBA loans. Tell us about your situation and goals and we'll advise on smart options. 
+We can structure deals that include various forms of financing. Tell us about your situation and goals and we'll advise on smart options. 
 
 From there we'll handle the application process and work with our financial partners to provide funding solutions to those who qualify.
 
@@ -58,6 +58,6 @@ We're about to enter a new global recession.  And we can expect new innovations 
 
 Spearfish is a trade name of Spearfish Capital Funding LLC, a small business based in the Middle Connecticut River Valley of New Hampshire.
 
-We are registered with the state of New Hampshire as an independent sales organization offering factor broker and loan broker services to small and medium-sized businesses.
+Founded by Sherrie Gossett, Spearfish is registered with the state of New Hampshire as an independent sales organization offering factor broker and loan broker services to small and medium-sized businesses.
 
 View our <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=658122" target="blank">business registration</a> and <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=660985">trade name filing</a>.
