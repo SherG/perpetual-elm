@@ -4,7 +4,7 @@ date: 2019-10-22T06:01:43.873Z
 ---
 All illustrations are courtesy of artist <a href="https://twitter.com/ninalimpi" target="blank">Katerina Limpitsouni</a>.
 
-This is a <a href="https://jamstack.org/" target="blank">JAMstack</a> site using a Zerostatic theme and it runs on <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>.<br/>
+This is a <a href="https://jamstack.org/" target="blank">JAMstack</a> site using a Zerostatic theme and it runs on <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a>.<br/><br/>
 
 <div class="kb-club">
   <a target="blank" href="https://512kb.club"><span class="kb-club-no-bg">512KB Club</span><span class="kb-club-bg">Blue Team</span></a>
