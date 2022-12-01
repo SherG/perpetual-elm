@@ -270,3 +270,5 @@ If you have any questions regarding these Terms and Conditions, you may contact 
 funds@spearfishcap.com
 \
 Mailing address: Spearfish P.O.Box 68, Westmoreland, NH 03467
+
+Last updated Nov. 30, 2022
