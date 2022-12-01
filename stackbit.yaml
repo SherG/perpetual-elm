@@ -1,4 +1,4 @@
-stackbitVersion: ~0.2.39
+stackbitVersion: ~0.3.0
 ssgName: custom
 buildCommand: cd exampleSite && hugo --gc --baseURL "/" --themesDir ../.. && cd ..
 publishDir: exampleSite/public
