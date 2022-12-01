@@ -167,4 +167,4 @@ Your continued use of the Platform, following the notification of such amendment
 
 If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: funds@spearfishcap.com. 
 
-Last Modified: November 30, 2022
+Last Modified: Nov. 30, 2022
