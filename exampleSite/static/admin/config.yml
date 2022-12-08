@@ -3,6 +3,10 @@ backend:
   branch: master
 media_folder: exampleSite/static/images
 public_folder: /images
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 collections:
   - name: config
     label: Config
