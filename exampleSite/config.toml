@@ -4,6 +4,11 @@ languageCode = "en-us"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 google_analytics_id = ""
 google_tag_manager_id = ""
