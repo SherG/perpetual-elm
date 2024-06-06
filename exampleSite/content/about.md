@@ -3,9 +3,9 @@ title: About
 date: 2019-10-16T06:24:49.305Z
 menu: main
 ---
-As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. Supply chain problems ensued, marked by energy shortages impacting mining and manufacturing, ocean freight delays and backups, and transportation capacity decline. Warehousing and storage are also in a crunch. 
+As the coronavirus advanced, volatility in the markets and twin supply and demand shocks ensued. Supply chain problems ensued, marked by energy shortages impacting mining and manufacturing, ocean freight delays and backups, and transportation capacity decline. Warehousing and storage were also in a crunch. 
 
-Enterprises continue to manage for cash flow under challenging conditions. These conditions may include hiring or importing products from European countries (such as Germany) where businesses have been significantly impacted by energy crises following the Ukraine-Russia conflict.
+Enterprises continue to manage for cash flow under challenging conditions. These conditions may include finding qualified personnel to hire or importing products from European countries (such as Germany) where businesses have been significantly impacted by energy crises following the Ukraine-Russia conflict.
 
 Spearfish works with businesses and trading houses to quickly optimize their cash flow and solve supply chain financing problems. 
 
@@ -60,4 +60,7 @@ Spearfish is a trade name of Spearfish Capital Funding LLC, a small business bas
 
 Founded by Sherrie Gossett, Spearfish is registered with the state of New Hampshire as an independent sales organization offering factor broker and loan broker services to small and medium-sized businesses.
 
-View our <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=658122" target="blank">business registration</a> (Enter "Spearfish Capital Funding LLC") and <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=660985">trade name filing</a> (Enter "Spearfish").
+## A Business in Good Standing
+
+* View our <a href="https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=658122" target="blank">business registration</a> (Click "Business Record Search" and enter "Spearfish") You'll see both our LLC and our Trade name listings. 
+
