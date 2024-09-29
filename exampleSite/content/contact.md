@@ -6,7 +6,9 @@ menu: main
 ---
 | Day       | Hours           |
 | --------- | --------------- |
-| M-TR      | By appointment |
+| M-TR      | 9am-2pm Eastern
+              By appointment
+              only. |
 
 <p></p><p></p>
 <hr>
