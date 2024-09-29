@@ -6,7 +6,7 @@ menu: main
 ---
 | Day       | Hours           |
 | --------- | --------------- |
-| M-TR      | By appoointment |
+| M-TR      | By appointment |
 
 <p></p><p></p>
 <hr>
